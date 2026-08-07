@@ -74,7 +74,7 @@
 ## API Blueprint
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [specifications](https://github.com/hexpm/specifications) | Specifications for using and implementing Hex protocols | hexpm | 52 |
+| 1 |  [specifications](https://github.com/hexpm/specifications) | Specifications for using and implementing Hex protocols | hexpm | 53 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -88,57 +88,57 @@
 ## Astro
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [tabler](https://github.com/tabler/tabler) | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap | tabler | 41425 |
+| 1 |  [tabler](https://github.com/tabler/tabler) | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap | tabler | 41429 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Batchfile
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | massgravel | 186188 |
+| 1 |  [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | massgravel | 186291 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LuaJIT](https://github.com/LuaJIT/LuaJIT) | Mirror of the LuaJIT git repository | LuaJIT | 5698 |
-| 2 |  [lua](https://github.com/lua/lua) | A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html | lua | 10194 |
-| 3 |  [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | FelixKratz | 12174 |
-| 4 |  [raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming | raysan5 | 34210 |
-| 5 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 147087 |
-| 6 |  [RetroArch](https://github.com/libretro/RetroArch) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. | libretro | 13474 |
-| 7 |  [warpd](https://github.com/rvaiya/warpd) | A modal keyboard-driven virtual pointer | rvaiya | 3607 |
-| 8 |  [patchelf](https://github.com/NixOS/patchelf) | A small utility to modify the dynamic linker and RPATH of ELF executables | NixOS | 4234 |
-| 9 |  [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | ventoy | 78554 |
+| 1 |  [LuaJIT](https://github.com/LuaJIT/LuaJIT) | Mirror of the LuaJIT git repository | LuaJIT | 5699 |
+| 2 |  [lua](https://github.com/lua/lua) | A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html | lua | 10199 |
+| 3 |  [SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement | FelixKratz | 12177 |
+| 4 |  [raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming | raysan5 | 34218 |
+| 5 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 147149 |
+| 6 |  [RetroArch](https://github.com/libretro/RetroArch) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. | libretro | 13479 |
+| 7 |  [warpd](https://github.com/rvaiya/warpd) | A modal keyboard-driven virtual pointer | rvaiya | 3609 |
+| 8 |  [patchelf](https://github.com/NixOS/patchelf) | A small utility to modify the dynamic linker and RPATH of ELF executables | NixOS | 4235 |
+| 9 |  [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | ventoy | 78562 |
 | 10 |  [honey-potion](https://github.com/lac-dcc/honey-potion) | Writing eBPF programs with Elixir! | lac-dcc | 294 |
 | 11 |  [boopkit](https://github.com/krisnova/boopkit) | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | krisnova | 1676 |
 | 12 |  [burrito](https://github.com/burrito-elixir/burrito) | Wrap your application in a BEAM Burrito! | burrito-elixir | 1417 |
 | 13 |  [nanos](https://github.com/nanovms/nanos) | A kernel designed to run one and only one application in a virtualized environment | nanovms | 3174 |
 | 14 |  [bakeware](https://github.com/bake-bake-bake/bakeware) | Compile Elixir applications into single, easily distributed executable binaries | bake-bake-bake | 1418 |
-| 15 |  [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | A code-searching tool similar to ack, but faster. | ggreer | 27106 |
+| 15 |  [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | A code-searching tool similar to ack, but faster. | ggreer | 27107 |
 | 16 |  [GmSSL](https://github.com/guanzhi/GmSSL) | 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱 | guanzhi | 6132 |
 | 17 |  [nif-examples](https://github.com/davisp/nif-examples) | Examples for Erlang NIFs | davisp | 105 |
 | 18 |  [jiffy](https://github.com/davisp/jiffy) | JSON NIFs for Erlang | davisp | 878 |
 | 19 |  [bytehound](https://github.com/koute/bytehound) | A memory profiler for Linux. | koute | 4796 |
-| 20 |  [wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | WebAssembly Micro Runtime (WAMR) | wasm-micro-runtime | 6055 |
+| 20 |  [wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | WebAssembly Micro Runtime (WAMR) | wasm-micro-runtime | 6056 |
 | 21 |  [mobile-ffmpeg](https://github.com/tanersener/mobile-ffmpeg) | FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit. | tanersener | 4139 |
-| 22 |  [zephyr](https://github.com/zephyrproject-rtos/zephyr) | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. | zephyrproject-rtos | 16135 |
+| 22 |  [zephyr](https://github.com/zephyrproject-rtos/zephyr) | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. | zephyrproject-rtos | 16146 |
 | 23 |  [erlang-libdecaf](https://github.com/potatosalad/erlang-libdecaf) | ed448goldilocks (libdecaf) NIF with timeslice reductions for Erlang and Elixir. | potatosalad | 32 |
-| 24 |  [timescaledb](https://github.com/timescale/timescaledb) | A time-series database for high-performance real-time analytics packaged as a Postgres extension | timescale | 23247 |
-| 25 |  [ish](https://github.com/ish-app/ish) | Linux shell for iOS | ish-app | 20269 |
+| 24 |  [timescaledb](https://github.com/timescale/timescaledb) | A time-series database for high-performance real-time analytics packaged as a Postgres extension | timescale | 23258 |
+| 25 |  [ish](https://github.com/ish-app/ish) | Linux shell for iOS | ish-app | 20273 |
 | 26 |  [tensorflex](https://github.com/anshuman23/tensorflex) | Tensorflow bindings for the Elixir programming language :muscle: | anshuman23 | 307 |
 | 27 |  [zstd](https://github.com/mvdan/zstd) | Zstandard implementation in Wuffs | mvdan | 112 |
 | 28 |  [way-cooler](https://github.com/way-cooler/way-cooler) | Wayland compositor for AwesomeWM | way-cooler | 2140 |
-| 29 |  [dunst](https://github.com/dunst-project/dunst) | Lightweight and customizable notification daemon | dunst-project | 5564 |
-| 30 |  [skhd](https://github.com/asmvik/skhd) | Simple hotkey daemon for macOS | asmvik | 8061 |
-| 31 |  [zstd](https://github.com/facebook/zstd) | Zstandard - Fast real-time compression algorithm | facebook | 27524 |
+| 29 |  [dunst](https://github.com/dunst-project/dunst) | Lightweight and customizable notification daemon | dunst-project | 5565 |
+| 30 |  [skhd](https://github.com/asmvik/skhd) | Simple hotkey daemon for macOS | asmvik | 8062 |
+| 31 |  [zstd](https://github.com/facebook/zstd) | Zstandard - Fast real-time compression algorithm | facebook | 27527 |
 | 32 |  [gozstd](https://github.com/valyala/gozstd) | go wrapper for zstd | valyala | 476 |
-| 33 |  [jq](https://github.com/jqlang/jq) | Command-line JSON processor | jqlang | 35405 |
-| 34 |  [rofi](https://github.com/davatorium/rofi) | Rofi: A window switcher, application launcher and dmenu replacement | davatorium | 16298 |
-| 35 |  [weechat](https://github.com/weechat/weechat) | The extensible chat client. | weechat | 3365 |
+| 33 |  [jq](https://github.com/jqlang/jq) | Command-line JSON processor | jqlang | 35414 |
+| 34 |  [rofi](https://github.com/davatorium/rofi) | Rofi: A window switcher, application launcher and dmenu replacement | davatorium | 16301 |
+| 35 |  [weechat](https://github.com/weechat/weechat) | The extensible chat client. | weechat | 3366 |
 | 36 |  [bitwise](https://github.com/pervognsen/bitwise) | Bitwise is an educational project where we create the software/hardware stack for a computer from scratch. | pervognsen | 5259 |
-| 37 |  [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | jarun | 21761 |
+| 37 |  [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | jarun | 21762 |
 | 38 |  [mjolnir](https://github.com/mjolnirapp/mjolnir) | Lightweight automation and productivity app for OS X | mjolnirapp | 5217 |
 
 **[⬆ Back to Index](#-contents)**
@@ -147,59 +147,59 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) | .NET Client for Telegram Bot API | TelegramBots | 3646 |
-| 2 |  [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Engine.ECS) | High-performance C# ECS | friflo | 733 |
-| 3 |  [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI | AvaloniaUI | 31290 |
+| 2 |  [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Engine.ECS) | High-performance C# ECS | friflo | 734 |
+| 3 |  [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI | AvaloniaUI | 31298 |
 | 4 |  [FluentTerminal](https://github.com/felixse/FluentTerminal) | A Terminal Emulator based on UWP and web technologies. | felixse | 9606 |
-| 5 |  [runner](https://github.com/actions/runner) | The Runner for GitHub Actions :rocket: | actions | 6164 |
-| 6 |  [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. | JustArchiNET | 13599 |
+| 5 |  [runner](https://github.com/actions/runner) | The Runner for GitHub Actions :rocket: | actions | 6167 |
+| 6 |  [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. | JustArchiNET | 13600 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [defold](https://github.com/defold/defold) | Defold is a completely free to use game engine for development of desktop, mobile and web games. | defold | 6226 |
-| 2 |  [BitNet](https://github.com/microsoft/BitNet) | Official inference framework for 1-bit LLMs | microsoft | 39815 |
-| 3 |  [LibreSprite](https://github.com/LibreSprite/LibreSprite) | Animated sprite editor &amp; pixel art tool -- Fork of the last GPLv2 commit of Aseprite | LibreSprite | 8184 |
-| 4 |  [limboai](https://github.com/limbonaut/limboai) | LimboAI - Behavior Trees and State Machines for Godot 4 | limbonaut | 2929 |
-| 5 |  [ladybird](https://github.com/LadybirdBrowser/ladybird) | Truly independent web browser | LadybirdBrowser | 64804 |
-| 6 |  [mlx](https://github.com/ml-explore/mlx) | MLX: An array framework for Apple silicon | ml-explore | 27856 |
-| 7 |  [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | godotengine | 115274 |
-| 8 |  [ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. | WerWolv | 54402 |
-| 9 |  [cdc-file-transfer](https://github.com/google/cdc-file-transfer) | Tools for synching and streaming files from Windows to Linux | google | 3392 |
+| 1 |  [defold](https://github.com/defold/defold) | Defold is a completely free to use game engine for development of desktop, mobile and web games. | defold | 6228 |
+| 2 |  [BitNet](https://github.com/microsoft/BitNet) | Official inference framework for 1-bit LLMs | microsoft | 39813 |
+| 3 |  [LibreSprite](https://github.com/LibreSprite/LibreSprite) | Animated sprite editor &amp; pixel art tool -- Fork of the last GPLv2 commit of Aseprite | LibreSprite | 8189 |
+| 4 |  [limboai](https://github.com/limbonaut/limboai) | LimboAI - Behavior Trees and State Machines for Godot 4 | limbonaut | 2932 |
+| 5 |  [ladybird](https://github.com/LadybirdBrowser/ladybird) | Truly independent web browser | LadybirdBrowser | 64836 |
+| 6 |  [mlx](https://github.com/ml-explore/mlx) | MLX: An array framework for Apple silicon | ml-explore | 27866 |
+| 7 |  [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | godotengine | 115318 |
+| 8 |  [ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. | WerWolv | 54405 |
+| 9 |  [cdc-file-transfer](https://github.com/google/cdc-file-transfer) | Tools for synching and streaming files from Windows to Linux | google | 3391 |
 | 10 |  [yacreader](https://github.com/YACReader/yacreader) | This repo contains the code of YACReader&#39;s desktop version. | YACReader | 1341 |
-| 11 |  [taichi](https://github.com/taichi-dev/taichi) | Productive, portable, and performant GPU programming in Python. | taichi-dev | 28315 |
-| 12 |  [redpanda](https://github.com/redpanda-data/redpanda) | Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! | redpanda-data | 12419 |
-| 13 |  [typesense](https://github.com/typesense/typesense) | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences | typesense | 26405 |
-| 14 |  [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows | microsoft | 31001 |
+| 11 |  [taichi](https://github.com/taichi-dev/taichi) | Productive, portable, and performant GPU programming in Python. | taichi-dev | 28321 |
+| 12 |  [redpanda](https://github.com/redpanda-data/redpanda) | Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! | redpanda-data | 12420 |
+| 13 |  [typesense](https://github.com/typesense/typesense) | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences | typesense | 26409 |
+| 14 |  [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows | microsoft | 31005 |
 | 15 |  [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) |  | FrictionalGames | 3657 |
-| 16 |  [envoy](https://github.com/envoyproxy/envoy) | Cloud-native high-performance edge/middle/service proxy | envoyproxy | 28729 |
+| 16 |  [envoy](https://github.com/envoyproxy/envoy) | Cloud-native high-performance edge/middle/service proxy | envoyproxy | 28735 |
 | 17 |  [WatchFlower](https://github.com/emericg/WatchFlower) | A plant monitoring application that reads and plots data from compatible Bluetooth sensors and thermometers like Xiaomi &#39;Flower Care&#39; or Parrot &#39;Flower Power&#39; | emericg | 229 |
 | 18 |  [fawkes](https://github.com/fawkesrobotics/fawkes) | :robot: Fawkes Robot Software Framework | fawkesrobotics | 72 |
 | 19 |  [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) | Command &amp; Conquer: Remastered Collection | electronicarts | 21383 |
-| 20 |  [scylladb](https://github.com/scylladb/scylladb) | NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB | scylladb | 15688 |
-| 21 |  [verona](https://github.com/microsoft/verona) | Research programming language for concurrent ownership | microsoft | 3725 |
-| 22 |  [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | flameshot-org | 30562 |
+| 20 |  [scylladb](https://github.com/scylladb/scylladb) | NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB | scylladb | 15689 |
+| 21 |  [verona](https://github.com/microsoft/verona) | Research programming language for concurrent ownership | microsoft | 3726 |
+| 22 |  [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: | flameshot-org | 30567 |
 | 23 |  [epsilon](https://github.com/numworks/epsilon) | Modern graphing calculator operating system. | numworks | 1942 |
-| 24 |  [rocksdb](https://github.com/facebook/rocksdb) | A library that provides an embeddable, persistent key-value store for fast storage. | facebook | 31944 |
-| 25 |  [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | microsoft | 104506 |
-| 26 |  [Waybar](https://github.com/Alexays/Waybar) | Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: | Alexays | 11737 |
+| 24 |  [rocksdb](https://github.com/facebook/rocksdb) | A library that provides an embeddable, persistent key-value store for fast storage. | facebook | 31945 |
+| 25 |  [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | microsoft | 104515 |
+| 26 |  [Waybar](https://github.com/Alexays/Waybar) | Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: | Alexays | 11740 |
 | 27 |  [Xapiand](https://github.com/Kronuz/Xapiand) | Xapiand: A RESTful Search Engine | Kronuz | 362 |
 | 28 |  [confluo](https://github.com/ucbrise/confluo) | Real-time Monitoring and Analysis of Data Streams | ucbrise | 1433 |
 | 29 |  [devilution](https://github.com/diasurgical/devilution) | Diablo devolved - magic behind the 1996 computer game | diasurgical | 8985 |
-| 30 |  [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | ocornut | 75533 |
+| 30 |  [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | ocornut | 75555 |
 | 31 |  [rethinkdb_rebirth](https://github.com/rethinkdb/rethinkdb_rebirth) | The open-source database for the realtime web. | rethinkdb | 990 |
-| 32 |  [Proton](https://github.com/ValveSoftware/Proton) | Compatibility tool for Steam Play based on Wine and additional components | ValveSoftware | 32459 |
-| 33 |  [polybar](https://github.com/polybar/polybar) | A fast and easy-to-use status bar | polybar | 15326 |
+| 32 |  [Proton](https://github.com/ValveSoftware/Proton) | Compatibility tool for Steam Play based on Wine and additional components | ValveSoftware | 32467 |
+| 33 |  [polybar](https://github.com/polybar/polybar) | A fast and easy-to-use status bar | polybar | 15327 |
 | 34 |  [cib](https://github.com/tbfleming/cib) | clang running in browser (wasm) | tbfleming | 862 |
-| 35 |  [snappy](https://github.com/google/snappy) | A fast compressor/decompressor | google | 6589 |
+| 35 |  [snappy](https://github.com/google/snappy) | A fast compressor/decompressor | google | 6591 |
 | 36 |  [sling](https://github.com/google/sling) | SLING - A natural language frame semantics parser | google | 1931 |
-| 37 |  [upx](https://github.com/upx/upx) | UPX - the Ultimate Packer for eXecutables | upx | 17757 |
+| 37 |  [upx](https://github.com/upx/upx) | UPX - the Ultimate Packer for eXecutables | upx | 17759 |
 | 38 |  [phxqueue](https://github.com/Tencent/phxqueue) | A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm. | Tencent | 1895 |
-| 39 |  [nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | NixOS | 17455 |
+| 39 |  [nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | NixOS | 17460 |
 | 40 |  [TANK](https://github.com/phaistos-networks/TANK) | A very high performance distributed log service | phaistos-networks | 939 |
-| 41 |  [grpc](https://github.com/grpc/grpc) | C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | grpc | 45256 |
-| 42 |  [osquery](https://github.com/osquery/osquery) | SQL powered operating system instrumentation, monitoring, and analytics. | osquery | 23430 |
+| 41 |  [grpc](https://github.com/grpc/grpc) | C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | grpc | 45262 |
+| 42 |  [osquery](https://github.com/osquery/osquery) | SQL powered operating system instrumentation, monitoring, and analytics. | osquery | 23436 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -207,16 +207,16 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [textfox](https://github.com/adriankarlen/textfox) | firefox theme for the tui enthusiast | adriankarlen | 1687 |
-| 2 |  [obsidian-minimal](https://github.com/kepano/obsidian-minimal) | A distraction-free and highly customizable theme for Obsidian. | kepano | 5305 |
+| 2 |  [obsidian-minimal](https://github.com/kepano/obsidian-minimal) | A distraction-free and highly customizable theme for Obsidian. | kepano | 5304 |
 | 3 |  [tachyons](https://github.com/tachyons-css/tachyons) | Functional css for humans | tachyons-css | 11714 |
 | 4 |  [obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) | A minimalist theme for Obsidian.md, with the aim of creating a serene space of retreat, for thought and uninterrupted work. | jdanielmourao | 382 |
 | 5 |  [Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme) | An Obsidian.md theme with a stark contrast between dark mode and light mode, much like the Yin and Yang symbol ☯️. | chetachiezikeuzor | 562 |
-| 6 |  [plt](https://github.com/steshaw/plt) | Programming Language Theory λΠ | steshaw | 5358 |
+| 6 |  [plt](https://github.com/steshaw/plt) | Programming Language Theory λΠ | steshaw | 5357 |
 | 7 |  [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) | A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. | cli-guidelines | 3813 |
-| 8 |  [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) | Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 | deeplearning-ai | 7846 |
+| 8 |  [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) | Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 | deeplearning-ai | 7847 |
 | 9 |  [visualixir](https://github.com/koudelka/visualixir) | A process/message visualizer for BEAM nodes.💪👁 | koudelka | 1326 |
-| 10 |  [spectre](https://github.com/picturepan2/spectre) | Spectre.css - A Lightweight, Responsive and Modern CSS Framework | picturepan2 | 11316 |
-| 11 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 64023 |
+| 10 |  [spectre](https://github.com/picturepan2/spectre) | Spectre.css - A Lightweight, Responsive and Modern CSS Framework | picturepan2 | 11315 |
+| 11 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 64027 |
 | 12 |  [bottomupcs](https://github.com/ianw/bottomupcs) | Bottom Up Computer Science | ianw | 1581 |
 | 13 |  [elixir-tips](https://github.com/blackode/elixir-tips) | The Killer Elixir Tips and Tricks...from the experience... | blackode | 1097 |
 | 14 |  [gtk-theme-collections](https://github.com/addy-dclxvi/gtk-theme-collections) | Some GTK themes for a companion to my Xfwm, Openbox, and Fluxbox themes | addy-dclxvi | 737 |
@@ -225,8 +225,8 @@
 | 17 |  [codefund](https://github.com/gitcoinco/codefund) | Deprecated. Please go to https://github.com/gitcoinco/code_fund_ads | gitcoinco | 163 |
 | 18 |  [AlgoWiki](https://github.com/vicky002/AlgoWiki) | Repository which contains links and resources on different topics of Computer Science. | vicky002 | 4229 |
 | 19 |  [Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) | Happy Hacking Emacs &amp; Spacemacs (Simplified Chinese) | emacs-china | 2117 |
-| 20 |  [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 50054 |
-| 21 |  [animate.css](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | animate-css | 82734 |
+| 20 |  [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 50053 |
+| 21 |  [animate.css](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | animate-css | 82727 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -240,18 +240,18 @@
 | 5 |  [eql](https://github.com/edn-query-language/eql) | EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements. This repository contains the base specs and definitions for EQL parsing, AST, etc. | edn-query-language | 392 |
 | 6 |  [build.edn](https://github.com/liquidz/build.edn) | Make your Clojure library build process easy. | liquidz | 92 |
 | 7 |  [aero](https://github.com/juxt/aero) | A small library for explicit, intentful configuration. | juxt | 819 |
-| 8 |  [babashka](https://github.com/babashka/babashka) | Native, fast starting Clojure interpreter for scripting | babashka | 4576 |
-| 9 |  [logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | logseq | 44301 |
+| 8 |  [babashka](https://github.com/babashka/babashka) | Native, fast starting Clojure interpreter for scripting | babashka | 4577 |
+| 9 |  [logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV | logseq | 44318 |
 | 10 |  [sequence](https://github.com/hoophq/sequence) | Immutable, scalable, and easy to use ledger service. | hoophq | 509 |
 | 11 |  [workspaces](https://github.com/nubank/workspaces) | Live development environment for Clojurescript | nubank | 521 |
 | 12 |  [athens](https://github.com/athensresearch/athens) | Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21 | athensresearch | 6299 |
 | 13 |  [Nightcode](https://github.com/oakes/Nightcode) | An IDE for Clojure | oakes | 1402 |
-| 14 |  [metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | metabase | 48566 |
+| 14 |  [metabase](https://github.com/metabase/metabase) | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: | metabase | 48587 |
 | 15 |  [yetibot](https://github.com/yetibot/yetibot) | 🤖 Extreme chatops bot for Slack, Discord, Mattermost, IRC 🔧 New contributors welcome 🏗 | yetibot | 360 |
-| 16 |  [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 81898 |
-| 17 |  [jepsen](https://github.com/jepsen-io/jepsen) | A framework for distributed systems verification, with fault injection | jepsen-io | 7462 |
-| 18 |  [leiningen](https://github.com/technomancy/leiningen) | Moved to Codeberg; this is a temporary convenience mirror | technomancy | 7296 |
-| 19 |  [ring](https://github.com/ring-clojure/ring) | Clojure HTTP server abstraction | ring-clojure | 3879 |
+| 16 |  [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures | tonsky | 81904 |
+| 17 |  [jepsen](https://github.com/jepsen-io/jepsen) | A framework for distributed systems verification, with fault injection | jepsen-io | 7464 |
+| 18 |  [leiningen](https://github.com/technomancy/leiningen) | Moved to Codeberg; this is a temporary convenience mirror | technomancy | 7295 |
+| 19 |  [ring](https://github.com/ring-clojure/ring) | Clojure HTTP server abstraction | ring-clojure | 3878 |
 | 20 |  [riemann](https://github.com/riemann/riemann) | A network event stream processing system, in Clojure. | riemann | 4268 |
 | 21 |  [quil](https://github.com/quil/quil) | Main repo. Quil source code. | quil | 3047 |
 
@@ -268,8 +268,8 @@
 ## Crystal
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [lucky](https://github.com/luckyframework/lucky) | A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts. | luckyframework | 2724 |
-| 2 |  [lavinmq](https://github.com/cloudamqp/lavinmq) | Ultra quick message queue and streaming server | cloudamqp | 986 |
+| 1 |  [lucky](https://github.com/luckyframework/lucky) | A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts. | luckyframework | 2725 |
+| 2 |  [lavinmq](https://github.com/cloudamqp/lavinmq) | Ultra quick message queue and streaming server | cloudamqp | 987 |
 | 3 |  [medup](https://github.com/miry/medup) | Download all content from Medium and Dev.to to local folder | miry | 36 |
 | 4 |  [kemal](https://github.com/kemalcr/kemal) | Fast, Effective, Simple Web Framework | kemalcr | 3903 |
 
@@ -279,14 +279,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [sossoldi](https://github.com/RIP-Comm/sossoldi) | &#34;Sossoldi&#34; is a wealth management / personal finance / Net Worth tracking app, made with Flutter. | RIP-Comm | 1388 |
-| 2 |  [flame](https://github.com/flame-engine/flame) | A Flutter based game engine. | flame-engine | 10712 |
-| 3 |  [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | AppFlowy-IO | 75023 |
-| 4 |  [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter | abuanwar072 | 7107 |
+| 2 |  [flame](https://github.com/flame-engine/flame) | A Flutter based game engine. | flame-engine | 10714 |
+| 3 |  [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. | AppFlowy-IO | 75059 |
+| 4 |  [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter | abuanwar072 | 7108 |
 | 5 |  [rxdart](https://github.com/ReactiveX/rxdart) | The Reactive Extensions for Dart | ReactiveX | 3435 |
 | 6 |  [gallery](https://github.com/flutter-team-archive/gallery) | Flutter Gallery was a resource to help developers evaluate and use Flutter | flutter-team-archive | 6575 |
 | 7 |  [ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) | Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/ | Codelessly | 1403 |
 | 8 |  [zefyr](https://github.com/memspace/zefyr) | Soft and gentle rich text editing for Flutter applications. | memspace | 2224 |
-| 9 |  [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) | completely free for everyone. Its build-in Flutter Dart. | mitesh77 | 22783 |
+| 9 |  [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) | completely free for everyone. Its build-in Flutter Dart. | mitesh77 | 22786 |
 | 10 |  [flutter-do](https://github.com/LaoMengFlutter/flutter-do) | 包含350多个组件用法、组件继承关系图、40多个 loading 组件，App升级、验证码、弹幕、音乐字幕 4个插件，一个小而全完整的App项目。 | LaoMengFlutter | 2741 |
 | 11 |  [bloc](https://github.com/felangel/bloc) | A predictable state management library that helps implement the BLoC design pattern | felangel | 12482 |
 | 12 |  [rick-and-morty-info](https://github.com/vedartm/rick-and-morty-info) | Made with Clean architecture + TDD + GraphQL + flutter_bloc + CodeCov + GitHooks + GitHub Actions (CI/CD) and finally with 💙 | vedartm | 523 |
@@ -295,9 +295,9 @@
 | 15 |  [flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) | A collection of fun Flutter experiments, created by gskinner, in partnership with Google. | gskinnerTeam | 4751 |
 | 16 |  [graphql-flutter](https://github.com/zino-hofmann/graphql-flutter) | A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package. | zino-hofmann | 3270 |
 | 17 |  [flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons) | Flutter Launcher Icons - A package which simplifies the task of updating your Flutter app&#39;s launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for and if you want, the option to keep your old launcher icon in case you want to revert back sometime in the future. Maintainer: @MarkOSullivan94 | fluttercommunity | 2119 |
-| 18 |  [flutter-go](https://github.com/alibaba/flutter-go) | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | alibaba | 23657 |
+| 18 |  [flutter-go](https://github.com/alibaba/flutter-go) | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 | alibaba | 23656 |
 | 19 |  [dartea](https://github.com/p69/dartea) | The Elm Architecture (TEA) for Flutter | p69 | 133 |
-| 20 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 178253 |
+| 20 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 178263 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -313,11 +313,11 @@
 ## Elixir
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [jido](https://github.com/agentjido/jido) | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. | agentjido | 1794 |
-| 2 |  [symphony](https://github.com/openai/symphony) | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. | openai | 26459 |
+| 1 |  [jido](https://github.com/agentjido/jido) | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. | agentjido | 1797 |
+| 2 |  [symphony](https://github.com/openai/symphony) | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. | openai | 26474 |
 | 3 |  [anubis-mcp](https://github.com/zoedsoupe/anubis-mcp) | Elixir Model Context Protocol (MCP) SDK (hermes-mcp fork) | zoedsoupe | 165 |
 | 4 |  [tucan](https://github.com/pnezis/tucan) | An Elixir plotting library on top of VegaLite | pnezis | 229 |
-| 5 |  [telegram](https://github.com/visciang/telegram) | Telegram library for the Elixir language | visciang | 247 |
+| 5 |  [telegram](https://github.com/visciang/telegram) | Telegram library for the Elixir language | visciang | 246 |
 | 6 |  [semaphore](https://github.com/semaphoreio/semaphore) | All-in-one delivery platform for AI-driven development. | semaphoreio | 1569 |
 | 7 |  [oban_met](https://github.com/oban-bg/oban_met) | Distributed, compacted, timeseries metrics with keyframes and optional persistence for Oban | oban-bg | 94 |
 | 8 |  [oban_web](https://github.com/oban-bg/oban_web) | 🧭 Oban Web live dashboard | oban-bg | 182 |
@@ -327,21 +327,21 @@
 | 12 |  [backpex](https://github.com/naymspace/backpex) | Backpex is a highly customizable administration panel for Phoenix LiveView applications. | naymspace | 844 |
 | 13 |  [telemetry_ui](https://github.com/mirego/telemetry_ui) | Telemetry based metrics UI. Take your telemetry metrics and display them in a web page. | mirego | 247 |
 | 14 |  [curl_req](https://github.com/derekkraan/curl_req) | req to curl and back | derekkraan | 73 |
-| 15 |  [langchain](https://github.com/brainlid/langchain) | Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. | brainlid | 1191 |
+| 15 |  [langchain](https://github.com/brainlid/langchain) | Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs. | brainlid | 1192 |
 | 16 |  [Orb](https://github.com/royalicing/Orb) | Write WebAssembly with Elixir | royalicing | 303 |
 | 17 |  [doggo](https://github.com/woylie/doggo) | Headless UI components for Phoenix | woylie | 398 |
 | 18 |  [live_admin](https://github.com/tfwright/live_admin) | Low-config admin UI for Phoenix apps, built on LiveView | tfwright | 298 |
-| 19 |  [supavisor](https://github.com/supabase/supavisor) | A cloud-native, multi-tenant Postgres connection pooler. | supabase | 2249 |
+| 19 |  [supavisor](https://github.com/supabase/supavisor) | A cloud-native, multi-tenant Postgres connection pooler. | supabase | 2250 |
 | 20 |  [flame](https://github.com/phoenixframework/flame) | Fleeting Lambda Application for Modular Execution: auto scale parts of your existing app with a single function call | phoenixframework | 1173 |
 | 21 |  [dns_cluster](https://github.com/phoenixframework/dns_cluster) | Simple DNS clustering for distributed Elixir nodes | phoenixframework | 243 |
 | 22 |  [live_view_native](https://github.com/liveview-native/live_view_native) | A framework for building native applications with Phoenix LiveView | liveview-native | 968 |
 | 23 |  [next-ls](https://github.com/elixir-tools/next-ls) | The language server for Elixir that just works. | elixir-tools | 731 |
 | 24 |  [elixir-styler](https://github.com/adobe/elixir-styler) | An @elixir-lang code-style enforcer that will just FIFY instead of complaining | adobe | 804 |
-| 25 |  [firezone](https://github.com/firezone/firezone) | Enterprise-ready zero-trust access platform built on WireGuard®. | firezone | 8991 |
+| 25 |  [firezone](https://github.com/firezone/firezone) | Enterprise-ready zero-trust access platform built on WireGuard®. | firezone | 8992 |
 | 26 |  [cmp](https://github.com/sabiwara/cmp) | Semantic comparison and sorting for Elixir | sabiwara | 25 |
 | 27 |  [graphvix](https://github.com/mikowitz/graphvix) | Graphviz for Elixir | mikowitz | 63 |
 | 28 |  [todo_trek](https://github.com/chrismccord/todo_trek) |  | chrismccord | 417 |
-| 29 |  [axon_onnx](https://github.com/mortont/axon_onnx) | Easily convert models between ONNX and Axon | mortont | 103 |
+| 29 |  [axon_onnx](https://github.com/mortont/axon_onnx) | Easily convert models between ONNX and Axon | mortont | 104 |
 | 30 |  [lexical](https://github.com/lexical-lsp/lexical) | Lexical is a next-generation elixir language server | lexical-lsp | 957 |
 | 31 |  [image](https://github.com/elixir-image/image) | Image processing for Elixir | elixir-image | 454 |
 | 32 |  [manifold](https://github.com/discord/manifold) | Fast batch message passing between nodes for Erlang/Elixir. | discord | 1846 |
@@ -389,7 +389,7 @@
 | 74 |  [db_connection](https://github.com/elixir-ecto/db_connection) | Database connection behaviour | elixir-ecto | 353 |
 | 75 |  [vega_lite](https://github.com/livebook-dev/vega_lite) | Elixir bindings for Vega-Lite | livebook-dev | 204 |
 | 76 |  [desktop](https://github.com/elixir-desktop/desktop) | Building Local-First apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView &amp; Elixir! | elixir-desktop | 1796 |
-| 77 |  [livebook](https://github.com/livebook-dev/livebook) | Automate code &amp; data workflows with interactive Elixir notebooks | livebook-dev | 5836 |
+| 77 |  [livebook](https://github.com/livebook-dev/livebook) | Automate code &amp; data workflows with interactive Elixir notebooks | livebook-dev | 5837 |
 | 78 |  [papercups](https://github.com/papercups-io/papercups) | Open-source live customer chat | papercups-io | 6097 |
 | 79 |  [axon](https://github.com/elixir-nx/axon) | Nx-powered Neural Networks | elixir-nx | 1687 |
 | 80 |  [castore](https://github.com/elixir-mint/castore) | Up-to-date certificate store for Elixir. 🔐 | elixir-mint | 177 |
@@ -400,14 +400,14 @@
 | 85 |  [selectrix](https://github.com/ityonemo/selectrix) | Static Typechecker for Elixir | ityonemo | 85 |
 | 86 |  [prom_ex](https://github.com/akoutmos/prom_ex) | An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards | akoutmos | 703 |
 | 87 |  [vantagex](https://github.com/sbacarob/vantagex) | Elixir wrapper for Alpha Vantage | sbacarob | 8 |
-| 88 |  [nx](https://github.com/elixir-nx/nx) | Multi-dimensional arrays (tensors) and numerical definitions for Elixir | elixir-nx | 2899 |
+| 88 |  [nx](https://github.com/elixir-nx/nx) | Multi-dimensional arrays (tensors) and numerical definitions for Elixir | elixir-nx | 2900 |
 | 89 |  [uplink](https://github.com/elixir-uplink/uplink) | A simple abstraction for standardized observability with telemetry and more in Elixir | elixir-uplink | 40 |
 | 90 |  [consul_config_provider](https://github.com/blueshift-labs/consul_config_provider) | A simple somewhat opinionated consul config provider for elixir 1.9+ releases | blueshift-labs | 8 |
 | 91 |  [doctor](https://github.com/akoutmos/doctor) | Ensure that your Elixir project documentation is healthy | akoutmos | 190 |
 | 92 |  [phoenix_html](https://github.com/phoenixframework/phoenix_html) | Building blocks for working with HTML in Phoenix | phoenixframework | 464 |
 | 93 |  [plug_crypto](https://github.com/elixir-plug/plug_crypto) | Crypto-related functionality for web applications, used by Plug. | elixir-plug | 95 |
 | 94 |  [opencensus_ecto](https://github.com/postmates/opencensus_ecto) | Create Opencensus spans from Ecto queries | postmates | 6 |
-| 95 |  [aja](https://github.com/sabiwara/aja) | Extension of the Elixir standard library focused on data stuctures, data manipulation and performance | sabiwara | 225 |
+| 95 |  [aja](https://github.com/sabiwara/aja) | Extension of the Elixir standard library focused on data stuctures, data manipulation and performance | sabiwara | 226 |
 | 96 |  [quenya](https://github.com/tyrchen/quenya) | Quenya is a framework to build high-quality REST API applications based on extended OpenAPI spec | tyrchen | 145 |
 | 97 |  [teex](https://github.com/doawoo/teex) | Use Elixir like a scripting language, across your system | doawoo | 300 |
 | 98 |  [exdgraph](https://github.com/ospaarmann/exdgraph) | gRPC based Elixir Dgraph client. Under development. | ospaarmann | 120 |
@@ -440,7 +440,7 @@
 | 125 |  [ecto_enum](https://github.com/gjaldon/ecto_enum) | Ecto extension to support enums in models | gjaldon | 569 |
 | 126 |  [devito](https://github.com/supersimple/devito) | An open-source url shortener written in Elixir and Phoenix, with no need for a separate database | supersimple | 39 |
 | 127 |  [phoenix_swoosh](https://github.com/swoosh/phoenix_swoosh) | Swoosh &amp;lt;3 Phoenix | swoosh | 281 |
-| 128 |  [cubdb](https://github.com/lucaong/cubdb) | Elixir embedded key/value database | lucaong | 652 |
+| 128 |  [cubdb](https://github.com/lucaong/cubdb) | Elixir embedded key/value database | lucaong | 653 |
 | 129 |  [elixir-type_check](https://github.com/Qqwy/elixir-type_check) | TypeCheck: Fast and flexible runtime type-checking for your Elixir projects. | Qqwy | 531 |
 | 130 |  [guides](https://github.com/subvisual/guides) |  | subvisual | 26 |
 | 131 |  [workbench](https://github.com/fremantle-industries/workbench) | From Idea to Execution - Manage your trading operation across a distributed cluster | fremantle-industries | 122 |
@@ -515,7 +515,7 @@
 | 200 |  [tai](https://github.com/fremantle-industries/tai) | A composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine | fremantle-industries | 498 |
 | 201 |  [contex](https://github.com/mindok/contex) | Charting and graphing library for Elixir | mindok | 768 |
 | 202 |  [diff](https://github.com/hexpm/diff) | Website to display diffs between Hex package versions | hexpm | 75 |
-| 203 |  [teslamate](https://github.com/teslamate-org/teslamate) | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] | teslamate-org | 8809 |
+| 203 |  [teslamate](https://github.com/teslamate-org/teslamate) | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] | teslamate-org | 8815 |
 | 204 |  [blue_bird](https://github.com/rhazdon/blue_bird) | API Documentation Generator for the Phoenix Framework | rhazdon | 57 |
 | 205 |  [nimble_strftime](https://github.com/dashbitco/nimble_strftime) | A simple and fast strftime-based datetime formatter | dashbitco | 38 |
 | 206 |  [ink](https://github.com/ivx/ink) | A Logger backend that logs JSON | ivx | 66 |
@@ -526,7 +526,7 @@
 | 211 |  [elixir_git_hooks](https://github.com/qgadrian/elixir_git_hooks) | 🪝 Add git hooks to Elixir projects | qgadrian | 180 |
 | 212 |  [wormwood](https://github.com/wormwood-elixir/wormwood) | Wormwood is a tiny library to aid in testing GraphQL queries against an Absinthe schema. It allows you to test your query documents inside ExUnit test modules, and requires no HTTP requests to occur during testing. | wormwood-elixir | 92 |
 | 213 |  [realtime](https://github.com/supabase/realtime) | Broadcast, Presence, and Postgres Changes via WebSockets | supabase | 7615 |
-| 214 |  [analytics](https://github.com/plausible/analytics) | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. | plausible | 28392 |
+| 214 |  [analytics](https://github.com/plausible/analytics) | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. | plausible | 28409 |
 | 215 |  [stream_data](https://github.com/whatyouhide/stream_data) | Data generation and property-based testing for Elixir. 🔮 | whatyouhide | 944 |
 | 216 |  [authorize](https://github.com/jfrolich/authorize) | Rule based authorization for Elixir | jfrolich | 100 |
 | 217 |  [ueberauth](https://github.com/ueberauth/ueberauth) | An Elixir Authentication System for Plug-based Web Applications | ueberauth | 1715 |
@@ -601,7 +601,7 @@
 | 286 |  [elixir-boilerplate](https://github.com/mirego/elixir-boilerplate) | ⚗ The stable base upon which we build our Elixir projects at Mirego. | mirego | 1164 |
 | 287 |  [msgpax](https://github.com/lexmag/msgpax) | High-performance and comprehensive MessagePack implementation for Elixir / msgpack.org[Elixir] | lexmag | 299 |
 | 288 |  [timber-elixir](https://github.com/vectordotdev/timber-elixir) | 🌲 Great Elixir logging made easy | vectordotdev | 213 |
-| 289 |  [exconstructor](https://github.com/appcues/exconstructor) | An Elixir library for generating struct constructors that handle external data with ease. | appcues | 294 |
+| 289 |  [exconstructor](https://github.com/appcues/exconstructor) | An Elixir library for generating struct constructors that handle external data with ease. | appcues | 295 |
 | 290 |  [lucidboard](https://github.com/djthread/lucidboard) | A realtime, collaborative kanban tool, built on Elixir, Phoenix, and LiveView. | djthread | 82 |
 | 291 |  [sweet_xml](https://github.com/kbrw/sweet_xml) |  | kbrw | 376 |
 | 292 |  [observer_live](https://github.com/zorbash/observer_live) | A port of observer_cli using LiveView | zorbash | 212 |
@@ -615,7 +615,7 @@
 | 300 |  [elixir-phoenix-realworld-example-app](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) | Exemplary real world application built with Elixir + Phoenix | gothinkster | 892 |
 | 301 |  [vex](https://github.com/CargoSense/vex) | Data Validation for Elixir | CargoSense | 600 |
 | 302 |  [mint_pool](https://github.com/fishcakez/mint_pool) |  | fishcakez | 7 |
-| 303 |  [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | Rich, real-time user experiences with server-rendered HTML | phoenixframework | 6813 |
+| 303 |  [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | Rich, real-time user experiences with server-rendered HTML | phoenixframework | 6814 |
 | 304 |  [phoenix_live_view_example](https://github.com/chrismccord/phoenix_live_view_example) |  | chrismccord | 544 |
 | 305 |  [simple_bitmap](https://github.com/tyrchen/simple_bitmap) | Simple bitmap for manipulate the bitmap, membership check, and quickly get MSB (most significant bit). | tyrchen | 4 |
 | 306 |  [elixir-google-api](https://github.com/googleapis/elixir-google-api) | Elixir client libraries for accessing Google APIs. | googleapis | 1080 |
@@ -626,7 +626,7 @@
 | 311 |  [mcc](https://github.com/ArcBlock/mcc) | Cache built via mnesia which support expiration and cluster. (mcc is &#34;mnesia cluster cache&#34;) | ArcBlock | 12 |
 | 312 |  [power_control](https://github.com/cjfreeze/power_control) | PowerControl is a library that enables runtime configuration of embedded linux for power conservation or performance via native elixir. | cjfreeze | 34 |
 | 313 |  [type_class](https://github.com/witchcrafters/type_class) | (Semi-)principled type classes for Elixir | witchcrafters | 139 |
-| 314 |  [witchcraft](https://github.com/witchcrafters/witchcraft) | Monads and other dark magic for Elixir | witchcrafters | 1234 |
+| 314 |  [witchcraft](https://github.com/witchcrafters/witchcraft) | Monads and other dark magic for Elixir | witchcrafters | 1235 |
 | 315 |  [rolodex](https://github.com/Frameio/rolodex) | 📇API Documentation Generator for Phoenix | Frameio | 37 |
 | 316 |  [alkemist](https://github.com/FLEWID-AB/alkemist) | Administration / Management tool | FLEWID-AB | 35 |
 | 317 |  [peerage](https://github.com/mrluc/peerage) | Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others. | mrluc | 398 |
@@ -667,7 +667,7 @@
 | 352 |  [molasses](https://github.com/securingsincity/molasses) | Feature toggle library for elixir | securingsincity | 77 |
 | 353 |  [clickhousex](https://github.com/clickhouse-elixir/clickhousex) | Elixir lib to work with ClickHouse database | clickhouse-elixir | 91 |
 | 354 |  [asciinema-server](https://github.com/asciinema/asciinema-server) | Platform for hosting and sharing terminal session recordings | asciinema | 2489 |
-| 355 |  [hexpm](https://github.com/hexpm/hexpm) | API server and website for Hex | hexpm | 1167 |
+| 355 |  [hexpm](https://github.com/hexpm/hexpm) | API server and website for Hex | hexpm | 1168 |
 | 356 |  [avia](https://github.com/aviacommerce/avia) | open source e-commerce framework | aviacommerce | 535 |
 | 357 |  [elixir-koans](https://github.com/elixirkoans/elixir-koans) | Elixir learning exercises | elixirkoans | 2401 |
 | 358 |  [thesis-phoenix](https://github.com/infinitered/thesis-phoenix) | A lightweight, bolt-on, intuitive content editing system for Elixir/Phoenix websites. Star this repo and follow along with our progress! | infinitered | 639 |
@@ -712,7 +712,7 @@
 | 397 |  [arc_ecto](https://github.com/stavro/arc_ecto) | An integration with Arc and Ecto. | stavro | 253 |
 | 398 |  [sparql-ex](https://github.com/rdf-elixir/sparql-ex) | An implementation of SPARQL for Elixir | rdf-elixir | 45 |
 | 399 |  [rdf-ex](https://github.com/rdf-elixir/rdf-ex) | An implementation of RDF for Elixir | rdf-elixir | 126 |
-| 400 |  [cachex](https://github.com/whitfin/cachex) | A powerful caching library for Elixir with support for transactions, fallbacks and expirations | whitfin | 1740 |
+| 400 |  [cachex](https://github.com/whitfin/cachex) | A powerful caching library for Elixir with support for transactions, fallbacks and expirations | whitfin | 1741 |
 | 401 |  [decorator](https://github.com/arjan/decorator) | Function decorators for Elixir | arjan | 407 |
 | 402 |  [elixir_agent](https://github.com/newrelic/elixir_agent) | New Relic&#39;s Open Source Elixir Agent | newrelic | 268 |
 | 403 |  [gen_state_machine](https://github.com/ericentin/gen_state_machine) | An idiomatic Elixir wrapper for gen_statem in OTP 19 (and above). | ericentin | 313 |
@@ -750,9 +750,9 @@
 | 435 |  [horde](https://github.com/elixir-horde/horde) | Horde is a distributed Supervisor and Registry backed by Postgres | elixir-horde | 1492 |
 | 436 |  [instream](https://github.com/mneudert/instream) | InfluxDB driver for Elixir | mneudert | 228 |
 | 437 |  [nerves_hub_web](https://github.com/nerves-hub/nerves_hub_web) | Manage your Nerves device fleet, including firmware updates, health reports, and interactive device consoles. | nerves-hub | 268 |
-| 438 |  [blockscout](https://github.com/blockscout/blockscout) | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains. | blockscout | 4628 |
+| 438 |  [blockscout](https://github.com/blockscout/blockscout) | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains. | blockscout | 4627 |
 | 439 |  [mint](https://github.com/elixir-mint/mint) | Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2 🌱 | elixir-mint | 1416 |
-| 440 |  [elixir-uuid](https://github.com/zyro/elixir-uuid) | UUID generator and utilities for Elixir | zyro | 368 |
+| 440 |  [elixir-uuid](https://github.com/zyro/elixir-uuid) | UUID generator and utilities for Elixir | zyro | 369 |
 | 441 |  [assert_value_elixir](https://github.com/assert-value/assert_value_elixir) | ExUnit&#39;s assert on steroids that writes and updates tests for you | assert-value | 108 |
 | 442 |  [spandex](https://github.com/spandex-project/spandex) | A platform agnostic tracing library | spandex-project | 346 |
 | 443 |  [commanded_sagas](https://github.com/bamorim/commanded_sagas) |  | bamorim | 6 |
@@ -770,7 +770,7 @@
 | 455 |  [yesql](https://github.com/lpil/yesql) | An Elixir library for using SQL. | lpil | 81 |
 | 456 |  [ElixirRetry](https://github.com/safwank/ElixirRetry) | Simple Elixir macros for linear retry, exponential backoff and wait with composable delays | safwank | 456 |
 | 457 |  [kane](https://github.com/peburrows/kane) | Google Pub/Sub client for Elixir | peburrows | 107 |
-| 458 |  [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) | Slack real time messaging and web API client in Elixir | BlakeWilliams | 682 |
+| 458 |  [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) | Slack real time messaging and web API client in Elixir | BlakeWilliams | 683 |
 | 459 |  [rihanna](https://github.com/samsondav/rihanna) | Rihanna is a high performance postgres-backed job queue for Elixir | samsondav | 457 |
 | 460 |  [periodic](https://github.com/pragdave/periodic) | Run Elixir functions periodically | pragdave | 45 |
 | 461 |  [kafka_ex](https://github.com/kafkaex/kafka_ex) | Kafka client library for Elixir | kafkaex | 610 |
@@ -875,7 +875,7 @@
 | 560 |  [event-sourcing-example](https://github.com/macabeus/event-sourcing-example) | A vanilla example app about event sourcing architecture using Elixir | macabeus | 14 |
 | 561 |  [magnetissimo](https://github.com/sergiotapia/magnetissimo) | Web application that indexes all popular torrent sites, and saves it to the local database. | sergiotapia | 3086 |
 | 562 |  [amqp](https://github.com/pma/amqp) | Idiomatic Elixir client for RabbitMQ | pma | 689 |
-| 563 |  [poxa](https://github.com/edgurgel/poxa) | Pusher server implementation compatible with Pusher client libraries. | edgurgel | 1087 |
+| 563 |  [poxa](https://github.com/edgurgel/poxa) | Pusher server implementation compatible with Pusher client libraries. | edgurgel | 1086 |
 | 564 |  [progress_bar](https://github.com/JustAman62/progress_bar) | Command-line progress bars and spinners for Elixir. | JustAman62 | 337 |
 | 565 |  [benchee_html](https://github.com/bencheeorg/benchee_html) | Draw pretty micro benchmarking charts in HTML and allow to export them as png for benchee | bencheeorg | 58 |
 | 566 |  [benchfella](https://github.com/alco/benchfella) | Microbenchmarking tool for Elixir | alco | 516 |
@@ -899,7 +899,7 @@
 | 584 |  [guardian](https://github.com/ueberauth/guardian) | Elixir Authentication | ueberauth | 3513 |
 | 585 |  [protobuf](https://github.com/elixir-protobuf/protobuf) | A pure Elixir implementation of Google Protobuf. | elixir-protobuf | 902 |
 | 586 |  [elixir-ls](https://github.com/JakeBecker/elixir-ls) | A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the JSON-based &#34;Language Server Protocol&#34; standard and provides debugger support via VS Code&#39;s debugger protocol. | JakeBecker | 845 |
-| 587 |  [credo](https://github.com/rrrene/credo) | A static code analysis tool for the Elixir language with a focus on code consistency and teaching. | rrrene | 5200 |
+| 587 |  [credo](https://github.com/rrrene/credo) | A static code analysis tool for the Elixir language with a focus on code consistency and teaching. | rrrene | 5201 |
 | 588 |  [elixir-tensor](https://github.com/Qqwy/elixir-tensor) | The Tensor library adds support for Vectors, Matrixes and higher-dimension Tensors to Elixir. | Qqwy | 148 |
 | 589 |  [Numerix](https://github.com/safwank/Numerix) | A collection of useful mathematical functions in Elixir with a slant towards statistics, linear algebra and machine learning | safwank | 193 |
 | 590 |  [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) | HTML sanitizer for Elixir | rrrene | 294 |
@@ -909,7 +909,7 @@
 | 594 |  [flow](https://github.com/dashbitco/flow) | Computational parallel flows on top of GenStage | dashbitco | 1616 |
 | 595 |  [power_assert_ex](https://github.com/ma2gedev/power_assert_ex) | Power Assert in Elixir. Shows evaluation results each expression. | ma2gedev | 215 |
 | 596 |  [nerves](https://github.com/nerves-project/nerves) | Craft and deploy bulletproof embedded software in Elixir | nerves-project | 2482 |
-| 597 |  [grpc](https://github.com/elixir-grpc/grpc) | An Elixir implementation of gRPC | elixir-grpc | 1518 |
+| 597 |  [grpc](https://github.com/elixir-grpc/grpc) | An Elixir implementation of gRPC | elixir-grpc | 1519 |
 | 598 |  [confex](https://github.com/Nebo15/confex) | Useful helper to read and use application configuration from environment variables. | Nebo15 | 306 |
 | 599 |  [conform](https://github.com/bitwalker/conform) | Easy, powerful, and extendable configuration tooling for releases. | bitwalker | 378 |
 | 600 |  [OK](https://github.com/CrowdHailer/OK) | Elegant error/exception handling in Elixir, with result monads. | CrowdHailer | 605 |
@@ -928,15 +928,15 @@
 | 613 |  [ecto](https://github.com/elixir-ecto/ecto) | A toolkit for data mapping and language integrated query. | elixir-ecto | 6485 |
 | 614 |  [jason](https://github.com/michalmuskala/jason) | A blazing fast JSON parser and generator in pure Elixir. | michalmuskala | 1678 |
 | 615 |  [elixir-node](https://github.com/aeternity/elixir-node) | Elixir full node implementation of the aeternity specification | aeternity | 212 |
-| 616 |  [plug](https://github.com/elixir-plug/plug) | Compose web applications with functions | elixir-plug | 3010 |
+| 616 |  [plug](https://github.com/elixir-plug/plug) | Compose web applications with functions | elixir-plug | 3011 |
 | 617 |  [exprof](https://github.com/parroty/exprof) | A simple code profiler for Elixir using eprof. | parroty | 180 |
 | 618 |  [maru](https://github.com/elixir-maru/maru) | Elixir RESTful Framework | elixir-maru | 1316 |
 | 619 |  [maru_swagger](https://github.com/elixir-maru/maru_swagger) | Add swagger compliant documentation to your maru API | elixir-maru | 57 |
 | 620 |  [phoenix_swagger](https://github.com/xerions/phoenix_swagger) | Swagger integration to Phoenix framework | xerions | 712 |
-| 621 |  [awesome-elixir](https://github.com/h4cc/awesome-elixir) | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | h4cc | 13156 |
+| 621 |  [awesome-elixir](https://github.com/h4cc/awesome-elixir) | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: | h4cc | 13157 |
 | 622 |  [elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) | A community driven style guide for Elixir | christopheradams | 4429 |
-| 623 |  [phoenix](https://github.com/phoenixframework/phoenix) | Peace of mind from prototype to production | phoenixframework | 23110 |
-| 624 |  [elixir](https://github.com/elixir-lang/elixir) | Simple from zero to scale | elixir-lang | 26594 |
+| 623 |  [phoenix](https://github.com/phoenixframework/phoenix) | Peace of mind from prototype to production | phoenixframework | 23111 |
+| 624 |  [elixir](https://github.com/elixir-lang/elixir) | Simple from zero to scale | elixir-lang | 26595 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -944,7 +944,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [obsidian-card-board](https://github.com/roovo/obsidian-card-board) | An Obsidian plugin to make working with tasks a pleasure (hopefully anyway). | roovo | 635 |
-| 2 |  [azimutt](https://github.com/azimuttapp/azimutt) | Explore, document and optimize any database | azimuttapp | 2158 |
+| 2 |  [azimutt](https://github.com/azimuttapp/azimutt) | Explore, document and optimize any database | azimuttapp | 2159 |
 | 3 |  [elm-rte-toolkit](https://github.com/mweiss/elm-rte-toolkit) | A toolkit for creating rich text editors in Elm | mweiss | 150 |
 | 4 |  [pixelm](https://github.com/shuhei/pixelm) | A pixel art editor written in Elm | shuhei | 37 |
 | 5 |  [rc](https://github.com/kofigumbs/rc) | Learning graphics and animation @RecurseCenter | kofigumbs | 8 |
@@ -977,8 +977,8 @@
 | 2 |  [org-rifle](https://github.com/alphapapa/org-rifle) | Rifle through your Org-mode buffers and acquire your target | alphapapa | 516 |
 | 3 |  [emacs-calfw](https://github.com/kiwanami/emacs-calfw) | A calendar framework for Emacs | kiwanami | 1248 |
 | 4 |  [emacs-elixir](https://github.com/elixir-editors/emacs-elixir) | Emacs major mode for Elixir | elixir-editors | 455 |
-| 5 |  [inf-iex](https://github.com/DogLooksGood/inf-iex) | Interaction with IEx session | DogLooksGood | 9 |
-| 6 |  [core](https://github.com/doomemacs/core) | An Emacs framework for the stubborn martian hacker | doomemacs | 22553 |
+| 5 |  [inf-iex](https://github.com/Jostar1024/inf-iex) | Interaction with IEx session | Jostar1024 | 9 |
+| 6 |  [core](https://github.com/doomemacs/core) | An Emacs framework for the stubborn martian hacker | doomemacs | 22560 |
 | 7 |  [alchemist.el](https://github.com/tonini/alchemist.el) | Elixir Tooling Integration Into Emacs | tonini | 913 |
 
 **[⬆ Back to Index](#-contents)**
@@ -986,14 +986,14 @@
 ## Erlang
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [khepri](https://github.com/rabbitmq/khepri) | Khepri is a tree-like replicated on-disk database library for Erlang and Elixir. | rabbitmq | 478 |
+| 1 |  [khepri](https://github.com/rabbitmq/khepri) | Khepri is a tree-like replicated on-disk database library for Erlang and Elixir. | rabbitmq | 480 |
 | 2 |  [otp](https://github.com/erlang/otp) | Erlang/OTP | erlang | 12321 |
-| 3 |  [emqx](https://github.com/emqx/emqx) | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles | emqx | 16596 |
+| 3 |  [emqx](https://github.com/emqx/emqx) | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles | emqx | 16598 |
 | 4 |  [erlfmt](https://github.com/WhatsApp/erlfmt) | An automated code formatter for Erlang | WhatsApp | 461 |
 | 5 |  [mnevis](https://github.com/rabbitmq/mnevis) | Raft-based, consensus oriented implementation of Mnesia transactions | rabbitmq | 48 |
 | 6 |  [telemetry_registry](https://github.com/beam-telemetry/telemetry_registry) | A library for declaration and discovery of telemetry events | beam-telemetry | 36 |
 | 7 |  [consulate](https://github.com/hauleth/consulate) | Erlang port mapper module that uses Consul instead of EPMD | hauleth | 15 |
-| 8 |  [relx](https://github.com/erlware/relx) | Sane, simple release creation for Erlang | erlware | 691 |
+| 8 |  [relx](https://github.com/erlware/relx) | Sane, simple release creation for Erlang | erlware | 692 |
 | 9 |  [opentelemetry-erlang-api](https://github.com/open-telemetry/opentelemetry-erlang-api) | Erlang/Elixir OpenTelemetry API | open-telemetry | 60 |
 | 10 |  [pest](https://github.com/okeuday/pest) | :beetle:  Primitive Erlang Security Tool | okeuday | 104 |
 | 11 |  [sleeplocks](https://github.com/whitfin/sleeplocks) | BEAM friendly spinlocks for Elixir/Erlang | whitfin | 61 |
@@ -1002,7 +1002,7 @@
 | 14 |  [telemetry_poller](https://github.com/beam-telemetry/telemetry_poller) | Periodically gather measurements and publish them as Telemetry events | beam-telemetry | 126 |
 | 15 |  [meck](https://github.com/eproxus/meck) | A mocking library for Erlang | eproxus | 839 |
 | 16 |  [observer_cli](https://github.com/zhongwencool/observer_cli) | Visualize Erlang/Elixir Nodes On The Command Line | zhongwencool | 1529 |
-| 17 |  [couchdb](https://github.com/apache/couchdb) | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability | apache | 6932 |
+| 17 |  [couchdb](https://github.com/apache/couchdb) | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability | apache | 6933 |
 | 18 |  [AtomVM](https://github.com/atomvm/AtomVM) | Tiny Erlang VM | atomvm | 2192 |
 | 19 |  [lashup](https://github.com/dcos/lashup) | A distributed CRDT store with multicast and failure detector capabilities | dcos | 210 |
 | 20 |  [havoc](https://github.com/ankhers/havoc) | ChaosMonkey style testing for the BEAM | ankhers | 55 |
@@ -1029,7 +1029,7 @@
 | 41 |  [ibrowse](https://github.com/cmullaparthi/ibrowse) | Erlang HTTP client | cmullaparthi | 518 |
 | 42 |  [brod](https://github.com/kafka4beam/brod) | Apache Kafka client library for Erlang/Elixir | kafka4beam | 686 |
 | 43 |  [sync](https://github.com/rustyio/sync) | On-the-fly recompiling and reloading in Erlang. Code without friction. | rustyio | 761 |
-| 44 |  [recon](https://github.com/ferd/recon) | Collection of functions and scripts to debug Erlang in production. | ferd | 1423 |
+| 44 |  [recon](https://github.com/ferd/recon) | Collection of functions and scripts to debug Erlang in production. | ferd | 1424 |
 | 45 |  [redbug](https://github.com/massemanet/redbug) | erlang tracing debugger | massemanet | 227 |
 | 46 |  [eper](https://github.com/massemanet/eper) | Erlang performance and debugging tools | massemanet | 440 |
 | 47 |  [gproc](https://github.com/uwiger/gproc) | Extended process registry for Erlang | uwiger | 1100 |
@@ -1044,7 +1044,7 @@
 ## F#
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dark](https://github.com/darklang/dark) | Darklang main repo, including language, backend, and infra | darklang | 2166 |
+| 1 |  [dark](https://github.com/darklang/dark) | Darklang main repo, including language, backend, and infra | darklang | 2167 |
 | 2 |  [fvim](https://github.com/yatli/fvim) | Cross platform Neovim front-end UI, built with F# + Avalonia | yatli | 1407 |
 | 3 |  [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) | A curated list of awesome F# frameworks, libraries, software and resources. | fsprojects | 1429 |
 
@@ -1062,15 +1062,15 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [indie-blueprint](https://github.com/sempitern0/indie-blueprint) | Indie Blueprint is a comprehensive Godot project template designed to streamline your development process. It includes essential features, optimized settings, and best practices to help you create amazing indie game | sempitern0 | 407 |
-| 2 |  [scatter](https://github.com/HungryProton/scatter) | Godot engine addon to randomly fill an area with props or other scenes. Mirror of https://codeberg.org/hungryproton/proton_scatter | HungryProton | 2949 |
-| 3 |  [Reia](https://github.com/Quaint-Studios/Reia) | RPG game action-adventure MMO built with Godot and Rust. | Quaint-Studios | 898 |
+| 2 |  [scatter](https://github.com/HungryProton/scatter) | Godot engine addon to randomly fill an area with props or other scenes. Mirror of https://codeberg.org/hungryproton/proton_scatter | HungryProton | 2951 |
+| 3 |  [Reia](https://github.com/Quaint-Studios/Reia) | RPG game action-adventure MMO built with Godot and Rust. | Quaint-Studios | 900 |
 | 4 |  [godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin) | HeightMap terrain for Godot implemented in GDScript | Zylann | 2241 |
 | 5 |  [Godello](https://github.com/alfredbaudisch/Godello) | Trello inspired kanban board made with the Godot Engine and GDScript, with a real-time collaborative backend (Elixir and Phoenix Channels) and a local backend for offline usage (Godot Custom Resources) | alfredbaudisch | 881 |
-| 6 |  [PankuConsole](https://github.com/Ark2000/PankuConsole) | Feature-packed real-time debugging toolkit for Godot Engine. | Ark2000 | 1433 |
-| 7 |  [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! | Orama-Interactive | 10060 |
-| 8 |  [beehave](https://github.com/bitbrain/beehave) | 🐝 behavior tree AI for Godot Engine | bitbrain | 3215 |
+| 6 |  [PankuConsole](https://github.com/Ark2000/PankuConsole) | Feature-packed real-time debugging toolkit for Godot Engine. | Ark2000 | 1432 |
+| 7 |  [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! | Orama-Interactive | 10064 |
+| 8 |  [beehave](https://github.com/bitbrain/beehave) | 🐝 behavior tree AI for Godot Engine | bitbrain | 3217 |
 | 9 |  [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) | A 2D Terrain Tool for Godot | SirRamEsq | 1726 |
-| 10 |  [dialogic](https://github.com/dialogic-godot/dialogic) | 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game! | dialogic-godot | 5883 |
+| 10 |  [dialogic](https://github.com/dialogic-godot/dialogic) | 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game! | dialogic-godot | 5885 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1086,170 +1086,170 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [mainline](https://github.com/mainline-org/mainline) | Git-native memory for coding agents. Repo memory before the diff. | mainline-org | 182 |
 | 2 |  [packnplay](https://github.com/obra/packnplay) | Sandboxed execution of commands in Docker containers with automated worktree and dev container management | obra | 172 |
-| 3 |  [age](https://github.com/FiloSottile/age) | A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. | FiloSottile | 23118 |
-| 4 |  [glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | glanceapp | 36163 |
-| 5 |  [wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | wailsapp | 35714 |
-| 6 |  [dagger](https://github.com/dagger/dagger) | Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud | dagger | 16135 |
+| 3 |  [age](https://github.com/FiloSottile/age) | A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. | FiloSottile | 23129 |
+| 4 |  [glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place | glanceapp | 36174 |
+| 5 |  [wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | wailsapp | 35729 |
+| 6 |  [dagger](https://github.com/dagger/dagger) | Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud | dagger | 16139 |
 | 7 |  [caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) | Caddy as a reverse proxy for Docker | lucaslorentz | 4606 |
 | 8 |  [woodpecker](https://github.com/woodpecker-ci/woodpecker) | Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. | woodpecker-ci | 7645 |
 | 9 |  [s3db](https://github.com/jrhy/s3db) | SQLite extension that stores tables in an S3-compatible object store | jrhy | 54 |
 | 10 |  [sq](https://github.com/neilotoole/sq) | sq data wrangler | neilotoole | 2545 |
 | 11 |  [udecimal](https://github.com/quagmt/udecimal) | A high-performance, high precision, zero allocation fixed-point decimal library for financial applications | quagmt | 193 |
-| 12 |  [ragflow](https://github.com/infiniflow/ragflow) | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs | infiniflow | 86977 |
-| 13 |  [ko](https://github.com/ko-build/ko) | Build and deploy Go applications | ko-build | 8489 |
+| 12 |  [ragflow](https://github.com/infiniflow/ragflow) | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs | infiniflow | 87032 |
+| 13 |  [ko](https://github.com/ko-build/ko) | Build and deploy Go applications | ko-build | 8491 |
 | 14 |  [plandex](https://github.com/plandex-ai/plandex) | Open source AI coding agent. Designed for large projects and real world tasks. | plandex-ai | 15573 |
-| 15 |  [rueidis](https://github.com/redis/rueidis) | A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, RDMA, etc. | redis | 2965 |
-| 16 |  [templ](https://github.com/a-h/templ) | A language for writing HTML user interfaces in Go. | a-h | 10449 |
-| 17 |  [ollama](https://github.com/ollama/ollama) | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | ollama | 177946 |
-| 18 |  [opentofu](https://github.com/opentofu/opentofu) | OpenTofu lets you declaratively manage your cloud infrastructure. | opentofu | 29702 |
-| 19 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 60523 |
+| 15 |  [rueidis](https://github.com/redis/rueidis) | A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, RDMA, etc. | redis | 2966 |
+| 16 |  [templ](https://github.com/a-h/templ) | A language for writing HTML user interfaces in Go. | a-h | 10456 |
+| 17 |  [ollama](https://github.com/ollama/ollama) | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | ollama | 178012 |
+| 18 |  [opentofu](https://github.com/opentofu/opentofu) | OpenTofu lets you declaratively manage your cloud infrastructure. | opentofu | 29713 |
+| 19 |  [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file | pocketbase | 60545 |
 | 20 |  [earthly](https://github.com/earthly/earthly) | Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. | earthly | 12049 |
-| 21 |  [jet](https://github.com/go-jet/jet) | Type safe SQL builder with code generation and automatic query result data mapping | go-jet | 3775 |
+| 21 |  [jet](https://github.com/go-jet/jet) | Type safe SQL builder with code generation and automatic query result data mapping | go-jet | 3774 |
 | 22 |  [ogen](https://github.com/ogen-go/ogen) | OpenAPI v3 code generator for go | ogen-go | 2121 |
 | 23 |  [entviz](https://github.com/ariga/entviz) | Visualize Ent schemas with beautiful ERDs on atlasgo.cloud | ariga | 32 |
 | 24 |  [relingo-desktop](https://github.com/bonaysoft/relingo-desktop) | 这是一个非官方的Relingo桌面客户端，主要用来背单词。 | bonaysoft | 72 |
 | 25 |  [badger](https://github.com/dgraph-io/badger) | Fast key-value DB in Go. | dgraph-io | 15744 |
 | 26 |  [pgrok](https://github.com/pgrok/pgrok) | Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding | pgrok | 3546 |
 | 27 |  [xid](https://github.com/rs/xid) | xid is a globally unique id generator thought for the web | rs | 4282 |
-| 28 |  [atlas](https://github.com/ariga/atlas) | Declarative schema migrations with schema-as-code workflows | ariga | 8629 |
-| 29 |  [stern](https://github.com/stern/stern) | ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern | stern | 4821 |
+| 28 |  [atlas](https://github.com/ariga/atlas) | Declarative schema migrations with schema-as-code workflows | ariga | 8627 |
+| 29 |  [stern](https://github.com/stern/stern) | ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern | stern | 4822 |
 | 30 |  [afero](https://github.com/spf13/afero) | The Universal Filesystem Abstraction for Go | spf13 | 6689 |
 | 31 |  [kiae](https://github.com/kiaedev/kiae) | Let&#39;s built an open-source cloud platform completely based on Kubernetes and Istio. alternative to Heroku / Vercel / Railway | kiaedev | 91 |
-| 32 |  [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc | stashapp | 12796 |
-| 33 |  [lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers | lima-vm | 21629 |
-| 34 |  [colima](https://github.com/abiosoft/colima) | Container runtimes on macOS (and Linux) with minimal setup | abiosoft | 30260 |
+| 32 |  [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc | stashapp | 12801 |
+| 33 |  [lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers | lima-vm | 21637 |
+| 34 |  [colima](https://github.com/abiosoft/colima) | Container runtimes on macOS (and Linux) with minimal setup | abiosoft | 30273 |
 | 35 |  [plumber](https://github.com/streamdal/plumber) | A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems. | streamdal | 2157 |
-| 36 |  [carapace-bin](https://github.com/carapace-sh/carapace-bin) | A multi-shell completion binary. | carapace-sh | 1911 |
-| 37 |  [mo](https://github.com/samber/mo) | 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...) | samber | 3390 |
-| 38 |  [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | The most customisable and low-latency cross platform/shell prompt renderer | JanDeDobbeleer | 23223 |
-| 39 |  [gum](https://github.com/charmbracelet/gum) | A tool for glamorous shell scripts 🎀 | charmbracelet | 24166 |
-| 40 |  [headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server | juanfont | 42576 |
-| 41 |  [argo-workflows](https://github.com/argoproj/argo-workflows) | Workflow Engine for Kubernetes | argoproj | 16879 |
-| 42 |  [dagu](https://github.com/dagucloud/dagu) | Local-first workflow engine for teams whose main work isn&#39;t orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Airflow alternative. | dagucloud | 3704 |
-| 43 |  [goproxy](https://github.com/elazarl/goproxy) | An HTTP proxy library for Go | elazarl | 6713 |
+| 36 |  [carapace-bin](https://github.com/carapace-sh/carapace-bin) | A multi-shell completion binary. | carapace-sh | 1915 |
+| 37 |  [mo](https://github.com/samber/mo) | 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...) | samber | 3391 |
+| 38 |  [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | The most customisable and low-latency cross platform/shell prompt renderer | JanDeDobbeleer | 23233 |
+| 39 |  [gum](https://github.com/charmbracelet/gum) | A tool for glamorous shell scripts 🎀 | charmbracelet | 24179 |
+| 40 |  [headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server | juanfont | 42602 |
+| 41 |  [argo-workflows](https://github.com/argoproj/argo-workflows) | Workflow Engine for Kubernetes | argoproj | 16884 |
+| 42 |  [dagu](https://github.com/dagucloud/dagu) | Local-first workflow engine for teams whose main work isn&#39;t orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Airflow alternative. | dagucloud | 3708 |
+| 43 |  [goproxy](https://github.com/elazarl/goproxy) | An HTTP proxy library for Go | elazarl | 6715 |
 | 44 |  [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) | pg_timetable: Advanced scheduling for PostgreSQL | cybertec-postgresql | 1392 |
 | 45 |  [anteon](https://github.com/getanteon/anteon) | Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing | getanteon | 8521 |
 | 46 |  [jsonapi](https://github.com/google/jsonapi) | jsonapi.org style payload serializer and deserializer | google | 1414 |
-| 47 |  [encore](https://github.com/encoredev/encore) | The infrastructure platform for the intelligence era | encoredev | 12208 |
+| 47 |  [encore](https://github.com/encoredev/encore) | The infrastructure platform for the intelligence era | encoredev | 12212 |
 | 48 |  [dateparse](https://github.com/araddon/dateparse) | GoLang Parse many date strings without knowing format in advance. | araddon | 2142 |
 | 49 |  [gitmux](https://github.com/arl/gitmux) | :computer: Git in your tmux status bar | arl | 788 |
-| 50 |  [bytebase](https://github.com/bytebase/bytebase) | Database governance built for humans and agents — controlling changes and access across every major database. | bytebase | 14355 |
+| 50 |  [bytebase](https://github.com/bytebase/bytebase) | Database governance built for humans and agents — controlling changes and access across every major database. | bytebase | 14356 |
 | 51 |  [lo](https://github.com/samber/lo) | 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) | samber | 21400 |
 | 52 |  [request](https://github.com/monaco-io/request) | go request, go http client | monaco-io | 295 |
-| 53 |  [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ | authelia | 28505 |
+| 53 |  [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ | authelia | 28512 |
 | 54 |  [goreleaser](https://github.com/goreleaser/goreleaser) | Release engineering, simplified | goreleaser | 15974 |
 | 55 |  [go-fsm](https://github.com/FingerLiu/go-fsm) | An ease to use finit state machine golang implementation.Turn any struct to a fsm with graphviz visualization supported. | FingerLiu | 6 |
-| 56 |  [sonic](https://github.com/bytedance/sonic) | A blazingly fast JSON serializing &amp; deserializing library | bytedance | 9568 |
+| 56 |  [sonic](https://github.com/bytedance/sonic) | A blazingly fast JSON serializing &amp; deserializing library | bytedance | 9567 |
 | 57 |  [dogs](https://github.com/genkami/dogs) | Make Go functional with dogs | genkami | 39 |
 | 58 |  [statsviz](https://github.com/arl/statsviz) | Visualise Go runtime metrics in real time | arl | 3643 |
 | 59 |  [singularity](https://github.com/sylabs/singularity) | SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure. | sylabs | 988 |
-| 60 |  [traefik](https://github.com/traefik/traefik) | The Cloud Native Application Proxy | traefik | 64315 |
+| 60 |  [traefik](https://github.com/traefik/traefik) | The Cloud Native Application Proxy | traefik | 64327 |
 | 61 |  [prest](https://github.com/prest/prest) | PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server | prest | 4609 |
 | 62 |  [ops](https://github.com/nanovms/ops) | ops - build and run nanos unikernels | nanovms | 1506 |
 | 63 |  [dbcore](https://github.com/eatonphil/dbcore) | Generate applications powered by your database. | eatonphil | 498 |
 | 64 |  [daptin](https://github.com/daptin/daptin) | Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS | daptin | 1888 |
 | 65 |  [sealer](https://github.com/sealerio/sealer) | Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF) | sealerio | 2096 |
 | 66 |  [learngo](https://github.com/inancgumus/learngo) | ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. | inancgumus | 20101 |
-| 67 |  [watermill](https://github.com/ThreeDotsLabs/watermill) | Building event-driven applications the easy way in Go. | ThreeDotsLabs | 9829 |
+| 67 |  [watermill](https://github.com/ThreeDotsLabs/watermill) | Building event-driven applications the easy way in Go. | ThreeDotsLabs | 9832 |
 | 68 |  [flamego](https://github.com/flamego/flamego) | The modular Go framework for composable systems | flamego | 625 |
-| 69 |  [wuzz](https://github.com/asciimoo/wuzz) | Interactive cli tool for HTTP inspection | asciimoo | 10713 |
+| 69 |  [wuzz](https://github.com/asciimoo/wuzz) | Interactive cli tool for HTTP inspection | asciimoo | 10714 |
 | 70 |  [wire](https://github.com/google/wire) | Compile-time Dependency Injection for Go | google | 14414 |
 | 71 |  [kubegres](https://github.com/reactive-tech/kubegres) | Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup. | reactive-tech | 1349 |
 | 72 |  [ergo](https://github.com/ergo-services/ergo) | An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies. | ergo-services | 4621 |
-| 73 |  [go-spew](https://github.com/davecgh/go-spew) | Implements a deep pretty printer for Go data structures to aid in debugging | davecgh | 6404 |
+| 73 |  [go-spew](https://github.com/davecgh/go-spew) | Implements a deep pretty printer for Go data structures to aid in debugging | davecgh | 6403 |
 | 74 |  [hdfs](https://github.com/colinmarc/hdfs) | A native go client for HDFS | colinmarc | 1403 |
-| 75 |  [pgx](https://github.com/jackc/pgx) | PostgreSQL driver and toolkit for Go | jackc | 14107 |
+| 75 |  [pgx](https://github.com/jackc/pgx) | PostgreSQL driver and toolkit for Go | jackc | 14108 |
 | 76 |  [watson](https://github.com/genkami/watson) | WATSON: Wasted but Amazing Turing-incomplete Stack-based Object Notation | genkami | 269 |
 | 77 |  [ants](https://github.com/panjf2000/ants) | 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go. | panjf2000 | 14480 |
-| 78 |  [night](https://github.com/talkgo/night) | Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。 | talkgo | 12295 |
-| 79 |  [go-plugin](https://github.com/hashicorp/go-plugin) | Golang plugin system over RPC. | hashicorp | 6062 |
-| 80 |  [sarama](https://github.com/IBM/sarama) | Sarama is a Go library for Apache Kafka. | IBM | 12502 |
-| 81 |  [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | bufbuild | 11321 |
-| 82 |  [resty](https://github.com/go-resty/resty) | Simple HTTP, REST, and SSE client library for Go | go-resty | 11745 |
-| 83 |  [buildx](https://github.com/docker/buildx) | Docker CLI plugin for extended build capabilities with BuildKit | docker | 4466 |
-| 84 |  [golangci-lint](https://github.com/golangci/golangci-lint) | Fast linters runner for Go | golangci | 19226 |
+| 78 |  [night](https://github.com/talkgo/night) | Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。 | talkgo | 12294 |
+| 79 |  [go-plugin](https://github.com/hashicorp/go-plugin) | Golang plugin system over RPC. | hashicorp | 6063 |
+| 80 |  [sarama](https://github.com/IBM/sarama) | Sarama is a Go library for Apache Kafka. | IBM | 12503 |
+| 81 |  [buf](https://github.com/bufbuild/buf) | The best way of working with Protocol Buffers. | bufbuild | 11324 |
+| 82 |  [resty](https://github.com/go-resty/resty) | Simple HTTP, REST, and SSE client library for Go | go-resty | 11746 |
+| 83 |  [buildx](https://github.com/docker/buildx) | Docker CLI plugin for extended build capabilities with BuildKit | docker | 4467 |
+| 84 |  [golangci-lint](https://github.com/golangci/golangci-lint) | Fast linters runner for Go | golangci | 19227 |
 | 85 |  [waypoint](https://github.com/hashicorp/waypoint) | A tool to build, deploy, and release any application on any platform. | hashicorp | 4721 |
-| 86 |  [cel-go](https://github.com/cel-expr/cel-go) | Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) | cel-expr | 3059 |
-| 87 |  [expr](https://github.com/expr-lang/expr) | Expression language and expression evaluation for Go | expr-lang | 7972 |
+| 86 |  [cel-go](https://github.com/cel-expr/cel-go) | Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) | cel-expr | 3060 |
+| 87 |  [expr](https://github.com/expr-lang/expr) | Expression language and expression evaluation for Go | expr-lang | 7971 |
 | 88 |  [rapidash](https://github.com/blastrain/rapidash) | Go package for database record or other data caching | blastrain | 83 |
-| 89 |  [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. | go-ozzo | 4118 |
+| 89 |  [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. | go-ozzo | 4120 |
 | 90 |  [go-json](https://github.com/goccy/go-json) | Fast JSON encoder/decoder compatible with encoding/json for Go | goccy | 3699 |
 | 91 |  [go-reflect](https://github.com/goccy/go-reflect) | Zero-allocation reflection library for Go | goccy | 592 |
 | 92 |  [covergates](https://github.com/covergates/covergates) | The portal gates to coverage reports | covergates | 61 |
-| 93 |  [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% \| LeetCode 题解 | halfrost | 33792 |
+| 93 |  [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% \| LeetCode 题解 | halfrost | 33794 |
 | 94 |  [ldetool](https://github.com/sirkon/ldetool) | Code generator for fast log file parsers | sirkon | 324 |
-| 95 |  [grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC | grpc | 23028 |
+| 95 |  [grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC | grpc | 23029 |
 | 96 |  [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec | grpc-ecosystem | 19973 |
 | 97 |  [goa](https://github.com/goadesign/goa) | Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs. | goadesign | 6090 |
 | 98 |  [testfixtures](https://github.com/go-testfixtures/testfixtures) | Ruby on Rails like test fixtures for Go. Write tests against a real database | go-testfixtures | 1234 |
 | 99 |  [testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library | stretchr | 26147 |
-| 100 |  [goconvey](https://github.com/smartystreets/goconvey) | Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go. | smartystreets | 8409 |
+| 100 |  [goconvey](https://github.com/smartystreets/goconvey) | Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go. | smartystreets | 8408 |
 | 101 |  [ginkgo](https://github.com/onsi/ginkgo) | A Modern Testing Framework for Go | onsi | 9038 |
 | 102 |  [protoc-gen-twirpql](https://github.com/marwan-at-work/protoc-gen-twirpql) | Generate A GraphQL Layer from A Twirp Server | marwan-at-work | 51 |
 | 103 |  [fortio](https://github.com/fortio/fortio) | Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. | fortio | 3716 |
 | 104 |  [ghz](https://github.com/bojand/ghz) | Simple gRPC benchmarking and load testing tool | bojand | 3348 |
-| 105 |  [v2](https://github.com/miniflux/v2) | Minimalist and opinionated feed reader | miniflux | 9558 |
-| 106 |  [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | nektos | 71383 |
+| 105 |  [v2](https://github.com/miniflux/v2) | Minimalist and opinionated feed reader | miniflux | 9561 |
+| 106 |  [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | nektos | 71406 |
 | 107 |  [go-semver](https://github.com/tj/go-semver) | Semver stuff | tj | 27 |
-| 108 |  [wazero](https://github.com/wazero/wazero) | wazero: the zero dependency WebAssembly runtime for Go developers | wazero | 6314 |
+| 108 |  [wazero](https://github.com/wazero/wazero) | wazero: the zero dependency WebAssembly runtime for Go developers | wazero | 6315 |
 | 109 |  [kratos](https://github.com/ory/kratos) | Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. | ory | 13815 |
-| 110 |  [esbuild](https://github.com/evanw/esbuild) | An extremely fast bundler for the web | evanw | 40008 |
+| 110 |  [esbuild](https://github.com/evanw/esbuild) | An extremely fast bundler for the web | evanw | 40007 |
 | 111 |  [dgraph](https://github.com/dgraph-io/dgraph) | high-performance graph database for real-time use cases | dgraph-io | 21771 |
-| 112 |  [cadence](https://github.com/cadence-workflow/cadence) | Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. | cadence-workflow | 9394 |
+| 112 |  [cadence](https://github.com/cadence-workflow/cadence) | Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. | cadence-workflow | 9396 |
 | 113 |  [gobinaries](https://github.com/tj/gobinaries) | Golang binaries compiled on-demand for your system | tj | 827 |
-| 114 |  [dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data | dolthub | 24099 |
+| 114 |  [dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data | dolthub | 24106 |
 | 115 |  [sqlflow](https://github.com/sql-machine-learning/sqlflow) | Brings SQL and AI together. | sql-machine-learning | 5187 |
-| 116 |  [tinygo](https://github.com/tinygo-org/tinygo) | Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. | tinygo-org | 17616 |
+| 116 |  [tinygo](https://github.com/tinygo-org/tinygo) | Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. | tinygo-org | 17619 |
 | 117 |  [cue](https://github.com/cuelang/cue) | CUE has moved to https://github.com/cue-lang/cue | cuelang | 3057 |
 | 118 |  [validate](https://github.com/gobuffalo/validate) | This package provides a framework for writing validations for Go applications. | gobuffalo | 94 |
-| 119 |  [dapr](https://github.com/dapr/dapr) | Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. | dapr | 26013 |
-| 120 |  [mgmt](https://github.com/purpleidea/mgmt) | Next generation distributed, event-driven, parallel config management! | purpleidea | 4299 |
+| 119 |  [dapr](https://github.com/dapr/dapr) | Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. | dapr | 26019 |
+| 120 |  [mgmt](https://github.com/purpleidea/mgmt) | Next generation distributed, event-driven, parallel config management! | purpleidea | 4300 |
 | 121 |  [xlsx](https://github.com/tealeg/xlsx) | Go library for reading and writing XLSX files. | tealeg | 5991 |
 | 122 |  [quic-go](https://github.com/quic-go/quic-go) | A production-ready QUIC implementation in pure Go | quic-go | 11738 |
 | 123 |  [protostructure](https://github.com/mitchellh/protostructure) | Encode and decode Go (golang) struct types via protocol buffers. | mitchellh | 178 |
 | 124 |  [fiber](https://github.com/gofiber/fiber) | ⚡️ Express inspired web framework written in Go | gofiber | 40048 |
-| 125 |  [gh-ost](https://github.com/github/gh-ost) | GitHub&#39;s Online Schema-migration Tool for MySQL | github | 13508 |
+| 125 |  [gh-ost](https://github.com/github/gh-ost) | GitHub&#39;s Online Schema-migration Tool for MySQL | github | 13510 |
 | 126 |  [gorums](https://github.com/relab/gorums) | Gorums simplify fault-tolerant quorum-based protocols | relab | 148 |
 | 127 |  [flaggy](https://github.com/integrii/flaggy) | Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies. | integrii | 950 |
 | 128 |  [k3c](https://github.com/rancher/k3c) | Lightweight local container engine for container development | rancher | 564 |
 | 129 |  [space-cloud](https://github.com/spacecloud-io/space-cloud) | Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes | spacecloud-io | 3996 |
-| 130 |  [dbmate](https://github.com/amacneil/dbmate) | 🚀 A lightweight, framework-agnostic database migration tool. | amacneil | 7035 |
+| 130 |  [dbmate](https://github.com/amacneil/dbmate) | 🚀 A lightweight, framework-agnostic database migration tool. | amacneil | 7036 |
 | 131 |  [eris](https://github.com/rotisserie/eris) | Error handling library with readable stack traces and flexible formatting support 🎆 | rotisserie | 1794 |
 | 132 |  [bigcache](https://github.com/allegro/bigcache) | Efficient cache for gigabytes of data written in Go. | allegro | 8148 |
-| 133 |  [ent](https://github.com/ent/ent) | An entity framework for Go | ent | 17159 |
-| 134 |  [sqlc](https://github.com/sqlc-dev/sqlc) | Generate type-safe code from SQL | sqlc-dev | 18130 |
-| 135 |  [slim](https://github.com/slimtoolkit/slim) | Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) | slimtoolkit | 23372 |
+| 133 |  [ent](https://github.com/ent/ent) | An entity framework for Go | ent | 17162 |
+| 134 |  [sqlc](https://github.com/sqlc-dev/sqlc) | Generate type-safe code from SQL | sqlc-dev | 18142 |
+| 135 |  [slim](https://github.com/slimtoolkit/slim) | Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) | slimtoolkit | 23373 |
 | 136 |  [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) | The Official Golang driver for MongoDB | mongodb | 8535 |
-| 137 |  [concourse](https://github.com/concourse/concourse) | Concourse is a container-based automation system written in Go. It&#39;s mostly used for CI/CD. | concourse | 7876 |
+| 137 |  [concourse](https://github.com/concourse/concourse) | Concourse is a container-based automation system written in Go. It&#39;s mostly used for CI/CD. | concourse | 7878 |
 | 138 |  [expect](https://github.com/pkg/expect) | A simple assertion library that you probably shouldn&#39;t use. | pkg | 132 |
-| 139 |  [ctop](https://github.com/bcicen/ctop) | Top-like interface for container metrics | bcicen | 17810 |
+| 139 |  [ctop](https://github.com/bcicen/ctop) | Top-like interface for container metrics | bcicen | 17811 |
 | 140 |  [casbin](https://github.com/apache/casbin) | Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC. | apache | 20310 |
-| 141 |  [when](https://github.com/olebedev/when) | A natural language date/time parser with pluggable rules | olebedev | 1464 |
+| 141 |  [when](https://github.com/olebedev/when) | A natural language date/time parser with pluggable rules | olebedev | 1463 |
 | 142 |  [ristretto](https://github.com/dgraph-io/ristretto) | A high performance memory-bound Go cache | dgraph-io | 6974 |
-| 143 |  [loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | grafana | 28678 |
+| 143 |  [loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | grafana | 28685 |
 | 144 |  [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) | An open source re-implementation of Diablo 2 | OpenDiablo2 | 11079 |
 | 145 |  [go-tea](https://github.com/tj/go-tea) | Tea provides an Elm inspired functional framework for interactive command-line programs. | tj | 384 |
 | 146 |  [twirp](https://github.com/twitchtv/twirp) | A simple RPC framework with protobuf service definitions | twitchtv | 7525 |
 | 147 |  [vulcain](https://github.com/dunglas/vulcain) | 🔨 Fast and idiomatic client-driven REST APIs. | dunglas | 3590 |
 | 148 |  [jsonquery](https://github.com/antchfx/jsonquery) | JSON xpath query for Go. Golang XPath query for JSON query. | antchfx | 277 |
-| 149 |  [pulumi](https://github.com/pulumi/pulumi) | Pulumi - Infrastructure as Code in any programming language 🚀 | pulumi | 25536 |
-| 150 |  [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | kubernetes | 32016 |
+| 149 |  [pulumi](https://github.com/pulumi/pulumi) | Pulumi - Infrastructure as Code in any programming language 🚀 | pulumi | 25538 |
+| 150 |  [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | kubernetes | 32021 |
 | 151 |  [kind](https://github.com/kubernetes-sigs/kind) | Kubernetes IN Docker - local clusters for testing Kubernetes | kubernetes-sigs | 15404 |
-| 152 |  [shiori](https://github.com/go-shiori/shiori) | Simple bookmark manager built with Go | go-shiori | 11572 |
-| 153 |  [prose](https://github.com/jdkato/prose) | :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction. | jdkato | 3083 |
+| 152 |  [shiori](https://github.com/go-shiori/shiori) | Simple bookmark manager built with Go | go-shiori | 11575 |
+| 153 |  [prose](https://github.com/jdkato/prose) | :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction. | jdkato | 3082 |
 | 154 |  [olric](https://github.com/olric-data/olric) | Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service. | olric-data | 3484 |
 | 155 |  [go-systemd](https://github.com/coreos/go-systemd) | Go bindings to systemd socket activation, journal, D-Bus, and unit files | coreos | 2704 |
 | 156 |  [yaegi](https://github.com/traefik/yaegi) | Yaegi is Another Elegant Go Interpreter | traefik | 8354 |
 | 157 |  [go-patterns](https://github.com/bvwells/go-patterns) | Design patterns for the Go programming language | bvwells | 625 |
 | 158 |  [slim](https://github.com/openacid/slim) | Surprisingly space efficient trie in Golang(11 bits/key; 100 ns/get). | openacid | 1924 |
-| 159 |  [tidb](https://github.com/pingcap/tidb) | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. | pingcap | 40396 |
-| 160 |  [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | jesseduffield | 52333 |
+| 159 |  [tidb](https://github.com/pingcap/tidb) | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. | pingcap | 40403 |
+| 160 |  [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | jesseduffield | 52345 |
 | 161 |  [bombardier](https://github.com/codesenberg/bombardier) | Fast cross-platform HTTP benchmarking tool written in Go | codesenberg | 6816 |
 | 162 |  [clickhouse-go](https://github.com/ClickHouse/clickhouse-go) | Golang driver for ClickHouse | ClickHouse | 3324 |
-| 163 |  [unioffice](https://github.com/unidoc/unioffice) | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | unidoc | 4900 |
-| 164 |  [tview](https://github.com/rivo/tview) | Terminal UI library with rich, interactive widgets — written in Golang | rivo | 14025 |
+| 163 |  [unioffice](https://github.com/unidoc/unioffice) | Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents | unidoc | 4902 |
+| 164 |  [tview](https://github.com/rivo/tview) | Terminal UI library with rich, interactive widgets — written in Golang | rivo | 14023 |
 | 165 |  [errors](https://github.com/pkg/errors) | Simple error handling primitives | pkg | 8256 |
-| 166 |  [trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | aquasecurity | 37287 |
+| 166 |  [trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | aquasecurity | 37295 |
 | 167 |  [resgate](https://github.com/resgateio/resgate) | A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly. | resgateio | 739 |
 | 168 |  [dque](https://github.com/joncrlsn/dque) | dque is a fast, embedded, durable queue for Go | joncrlsn | 793 |
 | 169 |  [failpoint](https://github.com/pingcap/failpoint) | An implementation of failpoints for Golang. | pingcap | 892 |
@@ -1258,25 +1258,25 @@
 | 172 |  [jingo](https://github.com/bet365/jingo) | This package provides the ability to encode golang structs to a buffer as JSON very quickly. | bet365 | 731 |
 | 173 |  [heimdall](https://github.com/gojek/heimdall) | An enhanced HTTP client for Go | gojek | 2774 |
 | 174 |  [jennifer](https://github.com/dave/jennifer) | Jennifer is a code generator for Go | dave | 3627 |
-| 175 |  [yay](https://github.com/Jguer/yay) | Yet another Yogurt - An AUR Helper written in Go | Jguer | 13665 |
-| 176 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | rclone | 58984 |
+| 175 |  [yay](https://github.com/Jguer/yay) | Yet another Yogurt - An AUR Helper written in Go | Jguer | 13666 |
+| 176 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | rclone | 58995 |
 | 177 |  [go-flutter](https://github.com/go-flutter-desktop/go-flutter) | Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW. | go-flutter-desktop | 5934 |
-| 178 |  [limiter](https://github.com/ulule/limiter) | Dead simple rate limit middleware for Go. | ulule | 2342 |
-| 179 |  [server](https://github.com/gotify/server) | A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) | gotify | 15648 |
+| 178 |  [limiter](https://github.com/ulule/limiter) | Dead simple rate limit middleware for Go. | ulule | 2343 |
+| 179 |  [server](https://github.com/gotify/server) | A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) | gotify | 15661 |
 | 180 |  [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) | handling 1M websockets connections in Go | eranyanay | 5997 |
-| 181 |  [mockery](https://github.com/vektra/mockery) | A mock code autogenerator for Go | vektra | 7153 |
-| 182 |  [go-clean-arch](https://github.com/bxcodec/go-clean-arch) | Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture | bxcodec | 10149 |
-| 183 |  [ws](https://github.com/gobwas/ws) | A tiny WebSocket library for Go. | gobwas | 6464 |
+| 181 |  [mockery](https://github.com/vektra/mockery) | A mock code autogenerator for Go | vektra | 7154 |
+| 182 |  [go-clean-arch](https://github.com/bxcodec/go-clean-arch) | Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture | bxcodec | 10148 |
+| 183 |  [ws](https://github.com/gobwas/ws) | A tiny WebSocket library for Go. | gobwas | 6463 |
 | 184 |  [sse](https://github.com/manucorporat/sse) | Server-Sent Events implementation in Go. Used by the Gin Framework. | manucorporat | 283 |
 | 185 |  [koding](https://github.com/koding/koding) | The Simplest Way to Manage Your Entire Dev Infrastructure! | koding | 2170 |
-| 186 |  [task](https://github.com/go-task/task) | A fast, cross-platform build tool inspired by Make, designed for modern workflows. | go-task | 15936 |
-| 187 |  [squirrel](https://github.com/Masterminds/squirrel) | Fluent SQL generation for golang | Masterminds | 7976 |
-| 188 |  [atlantis](https://github.com/runatlantis/atlantis) | Terraform Pull Request Automation | runatlantis | 9219 |
+| 186 |  [task](https://github.com/go-task/task) | A fast, cross-platform build tool inspired by Make, designed for modern workflows. | go-task | 15938 |
+| 187 |  [squirrel](https://github.com/Masterminds/squirrel) | Fluent SQL generation for golang | Masterminds | 7977 |
+| 188 |  [atlantis](https://github.com/runatlantis/atlantis) | Terraform Pull Request Automation | runatlantis | 9222 |
 | 189 |  [go-callvis](https://github.com/ondrajz/go-callvis) | Visualize call graph of a Go program using Graphviz | ondrajz | 6503 |
-| 190 |  [appdash](https://github.com/sourcegraph/appdash) | Application tracing system for Go, based on Google&#39;s Dapper. | sourcegraph | 1707 |
+| 190 |  [appdash](https://github.com/sourcegraph/appdash) | Application tracing system for Go, based on Google&#39;s Dapper. | sourcegraph | 1706 |
 | 191 |  [gomacro](https://github.com/cosmos72/gomacro) | Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros | cosmos72 | 2287 |
 | 192 |  [git-chglog](https://github.com/git-chglog/git-chglog) | [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&amp;gt; Use now the actively maintained git-cliff | git-chglog | 2867 |
-| 193 |  [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | twpayne | 21030 |
+| 193 |  [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | twpayne | 21044 |
 | 194 |  [go-cty](https://github.com/zclconf/go-cty) | A type system for dynamic values in Go applications | zclconf | 405 |
 | 195 |  [yj](https://github.com/sclevine/yj) | CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order. | sclevine | 1051 |
 | 196 |  [athens](https://github.com/gomods/athens) | A Go module datastore and proxy | gomods | 4789 |
@@ -1285,95 +1285,95 @@
 | 199 |  [gleam](https://github.com/chrislusf/gleam) | Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly. | chrislusf | 3562 |
 | 200 |  [dragonboat](https://github.com/lni/dragonboat) | A feature complete and high performance multi-group Raft library in Go. | lni | 5322 |
 | 201 |  [tilt](https://github.com/tilt-dev/tilt) | Define your dev environment as code. For microservice apps on Kubernetes. | tilt-dev | 9991 |
-| 202 |  [fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design | fyne-io | 28573 |
+| 202 |  [fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design | fyne-io | 28575 |
 | 203 |  [faktory](https://github.com/contribsys/faktory) | Language-agnostic persistent background job server | contribsys | 6136 |
 | 204 |  [krakend-ce](https://github.com/krakend/krakend-ce) | KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go. | krakend | 2662 |
 | 205 |  [krakend-examples](https://github.com/devopsfaith/krakend-examples) | Collection of examples for the KrakenD framework | devopsfaith | 73 |
-| 206 |  [excelize](https://github.com/qax-os/excelize) | Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets | qax-os | 20833 |
+| 206 |  [excelize](https://github.com/qax-os/excelize) | Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets | qax-os | 20834 |
 | 207 |  [gohack](https://github.com/rogpeppe/gohack) | Make temporary edits to your Go module dependencies | rogpeppe | 912 |
 | 208 |  [goreplay](https://github.com/probelabs/goreplay) | GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. | probelabs | 19306 |
-| 209 |  [cockroach](https://github.com/cockroachdb/cockroach) | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. | cockroachdb | 32357 |
-| 210 |  [go-pry](https://github.com/d4l3k/go-pry) | An interactive REPL for Go that allows you to drop into your code at any point. | d4l3k | 3005 |
+| 209 |  [cockroach](https://github.com/cockroachdb/cockroach) | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. | cockroachdb | 32364 |
+| 210 |  [go-pry](https://github.com/d4l3k/go-pry) | An interactive REPL for Go that allows you to drop into your code at any point. | d4l3k | 3004 |
 | 211 |  [exp-httpclient](https://github.com/bradfitz/exp-httpclient) | experimental new HTTP client API for #golang (WIP) | bradfitz | 584 |
-| 212 |  [gotenberg](https://github.com/gotenberg/gotenberg) | A developer-friendly API for converting many document formats into PDF files, and more! | gotenberg | 12800 |
-| 213 |  [mobile](https://github.com/golang/mobile) | [mirror] Go on Mobile | golang | 6205 |
-| 214 |  [crossplane](https://github.com/crossplane/crossplane) | The Cloud Native Control Plane | crossplane | 11913 |
-| 215 |  [ethr](https://github.com/microsoft/ethr) | Ethr is a Comprehensive Network Measurement Tool for TCP, UDP &amp; ICMP. | microsoft | 5864 |
+| 212 |  [gotenberg](https://github.com/gotenberg/gotenberg) | A developer-friendly API for converting many document formats into PDF files, and more! | gotenberg | 12805 |
+| 213 |  [mobile](https://github.com/golang/mobile) | [mirror] Go on Mobile | golang | 6206 |
+| 214 |  [crossplane](https://github.com/crossplane/crossplane) | The Cloud Native Control Plane | crossplane | 11916 |
+| 215 |  [ethr](https://github.com/microsoft/ethr) | Ethr is a Comprehensive Network Measurement Tool for TCP, UDP &amp; ICMP. | microsoft | 5865 |
 | 216 |  [walk](https://github.com/lxn/walk) | A Windows GUI toolkit for the Go Programming Language | lxn | 7099 |
 | 217 |  [veneur](https://github.com/stripe/veneur) | A distributed, fault-tolerant pipeline for observability data | stripe | 1744 |
 | 218 |  [gometalinter](https://github.com/alecthomas/gometalinter) | DEPRECATED: Use https://github.com/golangci/golangci-lint | alecthomas | 3474 |
-| 219 |  [golua](https://github.com/Azure/golua) | A Lua 5.3 engine implemented in Go | Azure | 1819 |
+| 219 |  [golua](https://github.com/Azure/golua) | A Lua 5.3 engine implemented in Go | Azure | 1818 |
 | 220 |  [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) | DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration | rocketlaunchr | 1290 |
 | 221 |  [gota](https://github.com/go-gota/gota) | Gota: DataFrames and data wrangling in Go (Golang) | go-gota | 3267 |
 | 222 |  [gjson](https://github.com/tidwall/gjson) | Get JSON values quickly - JSON parser for Go | tidwall | 15550 |
 | 223 |  [gocity](https://github.com/rodrigo-brito/gocity) | :bar_chart: Code City metaphor for visualizing Go source code in 3D | rodrigo-brito | 1809 |
-| 224 |  [telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | influxdata | 17734 |
-| 225 |  [gotestsum](https://github.com/gotestyourself/gotestsum) | &#39;go test&#39; runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results. | gotestyourself | 2703 |
-| 226 |  [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image | wagoodman | 54422 |
+| 224 |  [telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | influxdata | 17736 |
+| 225 |  [gotestsum](https://github.com/gotestyourself/gotestsum) | &#39;go test&#39; runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results. | gotestyourself | 2702 |
+| 226 |  [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image | wagoodman | 54426 |
 | 227 |  [up](https://github.com/akavel/up) | Ultimate Plumber is a tool for writing Linux pipes with instant live preview | akavel | 8837 |
-| 228 |  [direnv](https://github.com/direnv/direnv) | unclutter your .profile | direnv | 15341 |
+| 228 |  [direnv](https://github.com/direnv/direnv) | unclutter your .profile | direnv | 15343 |
 | 229 |  [dst](https://github.com/dave/dst) | Decorated Syntax Tree - manipulate Go source with perfect fidelity. | dave | 1438 |
-| 230 |  [chaosmonkey](https://github.com/Netflix/chaosmonkey) | Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures. | Netflix | 17067 |
-| 231 |  [tableflip](https://github.com/cloudflare/tableflip) | Graceful process restarts in Go | cloudflare | 3208 |
-| 232 |  [ferret](https://github.com/MontFerret/ferret) | Declarative data automation language and Go runtime for structured extraction workflows. | MontFerret | 6011 |
+| 230 |  [chaosmonkey](https://github.com/Netflix/chaosmonkey) | Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures. | Netflix | 17069 |
+| 231 |  [tableflip](https://github.com/cloudflare/tableflip) | Graceful process restarts in Go | cloudflare | 3207 |
+| 232 |  [ferret](https://github.com/MontFerret/ferret) | Declarative data automation language and Go runtime for structured extraction workflows. | MontFerret | 6010 |
 | 233 |  [genesis](https://github.com/benbjohnson/genesis) | A simple tool for embedding assets in a Go binary. | benbjohnson | 295 |
-| 234 |  [decimal](https://github.com/shopspring/decimal) | Arbitrary-precision fixed-point decimal numbers in Go | shopspring | 7459 |
+| 234 |  [decimal](https://github.com/shopspring/decimal) | Arbitrary-precision fixed-point decimal numbers in Go | shopspring | 7461 |
 | 235 |  [go-is-not-good](https://github.com/ksimka/go-is-not-good) | A curated list of articles complaining that go (golang) isn&#39;t good enough | ksimka | 3837 |
-| 236 |  [gotty](https://github.com/yudai/gotty) | Share your terminal as a web application | yudai | 19537 |
+| 236 |  [gotty](https://github.com/yudai/gotty) | Share your terminal as a web application | yudai | 19538 |
 | 237 |  [life](https://github.com/perlin-network/life) | A secure WebAssembly VM catered for decentralized applications. | perlin-network | 1690 |
-| 238 |  [Go](https://github.com/TheAlgorithms/Go) | Algorithms and Data Structures implemented in Go for beginners, following best practices. | TheAlgorithms | 18167 |
-| 239 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 81098 |
-| 240 |  [robotgo](https://github.com/go-vgo/robotgo) | RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar | go-vgo | 10765 |
+| 238 |  [Go](https://github.com/TheAlgorithms/Go) | Algorithms and Data Structures implemented in Go for beginners, following best practices. | TheAlgorithms | 18166 |
+| 239 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 81125 |
+| 240 |  [robotgo](https://github.com/go-vgo/robotgo) | RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar | go-vgo | 10764 |
 | 241 |  [awesomo](https://github.com/lk-geimfari/awesomo) | Cool open source projects. Choose your project and get involved in Open Source development now. | lk-geimfari | 9912 |
 | 242 |  [mmake](https://github.com/tj/mmake) | Modern Make | tj | 1737 |
 | 243 |  [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) | chai2010 | 20081 |
-| 244 |  [atomic](https://github.com/uber-go/atomic) | Wrapper types for sync/atomic which enforce atomic access | uber-go | 1451 |
+| 244 |  [atomic](https://github.com/uber-go/atomic) | Wrapper types for sync/atomic which enforce atomic access | uber-go | 1452 |
 | 245 |  [gobot](https://github.com/hybridgroup/gobot) | Golang framework for robotics, drones, and the Internet of Things (IoT) | hybridgroup | 9444 |
 | 246 |  [overmind](https://github.com/DarthSim/overmind) | Process manager for Procfile-based applications and tmux | DarthSim | 3721 |
-| 247 |  [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more | asdf-vm | 25517 |
+| 247 |  [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more | asdf-vm | 25522 |
 | 248 |  [goreman](https://github.com/mattn/goreman) | foreman clone written in go language | mattn | 2644 |
-| 249 |  [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 | unknwon | 35050 |
-| 250 |  [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | goharbor | 29105 |
-| 251 |  [graphql](https://github.com/graphql-go/graphql) | An implementation of GraphQL for Go / Golang | graphql-go | 10149 |
-| 252 |  [pprof](https://github.com/google/pprof) | pprof is a tool for visualization and analysis of profiling data | google | 9257 |
-| 253 |  [chi](https://github.com/go-chi/chi) | lightweight, idiomatic and composable router for building Go HTTP services | go-chi | 22639 |
+| 249 |  [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 | unknwon | 35048 |
+| 250 |  [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | goharbor | 29111 |
+| 251 |  [graphql](https://github.com/graphql-go/graphql) | An implementation of GraphQL for Go / Golang | graphql-go | 10150 |
+| 252 |  [pprof](https://github.com/google/pprof) | pprof is a tool for visualization and analysis of profiling data | google | 9258 |
+| 253 |  [chi](https://github.com/go-chi/chi) | lightweight, idiomatic and composable router for building Go HTTP services | go-chi | 22646 |
 | 254 |  [richgo](https://github.com/kyoh86/richgo) | Enrich `go test` outputs with text decorations. | kyoh86 | 860 |
 | 255 |  [go-chart](https://github.com/wcharczuk/go-chart) | go chart is a basic charting library in go. | wcharczuk | 3999 |
-| 256 |  [delve](https://github.com/go-delve/delve) | Delve is a debugger for the Go programming language. | go-delve | 24861 |
+| 256 |  [delve](https://github.com/go-delve/delve) | Delve is a debugger for the Go programming language. | go-delve | 24865 |
 | 257 |  [workshop](https://github.com/gravitational/workshop) | Docker, Kubernetes and Gravity Trainings by Gravitational | gravitational | 2031 |
-| 258 |  [gods](https://github.com/emirpasic/gods) | GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more | emirpasic | 17447 |
-| 259 |  [go-datastructures](https://github.com/Workiva/go-datastructures) | A collection of useful, performant, and threadsafe Go datastructures. | Workiva | 7948 |
-| 260 |  [viper](https://github.com/spf13/viper) | Go configuration with fangs | spf13 | 30422 |
-| 261 |  [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | avelino | 180320 |
-| 262 |  [netdata](https://github.com/netdata/netdata) | The fastest path to AI-powered full stack observability, even for lean teams. | netdata | 80056 |
-| 263 |  [docker_practice](https://github.com/yeasy/docker_practice) | 最新Docker容器技术，从真实案例中学习最佳实践！\| Learn and understand Docker&amp;Container technologies, with real DevOps practice! | yeasy | 26185 |
+| 258 |  [gods](https://github.com/emirpasic/gods) | GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more | emirpasic | 17446 |
+| 259 |  [go-datastructures](https://github.com/Workiva/go-datastructures) | A collection of useful, performant, and threadsafe Go datastructures. | Workiva | 7947 |
+| 260 |  [viper](https://github.com/spf13/viper) | Go configuration with fangs | spf13 | 30423 |
+| 261 |  [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | avelino | 180403 |
+| 262 |  [netdata](https://github.com/netdata/netdata) | The fastest path to AI-powered full stack observability, even for lean teams. | netdata | 80068 |
+| 263 |  [docker_practice](https://github.com/yeasy/docker_practice) | 最新Docker容器技术，从真实案例中学习最佳实践！\| Learn and understand Docker&amp;Container technologies, with real DevOps practice! | yeasy | 26186 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## HTML
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [extensions](https://github.com/keiyoushi/extensions) | Extension repository for Mihon and variants | keiyoushi | 14610 |
-| 2 |  [prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | f | 166817 |
-| 3 |  [SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) | 全国各省市停贷通知汇总 | WeNeedHome | 20382 |
+| 1 |  [extensions](https://github.com/keiyoushi/extensions) | Extension repository for Mihon and variants | keiyoushi | 14615 |
+| 2 |  [prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | f | 166857 |
+| 3 |  [SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) | 全国各省市停贷通知汇总 | WeNeedHome | 20381 |
 | 4 |  [confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | Confluent&#39;s Apache Kafka Golang client | confluentinc | 5157 |
 | 5 |  [school-of-sre](https://github.com/linkedin/school-of-sre) | At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. | linkedin | 8130 |
-| 6 |  [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) | wilsonfreitas | 28509 |
+| 6 |  [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) | wilsonfreitas | 28522 |
 | 7 |  [simply-jekyll](https://github.com/raghudotcc/simply-jekyll) | A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc | raghudotcc | 209 |
 | 8 |  [david-ai](https://github.com/creativetimofficial/david-ai) | David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS. | creativetimofficial | 6089 |
 | 9 |  [perfect-edition](https://github.com/robinsloan/perfect-edition) | A lightweight, responsive web e-book template | robinsloan | 1496 |
-| 10 |  [kit](https://github.com/HugoBlox/kit) | 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs &amp; more. No AI slop. Free to deploy anywhere 👇 | HugoBlox | 9620 |
-| 11 |  [ai-edu](https://github.com/microsoft/ai-edu) | AI education materials for Chinese students, teachers and IT professionals. | microsoft | 14087 |
+| 10 |  [kit](https://github.com/HugoBlox/kit) | 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs &amp; more. No AI slop. Free to deploy anywhere 👇 | HugoBlox | 9621 |
+| 11 |  [ai-edu](https://github.com/microsoft/ai-edu) | AI education materials for Chinese students, teachers and IT professionals. | microsoft | 14086 |
 | 12 |  [PMLDC](https://github.com/cmeiklejohn/PMLDC) | Programming Models and Languages for Distributed Computation | cmeiklejohn | 241 |
 | 13 |  [bulmaswatch](https://github.com/jenil/bulmaswatch) | Themes for Bulma | jenil | 1645 |
-| 14 |  [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. | mmistakes | 13550 |
-| 15 |  [solid](https://github.com/solid/solid) | Solid - Re-decentralizing the web (project directory) | solid | 8096 |
+| 14 |  [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. | mmistakes | 13552 |
+| 15 |  [solid](https://github.com/solid/solid) | Solid - Re-decentralizing the web (project directory) | solid | 8095 |
 | 16 |  [klipse](https://github.com/viebel/klipse) | Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs. | viebel | 3134 |
 | 17 |  [ocap-demo](https://github.com/morrxy/ocap-demo) |  | morrxy | 1 |
 | 18 |  [minimo](https://github.com/MunifTanjim/minimo) | Minimo - Minimalist theme for Hugo | MunifTanjim | 551 |
-| 19 |  [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | ossu | 207707 |
+| 19 |  [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | ossu | 207741 |
 | 20 |  [jaxon](https://github.com/boudra/jaxon) | Streaming JSON parser for Elixir | boudra | 207 |
-| 21 |  [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 🐧 A list of awesome Linux softwares | luong-komorebi | 25545 |
+| 21 |  [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 🐧 A list of awesome Linux softwares | luong-komorebi | 25549 |
 | 22 |  [SubtlePatterns](https://github.com/atlemo/SubtlePatterns) | All the patterns | atlemo | 4761 |
 
 **[⬆ Back to Index](#-contents)**
@@ -1382,14 +1382,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [fossa-cli](https://github.com/fossas/fossa-cli) | Fast, portable and reliable dependency analysis for any codebase.  Supports license &amp; vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems. | fossas | 1513 |
-| 2 |  [hadolint](https://github.com/hadolint/hadolint) | Dockerfile linter, validate inline bash, written in Haskell | hadolint | 12338 |
+| 2 |  [hadolint](https://github.com/hadolint/hadolint) | Dockerfile linter, validate inline bash, written in Haskell | hadolint | 12340 |
 | 3 |  [emanote](https://github.com/srid/emanote) | Emanate a structured view of your plain-text notes | srid | 954 |
 | 4 |  [miso](https://github.com/dmjio/miso) | :ramen: A tasty Haskell web framework | dmjio | 2420 |
 | 5 |  [reflex-dom](https://github.com/reflex-frp/reflex-dom) | Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface. | reflex-frp | 376 |
 | 6 |  [izuna](https://github.com/matsumonkie/izuna) | Show Haskell type annotations when doing code review on Github | matsumonkie | 142 |
 | 7 |  [esqueleto](https://github.com/bitemyapp/esqueleto) | New home of Esqueleto, please file issues so we can get things caught up! | bitemyapp | 395 |
 | 8 |  [servant](https://github.com/haskell-servant/servant) | Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more! | haskell-servant | 1968 |
-| 9 |  [yesod](https://github.com/yesodweb/yesod) | A RESTful Haskell web framework built on WAI. | yesodweb | 2721 |
+| 9 |  [yesod](https://github.com/yesodweb/yesod) | A RESTful Haskell web framework built on WAI. | yesodweb | 2722 |
 | 10 |  [obelisk](https://github.com/obsidiansystems/obelisk) | Functional reactive web and mobile applications, with batteries included. | obsidiansystems | 1036 |
 | 11 |  [reflex](https://github.com/reflex-frp/reflex) | Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse. | reflex-frp | 1115 |
 | 12 |  [hascard](https://github.com/Yvee1/hascard) | flashcard TUI with markdown cards | Yvee1 | 338 |
@@ -1402,7 +1402,7 @@
 | 19 |  [espial](https://github.com/jonschoning/espial) | Espial is an open-source, web-based bookmarking server. | jonschoning | 905 |
 | 20 |  [profunctors](https://github.com/ekmett/profunctors) | Haskell 98 Profunctors | ekmett | 72 |
 | 21 |  [ormolu](https://github.com/tweag/ormolu) | A formatter for Haskell source code | tweag | 1070 |
-| 22 |  [cql](https://github.com/statebox/cql) | CQL: Categorical Query Language implementation in Haskell | statebox | 186 |
+| 22 |  [cql](https://github.com/statebox/cql) | CQL: Categorical Query Language implementation in Haskell | statebox | 187 |
 | 23 |  [codec-beam](https://github.com/kofigumbs/codec-beam) | Generate Erlang VM byte code from Haskell | kofigumbs | 170 |
 | 24 |  [gitit](https://github.com/jgm/gitit) | A wiki using HAppS, pandoc, and git | jgm | 2279 |
 | 25 |  [deli](https://github.com/github/deli) |  | github | 167 |
@@ -1419,20 +1419,20 @@
 | 36 |  [Tidal](https://github.com/tidalcycles/Tidal) | Pattern language | tidalcycles | 2853 |
 | 37 |  [wiwinwlh](https://github.com/sdiehl/wiwinwlh) | What I Wish I Knew When Learning Haskell | sdiehl | 2667 |
 | 38 |  [articles](https://github.com/quchen/articles) | Miscellaneous articles. The readme is the table of contents. | quchen | 1310 |
-| 39 |  [compiler](https://github.com/elm/compiler) | Compiler for Elm, a functional language for reliable webapps. | elm | 7854 |
+| 39 |  [compiler](https://github.com/elm/compiler) | Compiler for Elm, a functional language for reliable webapps. | elm | 7862 |
 | 40 |  [elm-format](https://github.com/avh4/elm-format) | elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide | avh4 | 1333 |
 | 41 |  [elm-beam](https://github.com/kofigumbs/elm-beam) | Exploring Elm on the Erlang VM | kofigumbs | 153 |
 | 42 |  [komposition](https://github.com/owickstrom/komposition) | The video editor built for screencasters | owickstrom | 430 |
 | 43 |  [duckling](https://github.com/facebook/duckling) | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. | facebook | 4300 |
-| 44 |  [shellcheck](https://github.com/koalaman/shellcheck) | ShellCheck, a static analysis tool for shell scripts | koalaman | 39826 |
-| 45 |  [postgrest](https://github.com/PostgREST/postgrest) | REST API for any Postgres database | PostgREST | 27499 |
+| 44 |  [shellcheck](https://github.com/koalaman/shellcheck) | ShellCheck, a static analysis tool for shell scripts | koalaman | 39832 |
+| 45 |  [postgrest](https://github.com/PostgREST/postgrest) | REST API for any Postgres database | PostgREST | 27502 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Haxe
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [heaps](https://github.com/HeapsIO/heaps) | Heaps : Haxe Game Framework | HeapsIO | 3495 |
+| 1 |  [heaps](https://github.com/HeapsIO/heaps) | Heaps : Haxe Game Framework | HeapsIO | 3496 |
 | 2 |  [ldtk](https://github.com/deepnight/ldtk) | Modern, lightweight and efficient 2D level editor | deepnight | 4146 |
 
 **[⬆ Back to Index](#-contents)**
@@ -1440,54 +1440,54 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | krahets | 129235 |
-| 2 |  [smile](https://github.com/haifengl/smile) | Statistical Machine Intelligence &amp; Learning Engine | haifengl | 6412 |
+| 1 |  [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | krahets | 129257 |
+| 2 |  [smile](https://github.com/haifengl/smile) | Statistical Machine Intelligence &amp; Learning Engine | haifengl | 6411 |
 | 3 |  [flink-tutorials](https://github.com/cloudera/flink-tutorials) |  | cloudera | 204 |
-| 4 |  [pulsar](https://github.com/apache/pulsar) | Apache Pulsar - distributed pub-sub messaging system | apache | 15302 |
+| 4 |  [pulsar](https://github.com/apache/pulsar) | Apache Pulsar - distributed pub-sub messaging system | apache | 15304 |
 | 5 |  [Strata](https://github.com/OpenGamma/Strata) | Open source analytics and market risk library from OpenGamma | OpenGamma | 952 |
-| 6 |  [debezium](https://github.com/debezium/debezium) | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. | debezium | 12988 |
+| 6 |  [debezium](https://github.com/debezium/debezium) | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. | debezium | 12989 |
 | 7 |  [smallrye-reactive-messaging](https://github.com/smallrye/smallrye-reactive-messaging) | SmallRye Reactive Messaging | smallrye | 277 |
 | 8 |  [zeppelin](https://github.com/apache/zeppelin) | Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. | apache | 6649 |
 | 9 |  [incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) | OplaPlanner has moved to https://github.com/apache/incubator-kie-drools. This repository is archived. OptaPlanner is an AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems. | apache | 3510 |
-| 10 |  [flink](https://github.com/apache/flink) | Apache Flink | apache | 26248 |
-| 11 |  [graal](https://github.com/oracle/graal) | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 | oracle | 21657 |
-| 12 |  [graylog2-server](https://github.com/Graylog2/graylog2-server) | Free and open log management | Graylog2 | 8103 |
-| 13 |  [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com） | MisterBooo | 76674 |
-| 14 |  [zipkin](https://github.com/openzipkin/zipkin) | Zipkin is a distributed tracing system | openzipkin | 17453 |
+| 10 |  [flink](https://github.com/apache/flink) | Apache Flink | apache | 26249 |
+| 11 |  [graal](https://github.com/oracle/graal) | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 | oracle | 21659 |
+| 12 |  [graylog2-server](https://github.com/Graylog2/graylog2-server) | Free and open log management | Graylog2 | 8105 |
+| 13 |  [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com） | MisterBooo | 76687 |
+| 14 |  [zipkin](https://github.com/openzipkin/zipkin) | Zipkin is a distributed tracing system | openzipkin | 17452 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | gsd-build | 64748 |
-| 2 |  [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | chinese-poetry | 53036 |
+| 1 |  [get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | gsd-build | 64741 |
+| 2 |  [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | chinese-poetry | 53045 |
 | 3 |  [lotusdocs](https://github.com/colinwilson/lotusdocs) | 📖 A free, lightweight, modern documentation theme for Hugo | colinwilson | 693 |
 | 4 |  [ZSXQ-AI-Explainer](https://github.com/shijianzhiwai/ZSXQ-AI-Explainer) | 知识星球AI解释器 | shijianzhiwai | 7 |
-| 5 |  [sharedb](https://github.com/share/sharedb) | Realtime database backend based on Operational Transformation (OT) | share | 6539 |
-| 6 |  [automerge](https://github.com/automerge/automerge) | A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. | automerge | 6475 |
-| 7 |  [desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet | zen-browser | 43795 |
-| 8 |  [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman/Insomnia) | usebruno | 46163 |
+| 5 |  [sharedb](https://github.com/share/sharedb) | Realtime database backend based on Operational Transformation (OT) | share | 6540 |
+| 6 |  [automerge](https://github.com/automerge/automerge) | A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. | automerge | 6476 |
+| 7 |  [desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet | zen-browser | 43810 |
+| 8 |  [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman/Insomnia) | usebruno | 46182 |
 | 9 |  [parser](https://github.com/postlight/parser) | 📜 Extract meaningful content from the chaos of a web page | postlight | 5788 |
 | 10 |  [pldb](https://github.com/breck7/pldb) | PLDB: a Programming Language DataBase | breck7 | 787 |
 | 11 |  [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ | alyssaxuu | 7824 |
-| 12 |  [Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. | be5invis | 22586 |
-| 13 |  [ToolJet](https://github.com/ToolJet/ToolJet) | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 | ToolJet | 38298 |
-| 14 |  [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) | Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 | be5invis | 12605 |
+| 12 |  [Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. | be5invis | 22590 |
+| 13 |  [ToolJet](https://github.com/ToolJet/ToolJet) | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 | ToolJet | 38303 |
+| 14 |  [Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) | Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 | be5invis | 12610 |
 | 15 |  [rescript-in-korean](https://github.com/green-labs/rescript-in-korean) | 리스크립트 한국어 판 | green-labs | 106 |
 | 16 |  [Recoil](https://github.com/facebookexperimental/Recoil) | Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React. | facebookexperimental | 19442 |
 | 17 |  [gokrazy](https://github.com/gokrazy/gokrazy) | turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)! | gokrazy | 3475 |
 | 18 |  [Move-Camp](https://github.com/NonceGeek/Move-Camp) | Web3.0 Learning Camp | NonceGeek | 135 |
 | 19 |  [tailwindcss-jit-cdn](https://github.com/beyondcode/tailwindcss-jit-cdn) | Tailwind CSS JIT in your browser | beyondcode | 246 |
-| 20 |  [obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) | A plugin for reading and annotating PDFs and EPUBs in obsidian. | elias-sundqvist | 1762 |
-| 21 |  [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | microsoft | 96210 |
+| 20 |  [obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) | A plugin for reading and annotating PDFs and EPUBs in obsidian. | elias-sundqvist | 1763 |
+| 21 |  [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | microsoft | 96230 |
 | 22 |  [ramda](https://github.com/ramda/ramda) | :ram: Practical functional Javascript | ramda | 24061 |
 | 23 |  [kutty](https://github.com/praveenjuge/kutty) | Kutty is a tailwind plugin for building web applications. It has a set of accessible and reusable components that are commonly used in web applications. | praveenjuge | 867 |
 | 24 |  [react-leaflet-markercluster](https://github.com/yuzhva/react-leaflet-markercluster) | React wrapper of the official Leaflet.markercluster for react-leaflet | yuzhva | 332 |
 | 25 |  [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 中国程序员容易发音错误的单词 | shimohq | 23254 |
 | 26 |  [setup-beam](https://github.com/erlef/setup-beam) | Set up your BEAM-based GitHub Actions workflow (Erlang, Elixir, Gleam, ...) | erlef | 452 |
 | 27 |  [OmniDB](https://github.com/OmniDB/OmniDB) | Web tool for database management | OmniDB | 3289 |
-| 28 |  [web-skills](https://github.com/andreasbm/web-skills) | A visual overview of useful skills to learn as a web developer | andreasbm | 7577 |
+| 28 |  [web-skills](https://github.com/andreasbm/web-skills) | A visual overview of useful skills to learn as a web developer | andreasbm | 7580 |
 | 29 |  [setup-elixir](https://github.com/actions/setup-elixir) | Set up your GitHub Actions workflow with OTP and Elixir | actions | 157 |
 | 30 |  [axios-hooks](https://github.com/simoneb/axios-hooks) | 🦆 React hooks for axios | simoneb | 1894 |
 | 31 |  [vscode-recipes](https://github.com/microsoft/vscode-recipes) |  | microsoft | 5963 |
@@ -1495,9 +1495,9 @@
 | 33 |  [create-release](https://github.com/actions/create-release) | An Action to create releases via the GitHub Release API | actions | 1383 |
 | 34 |  [falcon](https://github.com/plotly/falcon) | Free, open-source SQL client for Windows and Mac 🦅 | plotly | 5101 |
 | 35 |  [matx-react](https://github.com/uilibrary/matx-react) | Matx -Free and open-source  React Material UI  Admin Dashboard Template | uilibrary | 976 |
-| 36 |  [material-ui](https://github.com/mui/material-ui) | Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever. | mui | 98694 |
-| 37 |  [uPlot](https://github.com/leeoniya/uPlot) | 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars | leeoniya | 10388 |
-| 38 |  [tabler-icons](https://github.com/tabler/tabler-icons) | A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects. | tabler | 21313 |
+| 36 |  [material-ui](https://github.com/mui/material-ui) | Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever. | mui | 98704 |
+| 37 |  [uPlot](https://github.com/leeoniya/uPlot) | 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars | leeoniya | 10390 |
+| 38 |  [tabler-icons](https://github.com/tabler/tabler-icons) | A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects. | tabler | 21315 |
 | 39 |  [statusfy](https://github.com/juliomrqz/statusfy) | A Marvelous Open Source Status Page System | juliomrqz | 2628 |
 | 40 |  [tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) | 🦎 Use Tailwind CSS in React Native projects | vadimdemedes | 4270 |
 | 41 |  [css.gg](https://github.com/astrit/css.gg) | 700+ Pure CSS, SVG &amp; Figma UI Icons, 6000+ glyphs, patterns, colors and layouts. | astrit | 10031 |
@@ -1505,70 +1505,70 @@
 | 43 |  [flickity](https://github.com/metafizzy/flickity) | :leaves: Touch, responsive, flickable carousels | metafizzy | 7574 |
 | 44 |  [create-issue-branch](https://github.com/robvanderleek/create-issue-branch) | Boost your GitHub workflow 🚀 | robvanderleek | 350 |
 | 45 |  [book_next](https://github.com/tyrchen/book_next) | wechat docs organized with the new makefile | tyrchen | 119 |
-| 46 |  [decap-cms](https://github.com/decaporg/decap-cms) | A Git-based CMS for Static Site Generators | decaporg | 19283 |
+| 46 |  [decap-cms](https://github.com/decaporg/decap-cms) | A Git-based CMS for Static Site Generators | decaporg | 19284 |
 | 47 |  [dbml](https://github.com/holistics/dbml) | Database Markup Language (DBML), designed to define and document database structures | holistics | 3671 |
-| 48 |  [next.js](https://github.com/vercel/next.js) | The React Framework | vercel | 141656 |
+| 48 |  [next.js](https://github.com/vercel/next.js) | The React Framework | vercel | 141678 |
 | 49 |  [razzle](https://github.com/jaredpalmer/razzle) | ✨ Create server-rendered universal JavaScript applications with no configuration | jaredpalmer | 11030 |
-| 50 |  [p5.js](https://github.com/processing/p5.js) | p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org | processing | 23848 |
+| 50 |  [p5.js](https://github.com/processing/p5.js) | p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org | processing | 23849 |
 | 51 |  [draqula](https://github.com/vadimdemedes/draqula) | 🧛 GraphQL client for minimalistic React apps | vadimdemedes | 763 |
 | 52 |  [tongjian](https://github.com/guoxue-study/tongjian) | 资治通鉴易读版 | guoxue-study | 366 |
 | 53 |  [haskell-resources](https://github.com/cohomolo-gy/haskell-resources) | A List of Foundational Haskell Papers | cohomolo-gy | 887 |
 | 54 |  [waka-box](https://github.com/matchai/waka-box) | 📊 Update a pinned gist to contain your weekly WakaTime stats | matchai | 1437 |
-| 55 |  [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | The best design tools and plugins for everything 👉 | goabstract | 40791 |
+| 55 |  [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | The best design tools and plugins for everything 👉 | goabstract | 40802 |
 | 56 |  [mostly-adequate-guide-example](https://github.com/morrxy/mostly-adequate-guide-example) |  | morrxy | 1 |
-| 57 |  [emotion](https://github.com/emotion-js/emotion) | 👩‍🎤 CSS-in-JS library designed for high performance style composition | emotion-js | 18016 |
-| 58 |  [react](https://github.com/react/react) | The library for web and native user interfaces. | react | 247071 |
+| 57 |  [emotion](https://github.com/emotion-js/emotion) | 👩‍🎤 CSS-in-JS library designed for high performance style composition | emotion-js | 18017 |
+| 58 |  [react](https://github.com/react/react) | The library for web and native user interfaces. | react | 247102 |
 | 59 |  [algernon](https://github.com/xyproto/algernon) | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++ | xyproto | 3023 |
 | 60 |  [cz-cli](https://github.com/commitizen/cz-cli) | The commitizen command line utility. #BlackLivesMatter | commitizen | 17497 |
-| 61 |  [sanctuary](https://github.com/sanctuary-js/sanctuary) | :see_no_evil: Refuge from unsafe JavaScript | sanctuary-js | 3052 |
+| 61 |  [sanctuary](https://github.com/sanctuary-js/sanctuary) | :see_no_evil: Refuge from unsafe JavaScript | sanctuary-js | 3051 |
 | 62 |  [fantasy-land](https://github.com/fantasyland/fantasy-land) | Specification for interoperability of common algebraic structures in JavaScript | fantasyland | 10240 |
-| 63 |  [codesandbox-client](https://github.com/codesandbox/codesandbox-client) | An online IDE for rapid web development | codesandbox | 13630 |
-| 64 |  [codelf](https://github.com/unbug/codelf) | A search tool helps dev to solve the naming things problem. | unbug | 14151 |
+| 63 |  [codesandbox-client](https://github.com/codesandbox/codesandbox-client) | An online IDE for rapid web development | codesandbox | 13631 |
+| 64 |  [codelf](https://github.com/unbug/codelf) | A search tool helps dev to solve the naming things problem. | unbug | 14150 |
 | 65 |  [mdx-deck](https://github.com/jxnblk/mdx-deck) | ♠️ React MDX-based presentation decks | jxnblk | 11500 |
-| 66 |  [lint-staged](https://github.com/lint-staged/lint-staged) | 🚫💩 — Run tasks like formatters and linters against staged git files | lint-staged | 14705 |
-| 67 |  [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support. | GitSquared | 45022 |
+| 66 |  [lint-staged](https://github.com/lint-staged/lint-staged) | 🚫💩 — Run tasks like formatters and linters against staged git files | lint-staged | 14707 |
+| 67 |  [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support. | GitSquared | 45027 |
 | 68 |  [browsh](https://github.com/browsh-org/browsh) | A fully-modern text-based browser, rendering to TTY and browsers | browsh-org | 18969 |
-| 69 |  [gatsby](https://github.com/gatsbyjs/gatsby) | React-based framework with performance, scalability, and security built in. | gatsbyjs | 55935 |
-| 70 |  [awesome-vscode](https://github.com/viatsko/awesome-vscode) | 🎨 A curated list of delightful VS Code packages and resources. | viatsko | 28934 |
+| 69 |  [gatsby](https://github.com/gatsbyjs/gatsby) | React-based framework with performance, scalability, and security built in. | gatsbyjs | 55936 |
+| 70 |  [awesome-vscode](https://github.com/viatsko/awesome-vscode) | 🎨 A curated list of delightful VS Code packages and resources. | viatsko | 28937 |
 | 71 |  [apidoc](https://github.com/apidoc/apidoc) | RESTful web API Documentation Generator. | apidoc | 9658 |
-| 72 |  [percollate](https://github.com/danburzo/percollate) | A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs. | danburzo | 4663 |
+| 72 |  [percollate](https://github.com/danburzo/percollate) | A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs. | danburzo | 4664 |
 | 73 |  [coverex](https://github.com/alfert/coverex) | Coverage Reports for Elixir | alfert | 102 |
-| 74 |  [marko](https://github.com/marko-js/marko) | A declarative, HTML-based language that makes building web apps fun | marko-js | 14396 |
-| 75 |  [up](https://github.com/byoungd/up) | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语 | byoungd | 57713 |
-| 76 |  [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) | 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料 | chaozh | 18953 |
-| 77 |  [axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js | axios | 109222 |
+| 74 |  [marko](https://github.com/marko-js/marko) | A declarative, HTML-based language that makes building web apps fun | marko-js | 14395 |
+| 75 |  [up](https://github.com/byoungd/up) | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语 | byoungd | 57767 |
+| 76 |  [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) | 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料 | chaozh | 18952 |
+| 77 |  [axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js | axios | 109229 |
 | 78 |  [timestamp](https://github.com/mzdr/timestamp) | ⏰ A better macOS menu bar clock. | mzdr | 307 |
-| 79 |  [nightmare](https://github.com/segment-boneyard/nightmare) | A high-level browser automation library. | segment-boneyard | 19782 |
-| 80 |  [webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &#34;loaders&#34;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | webpack | 65987 |
-| 81 |  [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) | Elegant theme for Hexo. | iissnan | 15779 |
-| 82 |  [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | Semantic is a UI component framework based around useful principles from natural language. | Semantic-Org | 51031 |
-| 83 |  [octotree](https://github.com/ovity/octotree) | GitHub on steroids | ovity | 23227 |
+| 79 |  [nightmare](https://github.com/segment-boneyard/nightmare) | A high-level browser automation library. | segment-boneyard | 19779 |
+| 80 |  [webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &#34;loaders&#34;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | webpack | 65988 |
+| 81 |  [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) | Elegant theme for Hexo. | iissnan | 15777 |
+| 82 |  [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | Semantic is a UI component framework based around useful principles from natural language. | Semantic-Org | 51028 |
+| 83 |  [octotree](https://github.com/ovity/octotree) | GitHub on steroids | ovity | 23226 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Jupyter Notebook
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) | Book_3_《数学要素》 \|   鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！ | Visualize-ML | 7567 |
-| 2 |  [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | microsoft | 116758 |
+| 1 |  [Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) | Book_3_《数学要素》 \|   鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！ | Visualize-ML | 7568 |
+| 2 |  [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | microsoft | 116921 |
 | 3 |  [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | PhotoMaker [CVPR 2024] | TencentARC | 10098 |
-| 4 |  [segment-anything](https://github.com/facebookresearch/segment-anything) | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. | facebookresearch | 54656 |
+| 4 |  [segment-anything](https://github.com/facebookresearch/segment-anything) | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. | facebookresearch | 54659 |
 | 5 |  [lora](https://github.com/cloneofsimo/lora) | Using Low-rank adaptation to quickly fine-tune diffusion models. | cloneofsimo | 7545 |
 | 6 |  [alpaca-lora](https://github.com/tloen/alpaca-lora) | Instruct-tune LLaMA on consumer hardware | tloen | 18911 |
 | 7 |  [fastpages](https://github.com/fastai/fastpages) | An easy to use blogging platform, with enhanced support for Jupyter Notebooks. | fastai | 3545 |
 | 8 |  [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs) | 小型金融知识图谱构建流程（neo4j / python / cypher / KG） | jm199504 | 3120 |
-| 9 |  [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) | This repository contains the source code for the paper First Order Motion Model for Image Animation | AliaksandrSiarohin | 15010 |
-| 10 |  [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | Learn how to develop, deploy and iterate on production-grade ML applications. | GokuMohandas | 48997 |
-| 11 |  [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | jackfrued | 184921 |
-| 12 |  [polynote](https://github.com/polynote/polynote) | A better notebook for Scala (and more) | polynote | 4596 |
+| 9 |  [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) | This repository contains the source code for the paper First Order Motion Model for Image Animation | AliaksandrSiarohin | 15012 |
+| 10 |  [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | Learn how to develop, deploy and iterate on production-grade ML applications. | GokuMohandas | 49007 |
+| 11 |  [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | jackfrued | 184969 |
+| 12 |  [polynote](https://github.com/polynote/polynote) | A better notebook for Scala (and more) | polynote | 4597 |
 | 13 |  [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) | Sample code for Channel 9 Python for Beginners course | microsoft | 8021 |
-| 14 |  [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) | One has no future if one couldn&#39;t teach themself. | selfteaching | 16269 |
+| 14 |  [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) | One has no future if one couldn&#39;t teach themself. | selfteaching | 16275 |
 | 15 |  [IHaskell](https://github.com/IHaskell/IHaskell) | A Haskell kernel for the Jupyter project. | IHaskell | 2649 |
-| 16 |  [lihang-code](https://github.com/fengdu78/lihang-code) | 《统计学习方法》的代码实现 | fengdu78 | 19589 |
+| 16 |  [lihang-code](https://github.com/fengdu78/lihang-code) | 《统计学习方法》的代码实现 | fengdu78 | 19588 |
 | 17 |  [IElixir](https://github.com/pprzetacznik/IElixir) | Jupyter&#39;s kernel for Elixir programming language | pprzetacznik | 369 |
-| 18 |  [pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics in Python | quantopian | 6390 |
+| 18 |  [pyfolio](https://github.com/quantopian/pyfolio) | Portfolio and risk analytics in Python | quantopian | 6391 |
 | 19 |  [pytudes](https://github.com/norvig/pytudes) | Python programs, usually short, of considerable difficulty, to perfect particular skills. | norvig | 24390 |
-| 20 |  [fastai](https://github.com/fastai/fastai) | The fastai deep learning library | fastai | 28115 |
+| 20 |  [fastai](https://github.com/fastai/fastai) | The fastai deep learning library | fastai | 28116 |
 | 21 |  [100days](https://github.com/coells/100days) | 100 days of algorithms | coells | 7481 |
 | 22 |  [python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) | Learn python3 in one picture. | rainyear | 5007 |
 
@@ -1577,10 +1577,10 @@
 ## Kotlin
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [quarkdown](https://github.com/iamgio/quarkdown) | 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases. | iamgio | 15883 |
-| 2 |  [mihon](https://github.com/mihonapp/mihon) | Free and open source manga reader for Android | mihonapp | 22610 |
-| 3 |  [extensions-source](https://github.com/keiyoushi/extensions-source) | Source code of extensions in https://github.com/keiyoushi/extensions | keiyoushi | 4491 |
-| 4 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 62075 |
+| 1 |  [quarkdown](https://github.com/iamgio/quarkdown) | 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases. | iamgio | 15881 |
+| 2 |  [mihon](https://github.com/mihonapp/mihon) | Free and open source manga reader for Android | mihonapp | 22635 |
+| 3 |  [extensions-source](https://github.com/keiyoushi/extensions-source) | Source code of extensions in https://github.com/keiyoushi/extensions | keiyoushi | 4496 |
+| 4 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 62095 |
 | 5 |  [android-example-app](https://github.com/elixir-desktop/android-example-app) | Android Studio project wrapper around the Elixir TodoApp Desktop app to run on Android including the Erlang runtime | elixir-desktop | 113 |
 | 6 |  [kotlin-native](https://github.com/JetBrains/kotlin-native) | Kotlin/Native infrastructure | JetBrains | 6974 |
 | 7 |  [JavaPhoenixClient](https://github.com/dsrees/JavaPhoenixClient) | Phoenix client for the JVM built with Kotlin | dsrees | 73 |
@@ -1594,23 +1594,23 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [druid](https://github.com/Insality/druid) | Powerful Defold UI component framework | Insality | 582 |
 | 2 |  [coerce.nvim](https://github.com/gregorias/coerce.nvim) | A Neovim plugin for changing keyword case. | gregorias | 174 |
-| 3 |  [blink.cmp](https://github.com/saghen/blink.cmp) | Performant, batteries-included completion plugin for Neovim | saghen | 6500 |
+| 3 |  [blink.cmp](https://github.com/saghen/blink.cmp) | Performant, batteries-included completion plugin for Neovim | saghen | 6504 |
 | 4 |  [supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) | The official Neovim plugin for Supermaven | supermaven-inc | 1456 |
-| 5 |  [avante.nvim](https://github.com/yetone/avante.nvim) | Use your Neovim like using Cursor AI IDE! | yetone | 18107 |
-| 6 |  [AstroNvim](https://github.com/AstroNvim/AstroNvim) | AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins | AstroNvim | 14418 |
-| 7 |  [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy | LazyVim | 27101 |
-| 8 |  [NvChad](https://github.com/NvChad/NvChad) | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. | NvChad | 28414 |
-| 9 |  [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim | folke | 21381 |
-| 10 |  [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration | nvim-lua | 31224 |
+| 5 |  [avante.nvim](https://github.com/yetone/avante.nvim) | Use your Neovim like using Cursor AI IDE! | yetone | 18110 |
+| 6 |  [AstroNvim](https://github.com/AstroNvim/AstroNvim) | AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins | AstroNvim | 14417 |
+| 7 |  [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy | LazyVim | 27109 |
+| 8 |  [NvChad](https://github.com/NvChad/NvChad) | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. | NvChad | 28419 |
+| 9 |  [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim | folke | 21386 |
+| 10 |  [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration | nvim-lua | 31228 |
 | 11 |  [neovim](https://github.com/rose-pine/neovim) | Soho vibes for Neovim | rose-pine | 3066 |
 | 12 |  [lush.nvim](https://github.com/rktjmp/lush.nvim) | Create Neovim themes with real-time feedback, export anywhere. | rktjmp | 1779 |
 | 13 |  [neorg](https://github.com/nvim-neorg/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | nvim-neorg | 7479 |
-| 14 |  [mason.nvim](https://github.com/mason-org/mason.nvim) | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. | mason-org | 10427 |
+| 14 |  [mason.nvim](https://github.com/mason-org/mason.nvim) | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. | mason-org | 10428 |
 | 15 |  [KwesomeDE](https://github.com/Kasper24/KwesomeDE) | A desktop environment made in AwesomeWM | Kasper24 | 378 |
 | 16 |  [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) | GitHub&#39;s Neovim themes | projekt0n | 2471 |
-| 17 |  [nvim](https://github.com/catppuccin/nvim) | 🍨 Soothing pastel theme for Neovim | catppuccin | 7563 |
+| 17 |  [nvim](https://github.com/catppuccin/nvim) | 🍨 Soothing pastel theme for Neovim | catppuccin | 7564 |
 | 18 |  [lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) | improve neovim lsp experience | nvimdev | 3795 |
-| 19 |  [lite](https://github.com/rxi/lite) | A lightweight text editor written in Lua | rxi | 8207 |
+| 19 |  [lite](https://github.com/rxi/lite) | A lightweight text editor written in Lua | rxi | 8208 |
 | 20 |  [PoorRemover](https://github.com/morrxy/PoorRemover) |  | morrxy | 1 |
 
 **[⬆ Back to Index](#-contents)**
@@ -1618,14 +1618,14 @@
 ## MDX
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | dair-ai | 77314 |
+| 1 |  [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. | dair-ai | 77335 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Makefile
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [getting-started](https://github.com/singer-io/getting-started) | This repository is a getting started guide to Singer. | singer-io | 1341 |
+| 1 |  [getting-started](https://github.com/singer-io/getting-started) | This repository is a getting started guide to Singer. | singer-io | 1342 |
 | 2 |  [stdapp.mk](https://github.com/klarna/stdapp.mk) | Generic Makefile for building Erlang applications | klarna | 5 |
 | 3 |  [unchained](https://github.com/tyrchen/unchained) | My personal study of blockchain related technology. | tyrchen | 392 |
 
@@ -1635,36 +1635,36 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) | the CS missing semester Chinese version | missing-semester-cn | 7366 |
-| 2 |  [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | Crack LeetCode, not only how, but also why. | labuladong | 135232 |
+| 2 |  [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | Crack LeetCode, not only how, but also why. | labuladong | 135253 |
 | 3 |  [raspibolt](https://github.com/raspibolt/raspibolt) | RaspiBolt v3: Bitcoin &amp; Lightning full node on a Raspberry Pi | raspibolt | 1259 |
-| 4 |  [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | codecrafters-io | 536869 |
+| 4 |  [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | codecrafters-io | 537450 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## MoonBit
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [core](https://github.com/moonbitlang/core) | MoonBit&#39;s Core library | moonbitlang | 1174 |
+| 1 |  [core](https://github.com/moonbitlang/core) | MoonBit&#39;s Core library | moonbitlang | 1175 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Nix
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [microvm.nix](https://github.com/microvm-nix/microvm.nix) | NixOS MicroVMs | microvm-nix | 2819 |
-| 2 |  [nix-flatpak](https://github.com/gmodena/nix-flatpak) | Install flatpaks declaratively | gmodena | 917 |
+| 1 |  [microvm.nix](https://github.com/microvm-nix/microvm.nix) | NixOS MicroVMs | microvm-nix | 2822 |
+| 2 |  [nix-flatpak](https://github.com/gmodena/nix-flatpak) | Install flatpaks declaratively | gmodena | 918 |
 | 3 |  [denix](https://github.com/yunfachi/denix) | Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices | yunfachi | 216 |
 | 4 |  [flakey-profile](https://github.com/lf-/flakey-profile) | Declarative profiles with nix flakes | lf- | 119 |
-| 5 |  [sops-nix](https://github.com/Mic92/sops-nix) | Atomic secret provisioning for NixOS based on sops | Mic92 | 3086 |
+| 5 |  [sops-nix](https://github.com/Mic92/sops-nix) | Atomic secret provisioning for NixOS based on sops | Mic92 | 3087 |
 | 6 |  [lib](https://github.com/snowfallorg/lib) | Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes. | snowfallorg | 626 |
-| 7 |  [alejandra](https://github.com/kamadorueda/alejandra) | The Uncompromising Nix Code Formatter | kamadorueda | 1383 |
-| 8 |  [system-manager](https://github.com/numtide/system-manager) | Manage system config using nix on any distro | numtide | 1667 |
-| 9 |  [NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) | Run macOS, Windows and more via a single Nix command, or simple nixosModules | MatthewCroughan | 713 |
-| 10 |  [nix-config](https://github.com/gvolpe/nix-config) | :space_invader: NixOS configuration :space_invader: | gvolpe | 1097 |
-| 11 |  [nix-darwin](https://github.com/nix-darwin/nix-darwin) | Manage your macOS using Nix | nix-darwin | 5784 |
+| 7 |  [alejandra](https://github.com/kamadorueda/alejandra) | The Uncompromising Nix Code Formatter | kamadorueda | 1384 |
+| 8 |  [system-manager](https://github.com/numtide/system-manager) | Manage system config using nix on any distro | numtide | 1668 |
+| 9 |  [NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) | Run macOS, Windows and more via a single Nix command, or simple nixosModules | MatthewCroughan | 714 |
+| 10 |  [nix-config](https://github.com/gvolpe/nix-config) | :space_invader: NixOS configuration :space_invader: | gvolpe | 1098 |
+| 11 |  [nix-darwin](https://github.com/nix-darwin/nix-darwin) | Manage your macOS using Nix | nix-darwin | 5786 |
 | 12 |  [terranix](https://github.com/terranix/terranix) | terranix is a Nix-based Terraform JSON generator [maintainer=@sshine] | terranix | 501 |
 | 13 |  [nixos-config](https://github.com/srid/nixos-config) | KISS NixOS configuration based on Flakes &amp; flake-parts (supports macOS too) | srid | 584 |
-| 14 |  [home-manager](https://github.com/nix-community/home-manager) | Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] | nix-community | 10183 |
+| 14 |  [home-manager](https://github.com/nix-community/home-manager) | Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] | nix-community | 10192 |
 | 15 |  [haskell.nix](https://github.com/input-output-hk/haskell.nix) | Alternative Haskell Infrastructure for Nixpkgs | input-output-hk | 632 |
 
 **[⬆ Back to Index](#-contents)**
@@ -1686,7 +1686,7 @@
 ## Objective-C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | Staggeringly powerful macOS desktop automation with Lua | Hammerspoon | 15862 |
+| 1 |  [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | Staggeringly powerful macOS desktop automation with Lua | Hammerspoon | 15892 |
 | 2 |  [uebersicht](https://github.com/felixhageloh/uebersicht) | ˈyːbɐˌzɪçt | felixhageloh | 4976 |
 | 3 |  [Itsycal](https://github.com/sfsam/Itsycal) | Itsycal is a tiny calendar for your Mac&#39;s menu bar. http://www.mowglii.com/itsycal | sfsam | 3975 |
 
@@ -1702,90 +1702,90 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models | x1xhlol | 142627 |
-| 2 |  [godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) | Godot Minimal Theme | passivestar | 3779 |
-| 3 |  [awesome-godot](https://github.com/godotengine/awesome-godot) | A curated list of free/libre plugins, scripts and add-ons for Godot | godotengine | 10507 |
-| 4 |  [GodotSteam](https://github.com/GodotSteam/GodotSteam) | An ecosystem of tools for Godot Engine and Valve&#39;s Steam. For Linux, Mac, and Windows. | GodotSteam | 3736 |
-| 5 |  [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | HumanAIGC | 14796 |
-| 6 |  [Bob](https://github.com/ripperhe/Bob) | Bob 是一款 macOS 平台的翻译和 OCR 软件。 | ripperhe | 9716 |
-| 7 |  [nostr](https://github.com/nostr-protocol/nostr) | a truly censorship-resistant alternative to Twitter that has a chance of working | nostr-protocol | 11884 |
-| 8 |  [awesome-nix](https://github.com/nix-community/awesome-nix) | 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] | nix-community | 5349 |
-| 9 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 29835 |
+| 1 |  [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models | x1xhlol | 142644 |
+| 2 |  [godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) | Godot Minimal Theme | passivestar | 3780 |
+| 3 |  [awesome-godot](https://github.com/godotengine/awesome-godot) | A curated list of free/libre plugins, scripts and add-ons for Godot | godotengine | 10513 |
+| 4 |  [GodotSteam](https://github.com/GodotSteam/GodotSteam) | An ecosystem of tools for Godot Engine and Valve&#39;s Steam. For Linux, Mac, and Windows. | GodotSteam | 3737 |
+| 5 |  [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | HumanAIGC | 14794 |
+| 6 |  [Bob](https://github.com/ripperhe/Bob) | Bob 是一款 macOS 平台的翻译和 OCR 软件。 | ripperhe | 9717 |
+| 7 |  [nostr](https://github.com/nostr-protocol/nostr) | a truly censorship-resistant alternative to Twitter that has a chance of working | nostr-protocol | 11892 |
+| 8 |  [awesome-nix](https://github.com/nix-community/awesome-nix) | 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] | nix-community | 5350 |
+| 9 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 29834 |
 | 10 |  [fly-kong](https://github.com/hbagdi/fly-kong) | Deploy Kong to fly.io using Kong Konnect | hbagdi | 9 |
 | 11 |  [safe-ecto-migrations](https://github.com/fly-apps/safe-ecto-migrations) | Guide to Safe Ecto Migrations | fly-apps | 387 |
-| 12 |  [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. | Developer-Y | 82947 |
-| 13 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 175168 |
+| 12 |  [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. | Developer-Y | 82948 |
+| 13 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 175184 |
 | 14 |  [Best-README-Template](https://github.com/othneildrew/Best-README-Template) | An awesome README template to jumpstart your projects! | othneildrew | 16265 |
-| 15 |  [learning](https://github.com/amitness/learning) | A log of things I&#39;m learning | amitness | 6936 |
+| 15 |  [learning](https://github.com/amitness/learning) | A log of things I&#39;m learning | amitness | 6938 |
 | 16 |  [paper-reading](https://github.com/mli/paper-reading) | 深度学习经典、新论文逐段精读 | mli | 33660 |
 | 17 |  [modern-unix](https://github.com/ibraheemdev/modern-unix) | A collection of modern/faster/saner alternatives to common unix commands. | ibraheemdev | 33008 |
-| 18 |  [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugins list, theme list, and releases of Obsidian. | obsidianmd | 20593 |
-| 19 |  [HEAD](https://github.com/joshbuchea/HEAD) | A simple guide to HTML &amp;lt;head&amp;gt; elements | joshbuchea | 30259 |
+| 18 |  [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugins list, theme list, and releases of Obsidian. | obsidianmd | 20618 |
+| 19 |  [HEAD](https://github.com/joshbuchea/HEAD) | A simple guide to HTML &amp;lt;head&amp;gt; elements | joshbuchea | 30261 |
 | 20 |  [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) | 🦄 Shades of Purple offers a hand-picked selection of bold and vibrant shades of purple that will transform your code into a visually stunning masterpiece. With its carefully crafted color palette, this theme brings a sense of style, elegance, and whimsy to your favorite code editor, making your coding sessions a delightful journey of creativity. | ahmadawais | 785 |
-| 21 |  [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs &amp; deep learning strategies &amp; tools in financial market. | georgezouq | 6354 |
+| 21 |  [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs &amp; deep learning strategies &amp; tools in financial market. | georgezouq | 6358 |
 | 22 |  [real-time-phoenix-notes](https://github.com/albertlee/real-time-phoenix-notes) |  | albertlee | 28 |
 | 23 |  [tpp_feedback](https://github.com/cloudwu/tpp_feedback) | 《程序员修炼之道》第二版中译反馈 | cloudwu | 114 |
 | 24 |  [COVID-19](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE | CSSEGISandData | 28913 |
 | 25 |  [ddd-dynamic](https://github.com/valignatev/ddd-dynamic) | Domain Driven Design in Python, Ruby and other dynamic languages resources | valignatev | 1400 |
 | 26 |  [react-basic](https://github.com/reactjs/react-basic) | A description of the conceptual model of React without implementation burden. | reactjs | 4449 |
-| 27 |  [kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) | 天涯 kkndme 神贴聊房价 | kkndmetianya | 19425 |
-| 28 |  [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) | 😎 Awesome things related to Tailwind CSS | aniftyco | 15106 |
+| 27 |  [kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) | 天涯 kkndme 神贴聊房价 | kkndmetianya | 19426 |
+| 28 |  [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) | 😎 Awesome things related to Tailwind CSS | aniftyco | 15107 |
 | 29 |  [chiaki](https://github.com/thestr4ng3r/chiaki) | Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client | thestr4ng3r | 2222 |
-| 30 |  [api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | microsoft | 23319 |
+| 30 |  [api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | microsoft | 23317 |
 | 31 |  [Fantastic-Front-End-Toolbox](https://github.com/jamesctucker/Fantastic-Front-End-Toolbox) | A collection of tools, tutorials, and other resources for those learning web development. | jamesctucker | 703 |
 | 32 |  [BritishCouncil-LearnEnglishKids](https://github.com/KleeTaurus/BritishCouncil-LearnEnglishKids) |  | KleeTaurus | 2 |
 | 33 |  [eng-practices](https://github.com/google/eng-practices) | Google&#39;s Engineering Practices documentation | google | 23314 |
-| 34 |  [free-books](https://github.com/ruanyf/free-books) | 互联网上的免费书籍 | ruanyf | 15937 |
+| 34 |  [free-books](https://github.com/ruanyf/free-books) | 互联网上的免费书籍 | ruanyf | 15942 |
 | 35 |  [rust-learning](https://github.com/ctjhoa/rust-learning) | A bunch of links to blog posts, articles, videos, etc for learning Rust | ctjhoa | 12222 |
-| 36 |  [photopea](https://github.com/photopea/photopea) | Photopea is online image editor | photopea | 8383 |
+| 36 |  [photopea](https://github.com/photopea/photopea) | Photopea is online image editor | photopea | 8385 |
 | 37 |  [lego-lang](https://github.com/josevalim/lego-lang) | A kernel language specification | josevalim | 59 |
 | 38 |  [unixbar](https://github.com/valpackett/unixbar) | Rust library for creating output for UNIX-style desktop bars like i3bar/swaybar, dzen2, lemonbar \| now on https://codeberg.org/valpackett/unixbar | valpackett | 117 |
-| 39 |  [notable](https://github.com/notable/notable) | The Markdown-based note-taking app that doesn&#39;t suck. | notable | 23494 |
-| 40 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 237049 |
+| 39 |  [notable](https://github.com/notable/notable) | The Markdown-based note-taking app that doesn&#39;t suck. | notable | 23496 |
+| 40 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 237184 |
 | 41 |  [beam-dashboards](https://github.com/prometheus-erl/beam-dashboards) | BEAM :heart: Prometheus :heart: Grafana | prometheus-erl | 289 |
-| 42 |  [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | 😱 Falsehoods Programmers Believe in | kdeldycke | 27601 |
+| 42 |  [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | 😱 Falsehoods Programmers Believe in | kdeldycke | 27608 |
 | 43 |  [slate](https://github.com/slatedocs/slate) | Beautiful static documentation for your API | slatedocs | 36048 |
-| 44 |  [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | sdras | 28105 |
+| 44 |  [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | sdras | 28107 |
 | 45 |  [elixirconf-2018](https://github.com/sabondano/elixirconf-2018) | A collection of links that cover what happened during ElixirConf 2018 :hatched_chick: :fire:. Please feel free to submit a PR! | sabondano | 55 |
-| 46 |  [pwc](https://github.com/zziz/pwc) | This repository is no longer maintained. | zziz | 15324 |
-| 47 |  [awesome-tmux](https://github.com/rothgar/awesome-tmux) | A list of awesome resources for tmux | rothgar | 10226 |
-| 48 |  [EliteQuant](https://github.com/EliteQuant/EliteQuant) | A list of online resources for quantitative modeling, trading, portfolio management | EliteQuant | 4100 |
+| 46 |  [pwc](https://github.com/zziz/pwc) | This repository is no longer maintained. | zziz | 15323 |
+| 47 |  [awesome-tmux](https://github.com/rothgar/awesome-tmux) | A list of awesome resources for tmux | rothgar | 10227 |
+| 48 |  [EliteQuant](https://github.com/EliteQuant/EliteQuant) | A list of online resources for quantitative modeling, trading, portfolio management | EliteQuant | 4102 |
 | 49 |  [protocol](https://github.com/firmata/protocol) | Documentation of the Firmata protocol. | firmata | 1021 |
 | 50 |  [awesome-resources](https://github.com/tyrchen/awesome-resources) | books, videos, online classes and other resources which helped me. | tyrchen | 28 |
 | 51 |  [beam-wisdoms](https://github.com/kvakvs/beam-wisdoms) | Wiki containing pieces of information and knowledge about BEAM Virtual machine (which runs Erlang/OTP and other BEAM-based languages). | kvakvs | 543 |
 | 52 |  [elixir-style-guide](https://github.com/lexmag/elixir-style-guide) | An opinionated Elixir style guide | lexmag | 528 |
 | 53 |  [the-zen-of-elixir](https://github.com/tony612/the-zen-of-elixir) | Collection of top articles reflecting the Zen of Elixir | tony612 | 157 |
-| 54 |  [exercism](https://github.com/exercism/exercism) | Crowd-sourced code mentorship. Practice having thoughtful conversations about code. | exercism | 7577 |
+| 54 |  [exercism](https://github.com/exercism/exercism) | Crowd-sourced code mentorship. Practice having thoughtful conversations about code. | exercism | 7578 |
 | 55 |  [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) | Collection of awesome podcasts | rShetty | 13054 |
 | 56 |  [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) | Collection of helpful tips and tricks for VS Code. | microsoft | 9049 |
 | 57 |  [awesome-erlang](https://github.com/drobakowski/awesome-erlang) | A curated list of awesome Erlang libraries, resources and shiny things. | drobakowski | 1709 |
 | 58 |  [gopher-reading-list](https://github.com/enocom/gopher-reading-list) | A curated selection of blog posts on Go | enocom | 8043 |
 | 59 |  [elixir_guide_cn](https://github.com/elixir-lang-china/elixir_guide_cn) | Elixir入门文档中文（简体）翻译计划 | elixir-lang-china | 287 |
-| 60 |  [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | binhnguyennus | 73026 |
+| 60 |  [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | binhnguyennus | 73054 |
 | 61 |  [hi-blockchain](https://github.com/KleeTaurus/hi-blockchain) | Awesome blockchain resources | KleeTaurus | 15 |
 | 62 |  [awesome-elm](https://github.com/sporto/awesome-elm) | A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket: | sporto | 3687 |
 | 63 |  [awesome-parcel](https://github.com/parcel-bundler/awesome-parcel) | 🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates | parcel-bundler | 1393 |
-| 64 |  [go-perfbook](https://github.com/dgryski/go-perfbook) | Thoughts on Go performance optimization | dgryski | 10898 |
+| 64 |  [go-perfbook](https://github.com/dgryski/go-perfbook) | Thoughts on Go performance optimization | dgryski | 10896 |
 | 65 |  [awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) | 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly | appcypher | 4441 |
-| 66 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 358022 |
-| 67 |  [git-flight-rules](https://github.com/k88hudson/git-flight-rules) | Flight rules for git | k88hudson | 42595 |
-| 68 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about | mtdvio | 100229 |
-| 69 |  [learn-regex](https://github.com/ziishaned/learn-regex) | Learn regex the easy way | ziishaned | 46081 |
+| 66 |  [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. | jwasham | 358121 |
+| 67 |  [git-flight-rules](https://github.com/k88hudson/git-flight-rules) | Flight rules for git | k88hudson | 42597 |
+| 68 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about | mtdvio | 100238 |
+| 69 |  [learn-regex](https://github.com/ziishaned/learn-regex) | Learn regex the easy way | ziishaned | 46083 |
 | 70 |  [golang-notes](https://github.com/luciotato/golang-notes) | Notes to understand golang | luciotato | 1496 |
 | 71 |  [design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) | An ultra-simplified explanation to design patterns | nilbuild | 48419 |
 | 72 |  [awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes) | Resources for learning and using recursion schemes. | passy | 1305 |
 | 73 |  [api-cheat-sheet](https://github.com/RestCheatSheet/api-cheat-sheet) | API Design Guidelines and Best Practices Cheat Sheet | RestCheatSheet | 1162 |
 | 74 |  [pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) | A curated list of topics to start learning software engineering | vicoyeh | 5736 |
-| 75 |  [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) | Docker Cheat Sheet | wsargent | 22539 |
-| 76 |  [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) | A guide on how to be a Programmer - originally published by Robert L Read | braydie | 16305 |
+| 75 |  [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) | Docker Cheat Sheet | wsargent | 22538 |
+| 76 |  [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) | A guide on how to be a Programmer - originally published by Robert L Read | braydie | 16307 |
 | 77 |  [mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) | Be great at emacs in one year | redguardtoo | 6452 |
 | 78 |  [spacemacs-logo](https://github.com/nashamri/spacemacs-logo) | A logo for spacemacs | nashamri | 56 |
-| 79 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 162030 |
-| 80 |  [js-must-watch](https://github.com/bolshchikov/js-must-watch) | Must-watch videos about javascript | bolshchikov | 13600 |
-| 81 |  [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | justjavac | 118167 |
-| 82 |  [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google (Material Symbols) | google | 53721 |
+| 79 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 162040 |
+| 80 |  [js-must-watch](https://github.com/bolshchikov/js-must-watch) | Must-watch videos about javascript | bolshchikov | 13601 |
+| 81 |  [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | justjavac | 118196 |
+| 82 |  [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google (Material Symbols) | google | 53727 |
 | 83 |  [fig-standards](https://github.com/php-fig/fig-standards) | Standards either proposed or approved by the Framework Interop Group | php-fig | 12518 |
-| 84 |  [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. | kahun | 24344 |
+| 84 |  [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. | kahun | 24346 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1793,10 +1793,10 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [php-pm](https://github.com/php-pm/php-pm) | PPM is a process manager, supercharger and load balancer for modern PHP applications. | php-pm | 6551 |
-| 2 |  [psysh](https://github.com/bobthecow/psysh) | A REPL for PHP | bobthecow | 9835 |
+| 2 |  [psysh](https://github.com/bobthecow/psysh) | A REPL for PHP | bobthecow | 9834 |
 | 3 |  [fractal](https://github.com/thephpleague/fractal) | Output complex, flexible, AJAX/RESTful data structures. | thephpleague | 3545 |
 | 4 |  [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) | Sample code for several design patterns in PHP 8.x | DesignPatternsPHP | 22186 |
-| 5 |  [Carbon](https://github.com/briannesbitt/Carbon) | A simple PHP API extension for DateTime. | briannesbitt | 16611 |
+| 5 |  [Carbon](https://github.com/briannesbitt/Carbon) | A simple PHP API extension for DateTime. | briannesbitt | 16610 |
 | 6 |  [framework](https://github.com/laravel/framework) | Laravel is a web application framework with expressive, elegant syntax. | laravel | 34851 |
 
 **[⬆ Back to Index](#-contents)**
@@ -1827,7 +1827,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [statistics](https://github.com/CrumpLab/statistics) | An open statistics textbook for Psychology undergraduates | CrumpLab | 158 |
-| 2 |  [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34; | kenjihiranabe | 21659 |
+| 2 |  [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34; | kenjihiranabe | 21663 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1842,90 +1842,90 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [vollib](https://github.com/vollib/vollib) | Fundamentally a swig/python wrapper around Peter Jaeckel&#39;s lets_be_rational.  lets_be_rational focuses exclusively on Black76, while Vollib extends this to add support for Black-Scholes and Black-Scholes-Merton. | vollib | 1013 |
-| 2 |  [marimo](https://github.com/marimo-team/marimo) | A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. | marimo-team | 22249 |
-| 3 |  [spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development | github | 125619 |
-| 4 |  [posting](https://github.com/darrenburns/posting) | The modern API client that lives in your terminal. | darrenburns | 12235 |
-| 5 |  [PocketFlow](https://github.com/The-Pocket/PocketFlow) | Pocket Flow: 100-line LLM framework. Let Agents build Agents! | The-Pocket | 11086 |
-| 6 |  [unstract](https://github.com/Zipstack/unstract) | LLM-Driven Extraction of Unstructured Data — Built for API Deployments &amp; ETL Pipeline Workflows | Zipstack | 7122 |
+| 2 |  [marimo](https://github.com/marimo-team/marimo) | A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. | marimo-team | 22259 |
+| 3 |  [spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development | github | 125760 |
+| 4 |  [posting](https://github.com/darrenburns/posting) | The modern API client that lives in your terminal. | darrenburns | 12239 |
+| 5 |  [PocketFlow](https://github.com/The-Pocket/PocketFlow) | Pocket Flow: 100-line LLM framework. Let Agents build Agents! | The-Pocket | 11084 |
+| 6 |  [unstract](https://github.com/Zipstack/unstract) | LLM-Driven Extraction of Unstructured Data — Built for API Deployments &amp; ETL Pipeline Workflows | Zipstack | 7126 |
 | 7 |  [data-formulator](https://github.com/microsoft/data-formulator) | 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data. | microsoft | 16009 |
-| 8 |  [unsloth](https://github.com/unslothai/unsloth) | Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models. | unslothai | 69652 |
-| 9 |  [web-ui](https://github.com/browser-use/web-ui) | 🖥️ Run AI Agent in your browser. | browser-use | 16264 |
-| 10 |  [WrenAI](https://github.com/Canner/WrenAI) | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. | Canner | 17138 |
-| 11 |  [Robyn](https://github.com/sparckles/Robyn) | Robyn is a Super Fast Async Python Web Framework with a Rust runtime. | sparckles | 7358 |
-| 12 |  [browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | browser-use | 108093 |
+| 8 |  [unsloth](https://github.com/unslothai/unsloth) | Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models. | unslothai | 69685 |
+| 9 |  [web-ui](https://github.com/browser-use/web-ui) | 🖥️ Run AI Agent in your browser. | browser-use | 16268 |
+| 10 |  [WrenAI](https://github.com/Canner/WrenAI) | GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. | Canner | 17178 |
+| 11 |  [Robyn](https://github.com/sparckles/Robyn) | Robyn is a Super Fast Async Python Web Framework with a Rust runtime. | sparckles | 7359 |
+| 12 |  [browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | browser-use | 108190 |
 | 13 |  [MarS](https://github.com/microsoft/MarS) | MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model | microsoft | 1773 |
-| 14 |  [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) | Xiaomi Home Integration for Home Assistant | XiaoMi | 21969 |
-| 15 |  [chdb](https://github.com/chdb-io/chdb) | chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse | chdb-io | 2856 |
-| 16 |  [stock](https://github.com/myhhub/stock) | stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。 | myhhub | 13707 |
+| 14 |  [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) | Xiaomi Home Integration for Home Assistant | XiaoMi | 21974 |
+| 15 |  [chdb](https://github.com/chdb-io/chdb) | chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse | chdb-io | 2857 |
+| 16 |  [stock](https://github.com/myhhub/stock) | stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。 | myhhub | 13715 |
 | 17 |  [samurai](https://github.com/yangchris11/samurai) | Official repository of &#34;SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory&#34; | yangchris11 | 7105 |
-| 18 |  [beancount](https://github.com/beancount/beancount) | Beancount: Double-Entry Accounting from Text Files. | beancount | 5877 |
+| 18 |  [beancount](https://github.com/beancount/beancount) | Beancount: Double-Entry Accounting from Text Files. | beancount | 5881 |
 | 19 |  [fish-ai](https://github.com/Realiserad/fish-ai) | Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪 | Realiserad | 553 |
-| 20 |  [mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents | mem0ai | 62705 |
-| 21 |  [litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] | BerriAI | 55750 |
-| 22 |  [grok-1](https://github.com/xai-org/grok-1) | Grok open release | xai-org | 52099 |
-| 23 |  [ccxt](https://github.com/ccxt/ccxt) | A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java | ccxt | 43552 |
-| 24 |  [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | freqtrade | 53013 |
-| 25 |  [OpenLLM](https://github.com/bentoml/OpenLLM) | Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. | bentoml | 12453 |
+| 20 |  [mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI Agents | mem0ai | 62776 |
+| 21 |  [litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] | BerriAI | 55825 |
+| 22 |  [grok-1](https://github.com/xai-org/grok-1) | Grok open release | xai-org | 52104 |
+| 23 |  [ccxt](https://github.com/ccxt/ccxt) | A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java | ccxt | 43556 |
+| 24 |  [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | freqtrade | 53053 |
+| 25 |  [OpenLLM](https://github.com/bentoml/OpenLLM) | Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. | bentoml | 12452 |
 | 26 |  [text2config](https://github.com/FingerLiu/text2config) | Convert natural language text to configuration files(yaml/ini/conf/json) of various projects(docker/kubernetes/vim/nginx/postgres/terraform) with the power of Pre-Trained models. | FingerLiu | 5 |
-| 27 |  [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | deepspeedai | 42870 |
-| 28 |  [langchain](https://github.com/langchain-ai/langchain) | The agent engineering platform. | langchain-ai | 143575 |
+| 27 |  [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | deepspeedai | 42878 |
+| 28 |  [langchain](https://github.com/langchain-ai/langchain) | The agent engineering platform. | langchain-ai | 143642 |
 | 29 |  [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making large AI models cheaper, faster and more accessible | hpcaitech | 41432 |
-| 30 |  [streamlit](https://github.com/streamlit/streamlit) | Streamlit — A faster way to build and share data apps. | streamlit | 45502 |
+| 30 |  [streamlit](https://github.com/streamlit/streamlit) | Streamlit — A faster way to build and share data apps. | streamlit | 45512 |
 | 31 |  [nixops](https://github.com/NixOS/nixops) | NixOps is a tool for deploying to NixOS machines in a network or cloud. | NixOS | 2183 |
-| 32 |  [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. | huggingface | 163421 |
+| 32 |  [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. | huggingface | 163444 |
 | 33 |  [awesome-scala](https://github.com/lauris/awesome-scala) | A community driven list of useful Scala libraries, frameworks and software. | lauris | 9227 |
-| 34 |  [flet](https://github.com/flet-dev/flet) | Build realtime web, mobile and desktop apps in Python only. No frontend experience required. | flet-dev | 16431 |
-| 35 |  [mihomo](https://github.com/MetaCubeX/mihomo) | A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. | MetaCubeX | 32993 |
-| 36 |  [activitywatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. | ActivityWatch | 18518 |
-| 37 |  [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 | RunaCapital | 19444 |
-| 38 |  [yadm](https://github.com/yadm-dev/yadm) | Yet Another Dotfiles Manager | yadm-dev | 6376 |
-| 39 |  [posthog](https://github.com/PostHog/posthog) | :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. | PostHog | 37537 |
-| 40 |  [dagster](https://github.com/dagster-io/dagster) | An orchestration platform for the development, production, and observation of data assets. | dagster-io | 15940 |
-| 41 |  [openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. | commaai | 63351 |
-| 42 |  [blind_watermark](https://github.com/guofei9987/blind_watermark) | Blind&amp;Invisible Watermark ，图片盲水印，提取水印无须原图！ | guofei9987 | 14351 |
-| 43 |  [jqfactor_analyzer](https://github.com/JoinQuant/jqfactor_analyzer) | 聚宽单因子分析工具 | JoinQuant | 678 |
-| 44 |  [professional-programming](https://github.com/charlax/professional-programming) | A collection of learning resources for curious software engineers | charlax | 51333 |
-| 45 |  [alpha_vantage](https://github.com/RomelTorres/alpha_vantage) | A python wrapper for Alpha Vantage API for financial data. | RomelTorres | 4883 |
+| 34 |  [flet](https://github.com/flet-dev/flet) | Build realtime web, mobile and desktop apps in Python only. No frontend experience required. | flet-dev | 16434 |
+| 35 |  [mihomo](https://github.com/MetaCubeX/mihomo) | A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. | MetaCubeX | 33025 |
+| 36 |  [activitywatch](https://github.com/ActivityWatch/activitywatch) | The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. | ActivityWatch | 18525 |
+| 37 |  [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 | RunaCapital | 19449 |
+| 38 |  [yadm](https://github.com/yadm-dev/yadm) | Yet Another Dotfiles Manager | yadm-dev | 6378 |
+| 39 |  [posthog](https://github.com/PostHog/posthog) | :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. | PostHog | 37548 |
+| 40 |  [dagster](https://github.com/dagster-io/dagster) | An orchestration platform for the development, production, and observation of data assets. | dagster-io | 15943 |
+| 41 |  [openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. | commaai | 63358 |
+| 42 |  [blind_watermark](https://github.com/guofei9987/blind_watermark) | Blind&amp;Invisible Watermark ，图片盲水印，提取水印无须原图！ | guofei9987 | 14493 |
+| 43 |  [jqfactor_analyzer](https://github.com/JoinQuant/jqfactor_analyzer) | 聚宽单因子分析工具 | JoinQuant | 681 |
+| 44 |  [professional-programming](https://github.com/charlax/professional-programming) | A collection of learning resources for curious software engineers | charlax | 51337 |
+| 45 |  [alpha_vantage](https://github.com/RomelTorres/alpha_vantage) | A python wrapper for Alpha Vantage API for financial data. | RomelTorres | 4884 |
 | 46 |  [seaborn](https://github.com/mwaskom/seaborn) | Statistical data visualization in Python | mwaskom | 13988 |
-| 47 |  [yfinance](https://github.com/ranaroussi/yfinance) | Download market data from Yahoo! Finance&#39;s API | ranaroussi | 24905 |
+| 47 |  [yfinance](https://github.com/ranaroussi/yfinance) | Download market data from Yahoo! Finance&#39;s API | ranaroussi | 24910 |
 | 48 |  [zipline](https://github.com/quantopian/zipline) | Zipline, a Pythonic Algorithmic Trading Library | quantopian | 20028 |
-| 49 |  [prefect](https://github.com/PrefectHQ/prefect) | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. | PrefectHQ | 23564 |
-| 50 |  [gallery-dl](https://github.com/mikf/gallery-dl) | Command-line program to download image galleries and collections from several image hosting sites | mikf | 19126 |
-| 51 |  [ray](https://github.com/ray-project/ray) | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | ray-project | 43460 |
+| 49 |  [prefect](https://github.com/PrefectHQ/prefect) | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. | PrefectHQ | 23571 |
+| 50 |  [gallery-dl](https://github.com/mikf/gallery-dl) | Command-line program to download image galleries and collections from several image hosting sites | mikf | 19141 |
+| 51 |  [ray](https://github.com/ray-project/ray) | Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | ray-project | 43466 |
 | 52 |  [knowledge-repo](https://github.com/airbnb/knowledge-repo) | A next-generation curated knowledge sharing platform for data scientists and other technical professions. | airbnb | 5540 |
 | 53 |  [iredis](https://github.com/laixintao/iredis) | Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting. | laixintao | 2738 |
 | 54 |  [quay](https://github.com/quay/quay) | Build, Store, and Distribute your Applications and Containers | quay | 2815 |
-| 55 |  [BentoML](https://github.com/bentoml/BentoML) | The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more! | bentoml | 8762 |
-| 56 |  [Cookbook](https://github.com/andkret/Cookbook) | The Data Engineering Cookbook | andkret | 15195 |
+| 55 |  [BentoML](https://github.com/bentoml/BentoML) | The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more! | bentoml | 8764 |
+| 56 |  [Cookbook](https://github.com/andkret/Cookbook) | The Data Engineering Cookbook | andkret | 15196 |
 | 57 |  [epr](https://github.com/wustho/epr) | CLI Epub Reader | wustho | 1398 |
 | 58 |  [ipwndfu](https://github.com/axi0mX/ipwndfu) | open-source jailbreaking tool for many iOS devices | axi0mX | 7385 |
-| 59 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 362034 |
-| 60 |  [PySnooper](https://github.com/cool-RR/PySnooper) | Never use print for debugging again | cool-RR | 16580 |
+| 59 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 362229 |
+| 60 |  [PySnooper](https://github.com/cool-RR/PySnooper) | Never use print for debugging again | cool-RR | 16579 |
 | 61 |  [service-flow-conductor](https://github.com/FingerLiu/service-flow-conductor) | service-flow-conductor(SFC) is a service management system in microservice arch. | FingerLiu | 5 |
-| 62 |  [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 | Vonng | 23299 |
+| 62 |  [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 | Vonng | 23304 |
 | 63 |  [anti-996](https://github.com/anti-996/anti-996) | anti 996 association | anti-996 | 10 |
 | 64 |  [docker-stacks](https://github.com/jupyter/docker-stacks) | Ready-to-run Docker images containing Jupyter applications | jupyter | 8448 |
 | 65 |  [stocks_rnn](https://github.com/tencia/stocks_rnn) | Stock price prediction with LSTMs in TensorFlow | tencia | 446 |
 | 66 |  [Theano](https://github.com/Theano/Theano) | Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com/pymc-devs/pytensor | Theano | 9998 |
 | 67 |  [buku](https://github.com/jarun/buku) | :bookmark: Personal mini-web in text | jarun | 7175 |
-| 68 |  [onnx](https://github.com/onnx/onnx) | Open standard for machine learning interoperability | onnx | 21278 |
-| 69 |  [sshuttle](https://github.com/sshuttle/sshuttle) | Transparent proxy server that works as a poor man&#39;s VPN.  Forwards over ssh.  Doesn&#39;t require admin.  Works with Linux and MacOS.  Supports DNS tunneling. | sshuttle | 13499 |
-| 70 |  [vaex](https://github.com/vaexio/vaex) | Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀 | vaexio | 8510 |
+| 68 |  [onnx](https://github.com/onnx/onnx) | Open standard for machine learning interoperability | onnx | 21277 |
+| 69 |  [sshuttle](https://github.com/sshuttle/sshuttle) | Transparent proxy server that works as a poor man&#39;s VPN.  Forwards over ssh.  Doesn&#39;t require admin.  Works with Linux and MacOS.  Supports DNS tunneling. | sshuttle | 13500 |
+| 70 |  [vaex](https://github.com/vaexio/vaex) | Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀 | vaexio | 8509 |
 | 71 |  [Pyrlang](https://github.com/Pyrlang/Pyrlang) | Erlang node implemented in Python 3.5+ (Asyncio-based) | Pyrlang | 637 |
 | 72 |  [mkdocs-material](https://github.com/squidfunk/mkdocs-material) | Documentation that simply works | squidfunk | 27226 |
-| 73 |  [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need | chubin | 41604 |
+| 73 |  [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need | chubin | 41612 |
 | 74 |  [pywal](https://github.com/dylanaraps/pywal) | 🎨 Generate and change color-schemes on the fly. | dylanaraps | 9084 |
 | 75 |  [wechatircd](https://github.com/MaskRay/wechatircd) | ㊙用IRC客户端控制微信网页版 | MaskRay | 407 |
 | 76 |  [Data_Structures_and_Algorithm_Analysis_in_C](https://github.com/yagggi/Data_Structures_and_Algorithm_Analysis_in_C) | Implementation of ADT and algorithms in &amp;lt;&amp;lt;Data Structures and Algorithm Analysis in C (Second Edition)&amp;gt;&amp;gt; | yagggi | 1 |
 | 77 |  [gradient-checkpointing](https://github.com/cybertronai/gradient-checkpointing) | Make huge neural nets fit in memory | cybertronai | 2842 |
-| 78 |  [pgcli](https://github.com/dbcli/pgcli) | Postgres CLI with autocompletion and syntax highlighting | dbcli | 13339 |
+| 78 |  [pgcli](https://github.com/dbcli/pgcli) | Postgres CLI with autocompletion and syntax highlighting | dbcli | 13342 |
 | 79 |  [honcho](https://github.com/nickstenning/honcho) | Honcho: a python clone of Foreman. For managing Procfile-based applications. | nickstenning | 1712 |
 | 80 |  [jupyterhub](https://github.com/jupyterhub/jupyterhub) | Multi-user server for Jupyter notebooks | jupyterhub | 8328 |
-| 81 |  [algorithms](https://github.com/keon/algorithms) | Minimal examples of data structures and algorithms in Python | keon | 25530 |
-| 82 |  [mitmproxy](https://github.com/mitmproxy/mitmproxy) | An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. | mitmproxy | 44592 |
-| 83 |  [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python | faif | 42917 |
-| 84 |  [certbot](https://github.com/certbot/certbot) | Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. | certbot | 33180 |
-| 85 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 393886 |
+| 81 |  [algorithms](https://github.com/keon/algorithms) | Minimal examples of data structures and algorithms in Python | keon | 25529 |
+| 82 |  [mitmproxy](https://github.com/mitmproxy/mitmproxy) | An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. | mitmproxy | 44603 |
+| 83 |  [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python | faif | 42915 |
+| 84 |  [certbot](https://github.com/certbot/certbot) | Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. | certbot | 33182 |
+| 85 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 393945 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1958,7 +1958,7 @@
 ## Red
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [red](https://github.com/red/red) | Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single ~1MB file! | red | 6025 |
+| 1 |  [red](https://github.com/red/red) | Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single ~1MB file! | red | 6024 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1968,202 +1968,202 @@
 | 1 |  [blazer](https://github.com/ankane/blazer) | Business intelligence made simple | ankane | 4797 |
 | 2 |  [petal](https://github.com/siaflab/petal) | A small language on Sonic Pi with similar syntax to TidalCycles | siaflab | 95 |
 | 3 |  [vim-elixir](https://github.com/elixir-editors/vim-elixir) | Vim configuration files for Elixir | elixir-editors | 1326 |
-| 4 |  [postal](https://github.com/postalserver/postal) | 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail | postalserver | 16723 |
-| 5 |  [devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | freeCodeCamp | 39266 |
+| 4 |  [postal](https://github.com/postalserver/postal) | 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail | postalserver | 16724 |
+| 5 |  [devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | freeCodeCamp | 39268 |
 | 6 |  [Portus](https://github.com/SUSE/Portus) | Authorization service and frontend for Docker registry (v2) | SUSE | 2982 |
-| 7 |  [discourse](https://github.com/discourse/discourse) | A platform for community discussion. Free, open, simple. | discourse | 47611 |
+| 7 |  [discourse](https://github.com/discourse/discourse) | A platform for community discussion. Free, open, simple. | discourse | 47614 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration | mikeyobrien | 3091 |
-| 2 |  [rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | rtk-ai | 75056 |
-| 3 |  [litebox](https://github.com/microsoft/litebox) | A security-focused library OS supporting kernel- and user-mode execution | microsoft | 2664 |
-| 4 |  [difftastic](https://github.com/Wilfred/difftastic) | a structural diff that understands syntax 🟥🟩 | Wilfred | 25735 |
-| 5 |  [workmux](https://github.com/raine/workmux) | git worktrees + tmux windows for zero-friction parallel dev | raine | 2075 |
-| 6 |  [agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | vercel-labs | 40091 |
-| 7 |  [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | zed-industries | 88155 |
-| 8 |  [forgecode](https://github.com/tailcallhq/forgecode) | AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models | tailcallhq | 7483 |
-| 9 |  [Graphite](https://github.com/GraphiteEditor/Graphite) | Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine | GraphiteEditor | 26774 |
-| 10 |  [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust | bevyengine | 47510 |
+| 1 |  [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration | mikeyobrien | 3094 |
+| 2 |  [rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | rtk-ai | 75179 |
+| 3 |  [litebox](https://github.com/microsoft/litebox) | A security-focused library OS supporting kernel- and user-mode execution | microsoft | 2665 |
+| 4 |  [difftastic](https://github.com/Wilfred/difftastic) | a structural diff that understands syntax 🟥🟩 | Wilfred | 25743 |
+| 5 |  [workmux](https://github.com/raine/workmux) | git worktrees + tmux windows for zero-friction parallel dev | raine | 2085 |
+| 6 |  [agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | vercel-labs | 40159 |
+| 7 |  [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | zed-industries | 88217 |
+| 8 |  [forgecode](https://github.com/tailcallhq/forgecode) | AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models | tailcallhq | 7477 |
+| 9 |  [Graphite](https://github.com/GraphiteEditor/Graphite) | Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine | GraphiteEditor | 26778 |
+| 10 |  [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust | bevyengine | 47522 |
 | 11 |  [localdesktop.github.io](https://github.com/localdesktop/localdesktop.github.io) | Local Desktop helps you run a desktop Linux environment on your Android device. | localdesktop | 1638 |
 | 12 |  [home-mangler](https://github.com/home-mangler/home-mangler) | A friendly Nix profile manager | home-mangler | 31 |
-| 13 |  [memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | memvid | 16188 |
-| 14 |  [mise](https://github.com/jdx/mise) | dev tools, env vars, task runner | jdx | 31910 |
-| 15 |  [sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your Internet traffic 🕵️‍♂️ | GyulyVGC | 40337 |
-| 16 |  [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Production-grade Rust-native trading engine with deterministic event-driven architecture | nautechsystems | 25322 |
-| 17 |  [niri](https://github.com/niri-wm/niri) | A scrollable-tiling Wayland compositor. | niri-wm | 26676 |
-| 18 |  [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command. Supports all major shells. | ajeetdsouza | 38526 |
+| 13 |  [memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | memvid | 16189 |
+| 14 |  [mise](https://github.com/jdx/mise) | dev tools, env vars, task runner | jdx | 32028 |
+| 15 |  [sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your Internet traffic 🕵️‍♂️ | GyulyVGC | 40347 |
+| 16 |  [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Production-grade Rust-native trading engine with deterministic event-driven architecture | nautechsystems | 25342 |
+| 17 |  [niri](https://github.com/niri-wm/niri) | A scrollable-tiling Wayland compositor. | niri-wm | 26699 |
+| 18 |  [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command. Supports all major shells. | ajeetdsouza | 38545 |
 | 19 |  [fastforge](https://github.com/fastforgedev/fastforge) | Ship every app faster to your users — Build, package, and publish with one clear configuration. Target popular distribution formats and app stores while fitting naturally into your CI/CD pipeline. | fastforgedev | 1133 |
-| 20 |  [gdext](https://github.com/godot-rust/gdext) | Rust bindings for Godot 4 | godot-rust | 5060 |
-| 21 |  [tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | TabbyML | 33820 |
-| 22 |  [flox](https://github.com/flox/flox) | The Deterministic Foundation for your SDLC | flox | 4075 |
-| 23 |  [skim](https://github.com/skim-rs/skim) | Fuzzy Finder in rust! | skim-rs | 6913 |
-| 24 |  [colmena](https://github.com/nix-community/colmena) | A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao] | nix-community | 2297 |
+| 20 |  [gdext](https://github.com/godot-rust/gdext) | Rust bindings for Godot 4 | godot-rust | 5070 |
+| 21 |  [tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | TabbyML | 33824 |
+| 22 |  [flox](https://github.com/flox/flox) | The Deterministic Foundation for your SDLC | flox | 4077 |
+| 23 |  [skim](https://github.com/skim-rs/skim) | Fuzzy Finder in rust! | skim-rs | 6914 |
+| 24 |  [colmena](https://github.com/nix-community/colmena) | A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao] | nix-community | 2298 |
 | 25 |  [SeekStorm](https://github.com/SeekStorm/SeekStorm) | SeekStorm: vector &amp; lexical search - in-process library &amp; multi-tenancy server, in Rust. | SeekStorm | 1904 |
-| 26 |  [sail](https://github.com/lakehq/sail) | Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads. | lakehq | 3272 |
+| 26 |  [sail](https://github.com/lakehq/sail) | Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads. | lakehq | 3273 |
 | 27 |  [unbug](https://github.com/greymattergames/unbug) | Debug breakpoint assertions for Rust | greymattergames | 221 |
-| 28 |  [stalwart](https://github.com/stalwartlabs/stalwart) | All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). | stalwartlabs | 14050 |
-| 29 |  [komorebi](https://github.com/LGUG2Z/komorebi) | A tiling window manager for Windows 🍉 | LGUG2Z | 14996 |
-| 30 |  [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. | google | 33275 |
+| 28 |  [stalwart](https://github.com/stalwartlabs/stalwart) | All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). | stalwartlabs | 14058 |
+| 29 |  [komorebi](https://github.com/LGUG2Z/komorebi) | A tiling window manager for Windows 🍉 | LGUG2Z | 14999 |
+| 30 |  [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. | google | 33281 |
 | 31 |  [beamup](https://github.com/tsloughter/beamup) | Install and control active BEAM languages and components | tsloughter | 80 |
-| 32 |  [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | surrealdb | 32807 |
-| 33 |  [slatedb](https://github.com/slatedb/slatedb) | A cloud native embedded storage engine built on object storage. | slatedb | 3262 |
-| 34 |  [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | spacedriveapp | 38720 |
-| 35 |  [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte | gitbutlerapp | 21423 |
+| 32 |  [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | surrealdb | 32813 |
+| 33 |  [slatedb](https://github.com/slatedb/slatedb) | A cloud native embedded storage engine built on object storage. | slatedb | 3264 |
+| 34 |  [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. | spacedriveapp | 38729 |
+| 35 |  [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte | gitbutlerapp | 21435 |
 | 36 |  [compio](https://github.com/compio-rs/compio) | A thread-per-core async Rust runtime with IOCP/io_uring/polling. | compio-rs | 1829 |
-| 37 |  [monoio](https://github.com/monoio-rs/monoio) | Rust async runtime based on io-uring. | monoio-rs | 5071 |
+| 37 |  [monoio](https://github.com/monoio-rs/monoio) | Rust async runtime based on io-uring. | monoio-rs | 5072 |
 | 38 |  [maturin](https://github.com/PyO3/maturin) | Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages | PyO3 | 5739 |
-| 39 |  [pyo3](https://github.com/PyO3/pyo3) | Rust bindings for the Python interpreter | PyO3 | 16003 |
-| 40 |  [qdrant](https://github.com/qdrant/qdrant) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | qdrant | 33819 |
+| 39 |  [pyo3](https://github.com/PyO3/pyo3) | Rust bindings for the Python interpreter | PyO3 | 16005 |
+| 40 |  [qdrant](https://github.com/qdrant/qdrant) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | qdrant | 33835 |
 | 41 |  [duct.rs](https://github.com/oconnor663/duct.rs) | a Rust library for running child processes | oconnor663 | 1038 |
 | 42 |  [openapi-tui](https://github.com/zaghaghi/openapi-tui) | Terminal UI to list, browse and run APIs defined with openapi spec. | zaghaghi | 1285 |
-| 43 |  [ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs | ratatui | 22100 |
+| 43 |  [ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs | ratatui | 22117 |
 | 44 |  [nix-installer](https://github.com/DeterminateSystems/nix-installer) | Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs. | DeterminateSystems | 3665 |
-| 45 |  [leptos](https://github.com/leptos-rs/leptos) | Build fast web applications with Rust. | leptos-rs | 21180 |
+| 45 |  [leptos](https://github.com/leptos-rs/leptos) | Build fast web applications with Rust. | leptos-rs | 21176 |
 | 46 |  [comma](https://github.com/nix-community/comma) | Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau] | nix-community | 1736 |
 | 47 |  [mfio](https://github.com/memflow/mfio) | memflow I/O primitives | memflow | 82 |
-| 48 |  [typst](https://github.com/typst/typst) | A markup-based typesetting system that is powerful and easy to learn. | typst | 55325 |
+| 48 |  [typst](https://github.com/typst/typst) | A markup-based typesetting system that is powerful and easy to learn. | typst | 55340 |
 | 49 |  [postgresml](https://github.com/postgresml/postgresml) | Postgres with GPUs for ML/AI apps. | postgresml | 6816 |
 | 50 |  [pgcat](https://github.com/postgresml/pgcat) | PostgreSQL pooler with sharding, load balancing and failover support. | postgresml | 3996 |
 | 51 |  [lightningcss](https://github.com/parcel-bundler/lightningcss) | An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. | parcel-bundler | 7648 |
-| 52 |  [eza](https://github.com/eza-community/eza) | A modern alternative to ls | eza-community | 22852 |
-| 53 |  [ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written in Rust. | astral-sh | 49095 |
-| 54 |  [rustls](https://github.com/rustls/rustls) | A modern TLS library in Rust | rustls | 7549 |
-| 55 |  [lance](https://github.com/lance-format/lance) | Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming.. | lance-format | 6914 |
-| 56 |  [meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | meilisearch | 58892 |
-| 57 |  [carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal | fathyb | 19327 |
+| 52 |  [eza](https://github.com/eza-community/eza) | A modern alternative to ls | eza-community | 22864 |
+| 53 |  [ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written in Rust. | astral-sh | 49096 |
+| 54 |  [rustls](https://github.com/rustls/rustls) | A modern TLS library in Rust | rustls | 7553 |
+| 55 |  [lance](https://github.com/lance-format/lance) | Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming.. | lance-format | 6919 |
+| 56 |  [meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | meilisearch | 58900 |
+| 57 |  [carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal | fathyb | 19329 |
 | 58 |  [trybuild](https://github.com/dtolnay/trybuild) | Test harness for ui tests of compiler diagnostics | dtolnay | 984 |
 | 59 |  [tremor-runtime](https://github.com/tremor-rs/tremor-runtime) | Main Tremor Project Rust Codebase | tremor-rs | 932 |
-| 60 |  [devenv](https://github.com/cachix/devenv) | Fast, Declarative, Reproducible, and Composable Developer Environments using Nix | cachix | 7213 |
-| 61 |  [espanso](https://github.com/espanso/espanso) | A Privacy-first, Cross-platform Text Expander written in Rust | espanso | 14236 |
-| 62 |  [atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical | atuinsh | 31048 |
-| 63 |  [kanal](https://github.com/fereidani/kanal) | The fast sync and async channel that Rust deserves | fereidani | 1751 |
-| 64 |  [rustpad](https://github.com/ekzhang/rustpad) | Efficient and minimal collaborative code editor, self-hosted, no database required | ekzhang | 4068 |
+| 60 |  [devenv](https://github.com/cachix/devenv) | Fast, Declarative, Reproducible, and Composable Developer Environments using Nix | cachix | 7220 |
+| 61 |  [espanso](https://github.com/espanso/espanso) | A Privacy-first, Cross-platform Text Expander written in Rust | espanso | 14239 |
+| 62 |  [atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical | atuinsh | 31069 |
+| 63 |  [kanal](https://github.com/fereidani/kanal) | The fast sync and async channel that Rust deserves | fereidani | 1752 |
+| 64 |  [rustpad](https://github.com/ekzhang/rustpad) | Efficient and minimal collaborative code editor, self-hosted, no database required | ekzhang | 4070 |
 | 65 |  [pgrx](https://github.com/pgcentralfoundation/pgrx) | Build Postgres Extensions with Rust! | pgcentralfoundation | 4752 |
-| 66 |  [poem](https://github.com/poem-web/poem) | A full-featured and easy-to-use web framework with the Rust programming language. | poem-web | 4428 |
-| 67 |  [warpgate](https://github.com/warp-tech/warpgate) | Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn&#39;t need additional client-side software | warp-tech | 7471 |
+| 66 |  [poem](https://github.com/poem-web/poem) | A full-featured and easy-to-use web framework with the Rust programming language. | poem-web | 4429 |
+| 67 |  [warpgate](https://github.com/warp-tech/warpgate) | Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn&#39;t need additional client-side software | warp-tech | 7495 |
 | 68 |  [rustle](https://github.com/pintariching/rustle) | Svelte compiler rewritten in Rust | pintariching | 1344 |
 | 69 |  [playwright-rust](https://github.com/octaltree/playwright-rust) | Playwright port to Rust | octaltree | 454 |
 | 70 |  [riff](https://github.com/DeterminateSystems/riff) | Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon. | DeterminateSystems | 486 |
 | 71 |  [flavours](https://github.com/Misterio77/flavours) | 🎨💧 An easy to use base16 scheme manager that integrates with any workflow. | Misterio77 | 587 |
-| 72 |  [rust-lightning](https://github.com/lightningdevkit/rust-lightning) | Active development happens on git.rust-bitcoin.org, this repo is a mirror of https://git.rust-bitcoin.org/lightningdevkit/rust-lightning | lightningdevkit | 1368 |
+| 72 |  [rust-lightning](https://github.com/lightningdevkit/rust-lightning) | Active development happens on git.rust-bitcoin.org, this repo is a mirror of https://git.rust-bitcoin.org/lightningdevkit/rust-lightning | lightningdevkit | 1367 |
 | 73 |  [nixpacks](https://github.com/railwayapp/nixpacks) | App source + Nix packages + Docker = Image | railwayapp | 3544 |
 | 74 |  [materialize](https://github.com/MaterializeInc/materialize) | The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL | MaterializeInc | 6348 |
 | 75 |  [cross](https://github.com/cross-rs/cross) | “Zero setup” cross compilation and “cross testing” of Rust crates | cross-rs | 8294 |
 | 76 |  [blueboat](https://github.com/losfair/blueboat) | All-in-one, multi-tenant serverless JavaScript runtime. | losfair | 1924 |
-| 77 |  [risingwave](https://github.com/risingwavelabs/risingwave) | Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale. | risingwavelabs | 9223 |
-| 78 |  [neon](https://github.com/neondatabase/neon) | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. | neondatabase | 22784 |
+| 77 |  [risingwave](https://github.com/risingwavelabs/risingwave) | Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale. | risingwavelabs | 9226 |
+| 78 |  [neon](https://github.com/neondatabase/neon) | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. | neondatabase | 22796 |
 | 79 |  [shuttle](https://github.com/shuttle-hq/shuttle) | Build &amp; ship backends without writing any infrastructure files. | shuttle-hq | 6929 |
-| 80 |  [OpenSK](https://github.com/google/OpenSK) | OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. | google | 3393 |
+| 80 |  [OpenSK](https://github.com/google/OpenSK) | OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. | google | 3392 |
 | 81 |  [erldash](https://github.com/sile/erldash) | A simple, terminal-based Erlang dashboard written in Rust | sile | 175 |
-| 82 |  [swc](https://github.com/swc-project/swc) | Rust-based platform for the Web | swc-project | 34169 |
-| 83 |  [jj](https://github.com/jj-vcs/jj) | A Git-compatible VCS that is both simple and powerful | jj-vcs | 30853 |
-| 84 |  [polars](https://github.com/pola-rs/polars) | Extremely fast Query Engine for DataFrames, written in Rust | pola-rs | 39286 |
+| 82 |  [swc](https://github.com/swc-project/swc) | Rust-based platform for the Web | swc-project | 34171 |
+| 83 |  [jj](https://github.com/jj-vcs/jj) | A Git-compatible VCS that is both simple and powerful | jj-vcs | 30869 |
+| 84 |  [polars](https://github.com/pola-rs/polars) | Extremely fast Query Engine for DataFrames, written in Rust | pola-rs | 39297 |
 | 85 |  [skytable](https://github.com/skytable/skytable) | Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences | skytable | 2663 |
-| 86 |  [dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | DioxusLabs | 38520 |
-| 87 |  [fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | fish-shell | 33988 |
-| 88 |  [databend](https://github.com/databendlabs/databend) | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3. | databendlabs | 9407 |
-| 89 |  [git-cliff](https://github.com/orhun/git-cliff) | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ | orhun | 12095 |
+| 86 |  [dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | DioxusLabs | 38539 |
+| 87 |  [fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | fish-shell | 33991 |
+| 88 |  [databend](https://github.com/databendlabs/databend) | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3. | databendlabs | 9409 |
+| 89 |  [git-cliff](https://github.com/orhun/git-cliff) | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ | orhun | 12096 |
 | 90 |  [bonsaidb](https://github.com/khonsulabs/bonsaidb) | A developer-friendly document database that grows with you, written in Rust | khonsulabs | 1060 |
-| 91 |  [warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | warpdotdev | 64020 |
+| 91 |  [warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | warpdotdev | 64036 |
 | 92 |  [xunmi](https://github.com/tyrchen/xunmi) |  | tyrchen | 13 |
-| 93 |  [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. | Orange-OpenSource | 19126 |
-| 94 |  [below](https://github.com/facebookincubator/below) | A time traveling resource monitor for modern Linux systems | facebookincubator | 2486 |
+| 93 |  [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. | Orange-OpenSource | 19129 |
+| 94 |  [below](https://github.com/facebookincubator/below) | A time traveling resource monitor for modern Linux systems | facebookincubator | 2487 |
 | 95 |  [flowistry](https://github.com/willcrichton/flowistry) | Flowistry is an IDE plugin for Rust that helps you focus on relevant code. | willcrichton | 3069 |
 | 96 |  [gobang](https://github.com/TaKO8Ki/gobang) | A cross-platform TUI database management tool written in Rust | TaKO8Ki | 3314 |
 | 97 |  [rust-bert](https://github.com/guillaume-be/rust-bert) | Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...) | guillaume-be | 3074 |
-| 98 |  [console](https://github.com/tokio-rs/console) | a debugger for async rust! | tokio-rs | 4571 |
+| 98 |  [console](https://github.com/tokio-rs/console) | a debugger for async rust! | tokio-rs | 4572 |
 | 99 |  [geektime-rust](https://github.com/tyrchen/geektime-rust) | 我的极客时间 Rust 课程的代码仓库，随课程更新 | tyrchen | 1450 |
-| 100 |  [axum](https://github.com/tokio-rs/axum) | HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity | tokio-rs | 26803 |
+| 100 |  [axum](https://github.com/tokio-rs/axum) | HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity | tokio-rs | 26807 |
 | 101 |  [chromiumoxide](https://github.com/mattsse/chromiumoxide) | Chrome Devtools Protocol rust API | mattsse | 1362 |
-| 102 |  [gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 | gitui-org | 22341 |
-| 103 |  [zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included | zellij-org | 34743 |
+| 102 |  [gitui](https://github.com/gitui-org/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 | gitui-org | 22345 |
+| 103 |  [zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included | zellij-org | 34761 |
 | 104 |  [franz](https://github.com/scrogson/franz) | A Kafka client library for Erlang/Elixir based on librdkafka implemented as a safe Rust NIF. | scrogson | 36 |
-| 105 |  [gluon](https://github.com/gluon-lang/gluon) | A static, type inferred and embeddable language written in Rust. | gluon-lang | 3422 |
+| 105 |  [gluon](https://github.com/gluon-lang/gluon) | A static, type inferred and embeddable language written in Rust. | gluon-lang | 3423 |
 | 106 |  [redbpf](https://github.com/foniod/redbpf) | Rust library for building and running BPF/eBPF modules | foniod | 1723 |
-| 107 |  [cxx](https://github.com/dtolnay/cxx) | Safe interop between Rust and C++ | dtolnay | 6793 |
-| 108 |  [tokenizers](https://github.com/huggingface/tokenizers) | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production | huggingface | 10951 |
+| 107 |  [cxx](https://github.com/dtolnay/cxx) | Safe interop between Rust and C++ | dtolnay | 6795 |
+| 108 |  [tokenizers](https://github.com/huggingface/tokenizers) | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production | huggingface | 10952 |
 | 109 |  [cursive](https://github.com/gyscos/cursive) | A Text User Interface library for the Rust programming language | gyscos | 4838 |
 | 110 |  [ernie](https://github.com/hauleth/ernie) | Efficient binary encoding for your data (based on Erlang&#39;s External Terms Format) | hauleth | 37 |
 | 111 |  [tickrs](https://github.com/tarkah/tickrs) | Realtime ticker data in your terminal 📈 | tarkah | 1675 |
-| 112 |  [amethyst](https://github.com/amethyst/amethyst) | Data-oriented and data-driven game engine written in Rust | amethyst | 8025 |
-| 113 |  [calamine](https://github.com/tafia/calamine) | A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets | tafia | 2383 |
-| 114 |  [druid](https://github.com/linebender/druid) | A data-first Rust-native UI design toolkit. | linebender | 9706 |
+| 112 |  [amethyst](https://github.com/amethyst/amethyst) | Data-oriented and data-driven game engine written in Rust | amethyst | 8026 |
+| 113 |  [calamine](https://github.com/tafia/calamine) | A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets | tafia | 2384 |
+| 114 |  [druid](https://github.com/linebender/druid) | A data-first Rust-native UI design toolkit. | linebender | 9707 |
 | 115 |  [oha](https://github.com/hatoo/oha) | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. | hatoo | 10467 |
-| 116 |  [toydb](https://github.com/erikgrinaker/toydb) | Distributed SQL database in Rust, written as an educational project | erikgrinaker | 7262 |
-| 117 |  [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | tauri-apps | 109978 |
-| 118 |  [deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. | denoland | 108179 |
-| 119 |  [volta](https://github.com/volta-cli/volta) | Volta: JS Toolchains as Code. ⚡ | volta-cli | 13045 |
+| 116 |  [toydb](https://github.com/erikgrinaker/toydb) | Distributed SQL database in Rust, written as an educational project | erikgrinaker | 7263 |
+| 117 |  [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | tauri-apps | 109996 |
+| 118 |  [deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. | denoland | 108183 |
+| 119 |  [volta](https://github.com/volta-cli/volta) | Volta: JS Toolchains as Code. ⚡ | volta-cli | 13046 |
 | 120 |  [flutter-rs](https://github.com/flutter-rs/flutter-rs) | Build beautiful desktop apps with flutter and rust. 🌠 (wip) | flutter-rs | 2115 |
 | 121 |  [evcxr](https://github.com/evcxr/evcxr) |  | evcxr | 6466 |
-| 122 |  [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | A curated list of Rust code and resources. | rust-unofficial | 58712 |
+| 122 |  [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | A curated list of Rust code and resources. | rust-unofficial | 58730 |
 | 123 |  [dodrio](https://github.com/fitzgen/dodrio) | A fast, bump-allocated virtual DOM library for Rust and WebAssembly. | fitzgen | 1239 |
 | 124 |  [open_cl_elixir](https://github.com/elbow-jason/open_cl_elixir) | OpenCL bindings in Elixir | elbow-jason | 8 |
-| 125 |  [Rust](https://github.com/TheAlgorithms/Rust) | All Algorithms implemented in Rust | TheAlgorithms | 25969 |
+| 125 |  [Rust](https://github.com/TheAlgorithms/Rust) | All Algorithms implemented in Rust | TheAlgorithms | 25973 |
 | 126 |  [pueue](https://github.com/Nukesor/pueue) | :stars: Manage your shell commands. | Nukesor | 6289 |
-| 127 |  [sqlx](https://github.com/transact-rs/sqlx) | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. | transact-rs | 17370 |
+| 127 |  [sqlx](https://github.com/transact-rs/sqlx) | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. | transact-rs | 17372 |
 | 128 |  [quaint](https://github.com/prisma/quaint) | SQL Query AST and Visitor for Rust | prisma | 578 |
-| 129 |  [webapp.rs](https://github.com/saschagrunert/webapp.rs) | A web application completely written in Rust. 🌍 | saschagrunert | 2247 |
-| 130 |  [lemmy](https://github.com/LemmyNet/lemmy) | 🐀 A decentralised discussion platform for communities. | LemmyNet | 14539 |
-| 131 |  [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm | iced-rs | 31165 |
+| 129 |  [webapp.rs](https://github.com/saschagrunert/webapp.rs) | A web application completely written in Rust. 🌍 | saschagrunert | 2244 |
+| 130 |  [lemmy](https://github.com/LemmyNet/lemmy) | 🐀 A decentralised discussion platform for communities. | LemmyNet | 14538 |
+| 131 |  [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm | iced-rs | 31176 |
 | 132 |  [path-tree](https://github.com/viz-rs/path-tree) | path-tree is a lightweight high performance HTTP request router for Rust | viz-rs | 134 |
-| 133 |  [just](https://github.com/casey/just) | 🤖 Just a command runner | casey | 35157 |
+| 133 |  [just](https://github.com/casey/just) | 🤖 Just a command runner | casey | 35178 |
 | 134 |  [hashbrown](https://github.com/rust-lang/hashbrown) | Rust port of Google&#39;s SwissTable hash map | rust-lang | 2978 |
-| 135 |  [navi](https://github.com/denisidoro/navi) | An interactive cheatsheet tool for the command-line | denisidoro | 17396 |
-| 136 |  [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | starship | 59288 |
+| 135 |  [navi](https://github.com/denisidoro/navi) | An interactive cheatsheet tool for the command-line | denisidoro | 17405 |
+| 136 |  [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | starship | 59298 |
 | 137 |  [serde-prefix](https://github.com/jonathan-s/serde-prefix) | Allows you to use a macro prefix_all to prefix every attribute in structs and enums on serialization | jonathan-s | 12 |
-| 138 |  [imagecli](https://github.com/theotherphil/imagecli) | A command line image processing tool | theotherphil | 266 |
+| 138 |  [imagecli](https://github.com/theotherphil/imagecli) | A command line image processing tool | theotherphil | 265 |
 | 139 |  [firefly](https://github.com/GetFirefly/firefly) | An alternative BEAM implementation, designed for WebAssembly | GetFirefly | 3585 |
-| 140 |  [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators | paritytech | 8399 |
+| 140 |  [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators | paritytech | 8398 |
 | 141 |  [xsv](https://github.com/BurntSushi/xsv) | A fast CSV command line toolkit written in Rust. | BurntSushi | 10758 |
 | 142 |  [bastion](https://github.com/bastion-rs/bastion) | Highly-available Distributed Fault-tolerant Runtime | bastion-rs | 2909 |
 | 143 |  [fst](https://github.com/BurntSushi/fst) | Represent large sets and maps compactly with finite state transducers. | BurntSushi | 2112 |
-| 144 |  [vector](https://github.com/vectordotdev/vector) | A high-performance observability data pipeline. | vectordotdev | 22308 |
-| 145 |  [cube](https://github.com/cube-js/cube) | 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics | cube-js | 20560 |
+| 144 |  [vector](https://github.com/vectordotdev/vector) | A high-performance observability data pipeline. | vectordotdev | 22314 |
+| 145 |  [cube](https://github.com/cube-js/cube) | 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics | cube-js | 20568 |
 | 146 |  [tui-rs](https://github.com/fdehau/tui-rs) | Build terminal user interfaces and dashboards using Rust | fdehau | 10868 |
 | 147 |  [lightbeam](https://github.com/CraneStation/lightbeam) | Lightbeam has moved and now lives in the Wasmtime repository! | CraneStation | 252 |
-| 148 |  [rayon](https://github.com/rayon-rs/rayon) | Rayon: A data parallelism library for Rust | rayon-rs | 13217 |
-| 149 |  [diem](https://github.com/diem/diem) | Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. | diem | 16669 |
+| 148 |  [rayon](https://github.com/rayon-rs/rayon) | Rayon: A data parallelism library for Rust | rayon-rs | 13219 |
+| 149 |  [diem](https://github.com/diem/diem) | Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. | diem | 16667 |
 | 150 |  [rust-clippy](https://github.com/rust-lang/rust-clippy) | A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/ | rust-lang | 13430 |
-| 151 |  [makepad](https://github.com/makepad/makepad) | Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl | makepad | 6515 |
-| 152 |  [reqwest](https://github.com/seanmonstar/reqwest) | An easy and powerful Rust HTTP Client | seanmonstar | 11763 |
-| 153 |  [talent-plan](https://github.com/pingcap/talent-plan) | open source training courses about distributed database and distributed systems | pingcap | 10978 |
+| 151 |  [makepad](https://github.com/makepad/makepad) | Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl | makepad | 6516 |
+| 152 |  [reqwest](https://github.com/seanmonstar/reqwest) | An easy and powerful Rust HTTP Client | seanmonstar | 11765 |
+| 153 |  [talent-plan](https://github.com/pingcap/talent-plan) | open source training courses about distributed database and distributed systems | pingcap | 10979 |
 | 154 |  [chalk](https://github.com/rust-lang/chalk) | An implementation and definition of the Rust trait system using a PROLOG-like logic solver | rust-lang | 2008 |
 | 155 |  [runtime](https://github.com/rustasync/runtime) | Empowering everyone to build asynchronous software | rustasync | 854 |
 | 156 |  [eir](https://github.com/eirproject/eir) | Erlang ecosystem common IR | eirproject | 253 |
-| 157 |  [wgpu](https://github.com/gfx-rs/wgpu) | A cross-platform, safe, pure-Rust graphics API. | gfx-rs | 17735 |
+| 157 |  [wgpu](https://github.com/gfx-rs/wgpu) | A cross-platform, safe, pure-Rust graphics API. | gfx-rs | 17742 |
 | 158 |  [neovim-gtk](https://github.com/daa84/neovim-gtk) | gtk ui for neovim | daa84 | 720 |
-| 159 |  [actix-web](https://github.com/actix/actix-web) | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. | actix | 24769 |
-| 160 |  [diesel](https://github.com/diesel-rs/diesel) | A safe, extensible ORM and Query Builder for Rust | diesel-rs | 14144 |
-| 161 |  [firecracker](https://github.com/firecracker-microvm/firecracker) | Secure and fast microVMs for serverless computing. | firecracker-microvm | 35915 |
-| 162 |  [sonic](https://github.com/valeriansaliou/sonic) | 🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. | valeriansaliou | 21297 |
-| 163 |  [servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | servo | 37603 |
-| 164 |  [hexyl](https://github.com/sharkdp/hexyl) | A command-line hex viewer | sharkdp | 10247 |
+| 159 |  [actix-web](https://github.com/actix/actix-web) | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. | actix | 24768 |
+| 160 |  [diesel](https://github.com/diesel-rs/diesel) | A safe, extensible ORM and Query Builder for Rust | diesel-rs | 14146 |
+| 161 |  [firecracker](https://github.com/firecracker-microvm/firecracker) | Secure and fast microVMs for serverless computing. | firecracker-microvm | 35936 |
+| 162 |  [sonic](https://github.com/valeriansaliou/sonic) | 🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. | valeriansaliou | 21298 |
+| 163 |  [servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | servo | 37616 |
+| 164 |  [hexyl](https://github.com/sharkdp/hexyl) | A command-line hex viewer | sharkdp | 10249 |
 | 165 |  [rustler](https://github.com/rusterlium/rustler) | Safe Rust bridge for creating Erlang NIF functions | rusterlium | 4843 |
-| 166 |  [crossbeam](https://github.com/crossbeam-rs/crossbeam) | Tools for concurrent programming in Rust | crossbeam-rs | 8539 |
+| 166 |  [crossbeam](https://github.com/crossbeam-rs/crossbeam) | Tools for concurrent programming in Rust | crossbeam-rs | 8540 |
 | 167 |  [enigma](https://github.com/archseer/enigma) | An Erlang VM implementation in Rust | archseer | 1092 |
-| 168 |  [gleam](https://github.com/gleam-lang/gleam) | ⭐️ A friendly language for building type-safe, scalable systems! | gleam-lang | 21718 |
+| 168 |  [gleam](https://github.com/gleam-lang/gleam) | ⭐️ A friendly language for building type-safe, scalable systems! | gleam-lang | 21721 |
 | 169 |  [alma](https://github.com/r-darwish/alma) | Create Arch Linux based bootable USB drives | r-darwish | 393 |
-| 170 |  [raft-rs](https://github.com/tikv/raft-rs) | Raft distributed consensus algorithm implemented in Rust. | tikv | 3367 |
-| 171 |  [neon](https://github.com/neon-bindings/neon) | Rust bindings for writing safe and fast native Node.js modules. | neon-bindings | 8422 |
-| 172 |  [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | BurntSushi | 67062 |
+| 170 |  [raft-rs](https://github.com/tikv/raft-rs) | Raft distributed consensus algorithm implemented in Rust. | tikv | 3369 |
+| 171 |  [neon](https://github.com/neon-bindings/neon) | Rust bindings for writing safe and fast native Node.js modules. | neon-bindings | 8423 |
+| 172 |  [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | BurntSushi | 67096 |
 | 173 |  [artifact](https://github.com/vitiral/artifact) | The open source design documentation tool for everybody | vitiral | 561 |
 | 174 |  [rusty-genes](https://github.com/mithi/rusty-genes) | Genetic algorithm implementation in Rust with animated visualizations in Python | mithi | 144 |
-| 175 |  [nom](https://github.com/rust-bakery/nom) | Rust parser combinator framework | rust-bakery | 10443 |
+| 175 |  [nom](https://github.com/rust-bakery/nom) | Rust parser combinator framework | rust-bakery | 10445 |
 | 176 |  [ErlangRT](https://github.com/kvakvs/ErlangRT) | Erlang Replacement Therapy. Another attempt to make Erlang runtime (BEAM emulator) in Rust. Good news: I know what to do. Bad news: I have no clue how to Rust | kvakvs | 604 |
-| 177 |  [nannou](https://github.com/nannou-org/nannou) | A Creative Coding Framework for Rust. | nannou-org | 6734 |
-| 178 |  [topgrade](https://github.com/r-darwish/topgrade) | Upgrade everything | r-darwish | 3308 |
+| 177 |  [nannou](https://github.com/nannou-org/nannou) | A Creative Coding Framework for Rust. | nannou-org | 6735 |
+| 178 |  [topgrade](https://github.com/r-darwish/topgrade) | Upgrade everything | r-darwish | 3307 |
 | 179 |  [rust](https://github.com/tensorflow/rust) | Rust language bindings for TensorFlow | tensorflow | 5477 |
 | 180 |  [actix](https://github.com/actix/actix) | Actor framework for Rust. | actix | 9236 |
 | 181 |  [yew](https://github.com/yewstack/yew) | Rust / Wasm framework for creating reliable and efficient web applications | yewstack | 32775 |
-| 182 |  [xi-editor](https://github.com/xi-editor/xi-editor) | A modern editor with a backend written in Rust. | xi-editor | 19819 |
-| 183 |  [alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | alacritty | 65266 |
+| 182 |  [xi-editor](https://github.com/xi-editor/xi-editor) | A modern editor with a backend written in Rust. | xi-editor | 19820 |
+| 183 |  [alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | alacritty | 65277 |
 | 184 |  [hyper](https://github.com/hyperium/hyper) | An HTTP library for Rust | hyperium | 16267 |
-| 185 |  [rustfmt](https://github.com/rust-lang/rustfmt) | Format Rust code | rust-lang | 6927 |
-| 186 |  [code](https://github.com/nikivdev/code) |  | nikivdev | 21126 |
+| 185 |  [rustfmt](https://github.com/rust-lang/rustfmt) | Format Rust code | rust-lang | 6926 |
+| 186 |  [code](https://github.com/nikivdev/code) |  | nikivdev | 21125 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -2172,7 +2172,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [NES.css](https://github.com/nostalgic-css/NES.css) | NES-style CSS Framework \| ファミコン風CSSフレームワーク | nostalgic-css | 21802 |
 | 2 |  [hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) | 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app | olOwOlo | 2089 |
-| 3 |  [hacker101](https://github.com/Hacker0x01/hacker101) | Source code for Hacker101.com - a free online web and mobile security class. | Hacker0x01 | 14493 |
+| 3 |  [hacker101](https://github.com/Hacker0x01/hacker101) | Source code for Hacker101.com - a free online web and mobile security class. | Hacker0x01 | 14491 |
 | 4 |  [cheatsheets](https://github.com/rstacruz/cheatsheets) | Cheatsheets for web development - devhints.io | rstacruz | 14453 |
 
 **[⬆ Back to Index](#-contents)**
@@ -2180,18 +2180,18 @@
 ## Scala
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [scala3](https://github.com/scala/scala3) | The Scala 3 compiler, also known as Dotty. | scala | 6286 |
+| 1 |  [scala3](https://github.com/scala/scala3) | The Scala 3 compiler, also known as Dotty. | scala | 6287 |
 | 2 |  [feral](https://github.com/typelevel/feral) | Feral cats are homeless, feral functions are serverless | typelevel | 195 |
 | 3 |  [smithy4s](https://github.com/disneystreaming/smithy4s) | https://disneystreaming.github.io/smithy4s/ | disneystreaming | 400 |
-| 4 |  [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | twitter | 73654 |
+| 4 |  [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | twitter | 73659 |
 | 5 |  [scalatra](https://github.com/scalatra/scalatra) | Tiny Scala high-performance, async web framework, inspired by Sinatra | scalatra | 2650 |
 | 6 |  [scala-exercises](https://github.com/scala-exercises/scala-exercises) | The easy way to learn Scala. | scala-exercises | 2645 |
 | 7 |  [eqwalizer](https://github.com/WhatsApp/eqwalizer) | A type-checker for Erlang | WhatsApp | 547 |
 | 8 |  [tapir](https://github.com/softwaremill/tapir) | Rapid development of self-documenting APIs | softwaremill | 1467 |
 | 9 |  [mill](https://github.com/com-lihaoyi/mill) | A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools | com-lihaoyi | 2774 |
 | 10 |  [scala-cli](https://github.com/VirtusLab/scala-cli) | Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!) | VirtusLab | 639 |
-| 11 |  [zio](https://github.com/zio/zio) | ZIO — A type-safe, composable library for async and concurrent programming in Scala | zio | 4402 |
-| 12 |  [scalaz](https://github.com/scalaz/scalaz) | Principled Functional Programming in Scala | scalaz | 4672 |
+| 11 |  [zio](https://github.com/zio/zio) | ZIO — A type-safe, composable library for async and concurrent programming in Scala | zio | 4403 |
+| 12 |  [scalaz](https://github.com/scalaz/scalaz) | Principled Functional Programming in Scala | scalaz | 4673 |
 | 13 |  [scala-collection-compat](https://github.com/scala/scala-collection-compat) | makes some Scala 2.13 APIs (primarily collections, also some others) available on 2.11 and 2.12, to aid cross-building | scala | 210 |
 | 14 |  [decline](https://github.com/bkirwi/decline) | A composable command-line parser for Scala. | bkirwi | 679 |
 | 15 |  [sbt-protoc](https://github.com/thesamet/sbt-protoc) | SBT plugin for generating code from Protocol Buffer using protoc | thesamet | 173 |
@@ -2213,67 +2213,67 @@
 | 31 |  [cats](https://github.com/typelevel/cats) | Lightweight, modular, and extensible library for functional programming. | typelevel | 5449 |
 | 32 |  [metals](https://github.com/scalameta/metals) | Scala language server with rich IDE features 🚀 | scalameta | 2318 |
 | 33 |  [sbt-assembly](https://github.com/sbt/sbt-assembly) | Deploy über-JARs. Restart processes. (port of codahale/assembly-sbt) | sbt | 1960 |
-| 34 |  [elasticmq](https://github.com/softwaremill/elasticmq) | In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded. | softwaremill | 2908 |
-| 35 |  [lila](https://github.com/lichess-org/lila) | ♞ lichess.org: the forever free, adless and open source chess server ♞ | lichess-org | 18549 |
-| 36 |  [prisma1](https://github.com/prisma/prisma1) | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL &amp; MongoDB) [deprecated] | prisma | 16382 |
+| 34 |  [elasticmq](https://github.com/softwaremill/elasticmq) | In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded. | softwaremill | 2909 |
+| 35 |  [lila](https://github.com/lichess-org/lila) | ♞ lichess.org: the forever free, adless and open source chess server ♞ | lichess-org | 18552 |
+| 36 |  [prisma1](https://github.com/prisma/prisma1) | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL &amp; MongoDB) [deprecated] | prisma | 16381 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [superpowers](https://github.com/obra/superpowers) | An agentic skills framework &amp; software development methodology that works. | obra | 268073 |
-| 2 |  [nix-direnv](https://github.com/nix-community/nix-direnv) | A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] | nix-community | 2751 |
+| 1 |  [superpowers](https://github.com/obra/superpowers) | An agentic skills framework &amp; software development methodology that works. | obra | 268666 |
+| 2 |  [nix-direnv](https://github.com/nix-community/nix-direnv) | A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] | nix-community | 2752 |
 | 3 |  [riak-forked](https://github.com/OpenRiak/riak-forked) | Archive of the forked repository - use the repo linked below | OpenRiak | 112 |
-| 4 |  [nixos-anywhere](https://github.com/nix-community/nixos-anywhere) | Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji] | nix-community | 3343 |
-| 5 |  [rofi](https://github.com/adi1090x/rofi) | A huge collection of Rofi based custom Applets, Launchers &amp; Powermenus. | adi1090x | 8749 |
-| 6 |  [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | An unprofessional open-source Chinese font derived from Fontworks&#39; Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 | lxgw | 25402 |
-| 7 |  [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Collections of awesome neovim plugins. | rockerBOO | 21232 |
+| 4 |  [nixos-anywhere](https://github.com/nix-community/nixos-anywhere) | Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji] | nix-community | 3348 |
+| 5 |  [rofi](https://github.com/adi1090x/rofi) | A huge collection of Rofi based custom Applets, Launchers &amp; Powermenus. | adi1090x | 8750 |
+| 6 |  [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | An unprofessional open-source Chinese font derived from Fontworks&#39; Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 | lxgw | 25411 |
+| 7 |  [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | Collections of awesome neovim plugins. | rockerBOO | 21235 |
 | 8 |  [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) | A tmux plugin to better manage and configure the mouse. | NHDaly | 986 |
 | 9 |  [tmux-fzf](https://github.com/sainnhe/tmux-fzf) | Use fzf to manage your tmux work environment! | sainnhe | 1481 |
 | 10 |  [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) | Seamless navigation between tmux panes and vim splits | christoomey | 6265 |
 | 11 |  [tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) | Plugin that highlights when you press tmux prefix key | tmux-plugins | 672 |
-| 12 |  [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) | standard pane key-bindings for tmux | tmux-plugins | 862 |
+| 12 |  [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) | standard pane key-bindings for tmux | tmux-plugins | 863 |
 | 13 |  [tmux-menus](https://github.com/jaclu/tmux-menus) | Tmux plugin, Popup menus to help with managing your environment | jaclu | 529 |
-| 14 |  [tpm](https://github.com/tmux-plugins/tpm) | Tmux Plugin Manager | tmux-plugins | 14983 |
+| 14 |  [tpm](https://github.com/tmux-plugins/tpm) | Tmux Plugin Manager | tmux-plugins | 14984 |
 | 15 |  [nix-env.fish](https://github.com/lilyball/nix-env.fish) | Nix environment setup for the fish shell | lilyball | 305 |
 | 16 |  [super-linter](https://github.com/super-linter/super-linter) | Combination of multiple linters to run as a GitHub Action or standalone | super-linter | 10537 |
 | 17 |  [simplenetes](https://github.com/simplenetes-io/simplenetes) | The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods. | simplenetes-io | 765 |
 | 18 |  [kubectl-smart](https://github.com/FingerLiu/kubectl-smart) | A kubectl plugin that makes kubectl smart with name search.Type less letters!Save more life! | FingerLiu | 9 |
-| 19 |  [follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) | 和我一步步部署 kubernetes 集群 | opsnull | 7529 |
+| 19 |  [follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) | 和我一步步部署 kubernetes 集群 | opsnull | 7528 |
 | 20 |  [scalaenv](https://github.com/scalaenv/scalaenv) | Groom your app&#39;s Scala environment with scalaenv like rbenv :). Support offered for all official versions, including dotty and scala3! | scalaenv | 124 |
 | 21 |  [rofi-bluetooth](https://github.com/nickclyde/rofi-bluetooth) | 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display status info. | nickclyde | 610 |
 | 22 |  [winapps](https://github.com/Fmstrat/winapps) | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. | Fmstrat | 10240 |
-| 23 |  [nb](https://github.com/xwmx/nb) | CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, + more, in a single portable script. | xwmx | 8341 |
+| 23 |  [nb](https://github.com/xwmx/nb) | CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, + more, in a single portable script. | xwmx | 8343 |
 | 24 |  [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) | NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own! | microsoft | 4743 |
-| 25 |  [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. | sickcodes | 52834 |
+| 25 |  [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. | sickcodes | 52839 |
 | 26 |  [message-db](https://github.com/message-db/message-db) | Microservice native message and event store for Postgres | message-db | 1650 |
 | 27 |  [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) | :anchor: A curated list of awesome git hooks | CompSciLauren | 1179 |
-| 28 |  [public-sans](https://github.com/uswds/public-sans) | A strong, neutral, principles-driven, open source typeface for text or display | uswds | 4729 |
+| 28 |  [public-sans](https://github.com/uswds/public-sans) | A strong, neutral, principles-driven, open source typeface for text or display | uswds | 4730 |
 | 29 |  [TabNine](https://github.com/codota/TabNine) | AI Code Completions | codota | 10781 |
-| 30 |  [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. | papers-we-love | 108534 |
+| 30 |  [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. | papers-we-love | 108557 |
 | 31 |  [voidrice](https://github.com/LukeSmithxyz/voidrice) | My dotfiles (deployed by LARBS) | LukeSmithxyz | 4455 |
 | 32 |  [mons](https://github.com/Ventto/mons) | POSIX Shell script to quickly manage monitors on X | Ventto | 648 |
 | 33 |  [smartcd](https://github.com/cxreg/smartcd) | Alter your bash (or zsh) environment as you cd | cxreg | 687 |
-| 34 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 60220 |
+| 34 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 60235 |
 | 35 |  [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) | Tools and instructions on how to have awesome symbols in a terminal with a monospace font | gabrielelana | 2524 |
-| 36 |  [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | 💥 A curated list of Terminal frameworks, plugins &amp; resources for CLI lovers. | k4m4 | 13070 |
+| 36 |  [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | 💥 A curated list of Terminal frameworks, plugins &amp; resources for CLI lovers. | k4m4 | 13071 |
 | 37 |  [asdf-elixir](https://github.com/asdf-vm/asdf-elixir) | Elixir plugin for asdf version manager | asdf-vm | 527 |
 | 38 |  [asdf-erlang](https://github.com/asdf-vm/asdf-erlang) | Erlang plugin for asdf version manager | asdf-vm | 533 |
 | 39 |  [zplug](https://github.com/zplug/zplug) | A next-generation plugin manager for zsh — manage plugins, commands, and themes from GitHub, Bitbucket, oh-my-zsh, prezto, and more with parallel installation and lazy loading. | zplug | 6045 |
-| 40 |  [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 📖 A collection of pure bash alternatives to external processes. | dylanaraps | 41723 |
+| 40 |  [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 📖 A collection of pure bash alternatives to external processes. | dylanaraps | 41726 |
 | 41 |  [dotfiles](https://github.com/dikiaap/dotfiles) | Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. | dikiaap | 1484 |
 | 42 |  [dotfiles](https://github.com/edbizarro/dotfiles) | :skull: dotfiles! managed by GNU stow | edbizarro | 104 |
 | 43 |  [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) | 🍀 sweet looking lockscreen for linux system | betterlockscreen | 2652 |
 | 44 |  [edeliver](https://github.com/edeliver/edeliver) | Deployment for Elixir and Erlang | edeliver | 1973 |
 | 45 |  [vscode](https://github.com/rainglow/vscode) | 320+ color themes for Visual Studio Code. | rainglow | 1327 |
-| 46 |  [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | A collection of ZSH frameworks, plugins, themes and tutorials. | unixorn | 17898 |
+| 46 |  [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | A collection of ZSH frameworks, plugins, themes and tutorials. | unixorn | 17902 |
 | 47 |  [geometry](https://github.com/geometry-zsh/geometry) | geometry is a minimal, composable zsh prompt | geometry-zsh | 996 |
-| 48 |  [rust-cross](https://github.com/japaric/rust-cross) | Everything you need to know about cross compiling Rust programs! | japaric | 2551 |
-| 49 |  [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more | mbadolato | 27112 |
+| 48 |  [rust-cross](https://github.com/japaric/rust-cross) | Everything you need to know about cross compiling Rust programs! | japaric | 2552 |
+| 49 |  [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more | mbadolato | 27116 |
 | 50 |  [build-linux](https://github.com/MichielDerhaeg/build-linux) | A short tutorial about building Linux based operating systems. | MichielDerhaeg | 5201 |
-| 51 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 31444 |
-| 52 |  [OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. | kholia | 23511 |
+| 51 |  [dotfiles](https://github.com/mathiasbynens/dotfiles) | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS | mathiasbynens | 31446 |
+| 52 |  [OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. | kholia | 23516 |
 | 53 |  [git-extras](https://github.com/tj/git-extras) | GIT utilities -- repo summary, repl, changelog population, author commit percentages and more | tj | 18090 |
 
 **[⬆ Back to Index](#-contents)**
@@ -2281,7 +2281,7 @@
 ## Smalltalk
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [gtoolkit](https://github.com/feenkcom/gtoolkit) | Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools. | feenkcom | 1550 |
+| 1 |  [gtoolkit](https://github.com/feenkcom/gtoolkit) | Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools. | feenkcom | 1551 |
 | 2 |  [pharo](https://github.com/pharo-project/pharo) | Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk. | pharo-project | 1480 |
 
 **[⬆ Back to Index](#-contents)**
@@ -2289,16 +2289,16 @@
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Easydict](https://github.com/tisfeng/Easydict) | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. | tisfeng | 14142 |
-| 2 |  [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | jordanbaird | 29176 |
+| 1 |  [Easydict](https://github.com/tisfeng/Easydict) | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. | tisfeng | 14152 |
+| 2 |  [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | jordanbaird | 29186 |
 | 3 |  [Runestone](https://github.com/simonbs/Runestone) | 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more. | simonbs | 3193 |
 | 4 |  [vimac](https://github.com/nchudleigh/vimac) | Productive macOS keyboard-driven navigation | nchudleigh | 3680 |
-| 5 |  [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | utmapp | 34907 |
+| 5 |  [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | utmapp | 34922 |
 | 6 |  [macos-key-cast](https://github.com/karaggeorge/macos-key-cast) | Log keys pressed on macOS. Useful for screen recordings and presentations. | karaggeorge | 256 |
-| 7 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 45834 |
+| 7 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 45843 |
 | 8 |  [token-core-ios](https://github.com/consenlabs/token-core-ios) | a blockchain private key management library on iOS | consenlabs | 882 |
 | 9 |  [Money](https://github.com/Flight-School/Money) | A precise, type-safe representation of a monetary amount in a given currency | Flight-School | 907 |
-| 10 |  [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | Next Generation of ShadowsocksX | shadowsocks | 32893 |
+| 10 |  [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | Next Generation of ShadowsocksX | shadowsocks | 32890 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -2306,7 +2306,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) | Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source | hmemcpy | 11665 |
-| 2 |  [vimtex](https://github.com/lervag/vimtex) | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | lervag | 6333 |
+| 2 |  [vimtex](https://github.com/lervag/vimtex) | VimTeX: A modern Vim and neovim filetype plugin for LaTeX files. | lervag | 6334 |
 | 3 |  [erlang-in-anger](https://github.com/heroku/erlang-in-anger) | A little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang. | heroku | 176 |
 | 4 |  [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) | The most cited deep learning papers | terryum | 26173 |
 
@@ -2315,119 +2315,119 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile | getpaseo | 12479 |
-| 2 |  [openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | openclaw | 385386 |
-| 3 |  [yaak](https://github.com/mountain-loop/yaak) | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 | mountain-loop | 18953 |
-| 4 |  [readest](https://github.com/readest/readest) | Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. | readest | 23166 |
-| 5 |  [OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative | OpenCut-app | 81316 |
-| 6 |  [onlook](https://github.com/onlook-dev/onlook) | The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI | onlook-dev | 26429 |
-| 7 |  [LayaAir](https://github.com/layabox/LayaAir) | LayaAir is a fully platform rendering engine with rich 2D/3D rendering capabilities and a mature integrated development platform | layabox | 2107 |
+| 1 |  [paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile | getpaseo | 12638 |
+| 2 |  [openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | openclaw | 385467 |
+| 3 |  [yaak](https://github.com/mountain-loop/yaak) | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 | mountain-loop | 18956 |
+| 4 |  [readest](https://github.com/readest/readest) | Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. | readest | 23183 |
+| 5 |  [OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative | OpenCut-app | 81500 |
+| 6 |  [onlook](https://github.com/onlook-dev/onlook) | The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI | onlook-dev | 26434 |
+| 7 |  [LayaAir](https://github.com/layabox/LayaAir) | LayaAir is a fully platform rendering engine with rich 2D/3D rendering capabilities and a mature integrated development platform | layabox | 2106 |
 | 8 |  [solid](https://github.com/solidjs/solid) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | solidjs | 35813 |
-| 9 |  [context7](https://github.com/upstash/context7) | Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors | upstash | 60356 |
-| 10 |  [cline](https://github.com/cline/cline) | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | cline | 65778 |
-| 11 |  [scalar](https://github.com/scalar/scalar) | Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support | scalar | 15846 |
+| 9 |  [context7](https://github.com/upstash/context7) | Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors | upstash | 60396 |
+| 10 |  [cline](https://github.com/cline/cline) | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | cline | 65831 |
+| 11 |  [scalar](https://github.com/scalar/scalar) | Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support | scalar | 15863 |
 | 12 |  [openops](https://github.com/openops-cloud/openops) | The batteries-included, No-Code FinOps automation platform, with the AI you trust. | openops-cloud | 1058 |
 | 13 |  [rive-react-native](https://github.com/rive-app/rive-react-native) | Rive React Native | rive-app | 782 |
 | 14 |  [studio](https://github.com/outerbase/studio) | A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. | outerbase | 5946 |
-| 15 |  [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | Dokploy | 36375 |
-| 16 |  [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | BuilderIO | 22392 |
-| 17 |  [pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) | Fast drag and drop for any experience on any tech stack | atlassian | 12716 |
-| 18 |  [Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | RooCodeInc | 24355 |
-| 19 |  [plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. | makeplane | 55648 |
-| 20 |  [one](https://github.com/onejs/one) | ❶ One lets you target React web and React Native with a single Vite plugin. Everything you need to build great websites and apps with unified routing. | onejs | 4488 |
-| 21 |  [electric](https://github.com/electric-sql/electric) | The agent platform built on sync. | electric-sql | 10304 |
-| 22 |  [pglite](https://github.com/electric-sql/pglite) | Embeddable Postgres with real-time, reactive bindings. | electric-sql | 15721 |
-| 23 |  [jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | janhq | 43878 |
+| 15 |  [dokploy](https://github.com/Dokploy/dokploy) | Open Source Alternative to Vercel, Netlify and Heroku. | Dokploy | 36411 |
+| 16 |  [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | BuilderIO | 22394 |
+| 17 |  [pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) | Fast drag and drop for any experience on any tech stack | atlassian | 12718 |
+| 18 |  [Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | RooCodeInc | 24354 |
+| 19 |  [plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. | makeplane | 55687 |
+| 20 |  [one](https://github.com/onejs/one) | ❶ One lets you target React web and React Native with a single Vite plugin. Everything you need to build great websites and apps with unified routing. | onejs | 4489 |
+| 21 |  [electric](https://github.com/electric-sql/electric) | The agent platform built on sync. | electric-sql | 10303 |
+| 22 |  [pglite](https://github.com/electric-sql/pglite) | Embeddable Postgres with real-time, reactive bindings. | electric-sql | 15725 |
+| 23 |  [jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | janhq | 43893 |
 | 24 |  [rss-to-email](https://github.com/bdevos/rss-to-email) | Scheduled RSS to Email with Github Actions | bdevos | 30 |
-| 25 |  [formik](https://github.com/jaredpalmer/formik) | Build forms in React, without the tears 😭 | jaredpalmer | 34330 |
-| 26 |  [ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. | shadcn-ui | 120697 |
-| 27 |  [astro](https://github.com/withastro/astro) | The web framework for content-driven websites. ⭐️ Star to support our work! | withastro | 61599 |
+| 25 |  [formik](https://github.com/jaredpalmer/formik) | Build forms in React, without the tears 😭 | jaredpalmer | 34329 |
+| 26 |  [ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. | shadcn-ui | 120776 |
+| 27 |  [astro](https://github.com/withastro/astro) | The web framework for content-driven websites. ⭐️ Star to support our work! | withastro | 61624 |
 | 28 |  [logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) | A calendar, task manager and daily planner plugin for logseq | haydenull | 1001 |
-| 29 |  [nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) | :hammer_and_wrench: :heart: Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you&#39;ve come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ | ryan4yin | 3238 |
-| 30 |  [supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | supabase | 107640 |
-| 31 |  [zustand](https://github.com/pmndrs/zustand) | 🐻 Bear necessities for state management in React | pmndrs | 58531 |
-| 32 |  [hyperdx](https://github.com/hyperdxio/hyperdx) | Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry. | hyperdxio | 9799 |
+| 29 |  [nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) | :hammer_and_wrench: :heart: Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you&#39;ve come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ | ryan4yin | 3241 |
+| 30 |  [supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | supabase | 107662 |
+| 31 |  [zustand](https://github.com/pmndrs/zustand) | 🐻 Bear necessities for state management in React | pmndrs | 58535 |
+| 32 |  [hyperdx](https://github.com/hyperdxio/hyperdx) | Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry. | hyperdxio | 9805 |
 | 33 |  [setup-graalvm](https://github.com/graalvm/setup-graalvm) | Set up your GitHub Actions workflow with a specific GraalVM distribution. | graalvm | 216 |
 | 34 |  [openplayground](https://github.com/nat/openplayground) | An LLM playground you can run on your laptop | nat | 6352 |
 | 35 |  [docz](https://github.com/pedronauck/docz) | ✍ It has never been so easy to document your things! | pedronauck | 23587 |
 | 36 |  [bit](https://github.com/teambit/bit) | AI-powered development workspaces with reusable components, architectural clarity and zero overhead. | teambit | 18455 |
 | 37 |  [openblocks](https://github.com/openblocks-dev/openblocks) | 🔥 🔥 🔥 The Open Source Retool Alternative | openblocks-dev | 6236 |
-| 38 |  [headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. | tailwindlabs | 28700 |
-| 39 |  [remeda](https://github.com/remeda/remeda) | A utility library for JavaScript and TypeScript. | remeda | 5410 |
-| 40 |  [catppuccin](https://github.com/catppuccin/catppuccin) | 😸 Soothing pastel theme for the high-spirited! | catppuccin | 19594 |
-| 41 |  [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | toeverything | 71275 |
-| 42 |  [jupyter-book](https://github.com/jupyter-book/jupyter-book) | Create beautiful, publication-quality books and documents from computational content. | jupyter-book | 4268 |
-| 43 |  [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) | A Git extension for JupyterLab | jupyterlab | 1607 |
-| 44 |  [heroui](https://github.com/heroui-inc/heroui) | 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) | heroui-inc | 30316 |
-| 45 |  [xstate](https://github.com/statelyai/xstate) | State machines, statecharts, and actors for complex logic | statelyai | 29976 |
-| 46 |  [rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) | Container Management and Kubernetes on the Desktop | rancher-sandbox | 7274 |
-| 47 |  [sdow](https://github.com/jwngr/sdow) | Six Degrees of Wikipedia | jwngr | 1885 |
-| 48 |  [openvscode-server](https://github.com/gitpod-io/openvscode-server) | Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere. | gitpod-io | 6142 |
-| 49 |  [milkdown](https://github.com/Milkdown/milkdown) | 🍼 Plugin driven WYSIWYG  markdown editor framework. | Milkdown | 11785 |
+| 38 |  [headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. | tailwindlabs | 28701 |
+| 39 |  [remeda](https://github.com/remeda/remeda) | A utility library for JavaScript and TypeScript. | remeda | 5411 |
+| 40 |  [catppuccin](https://github.com/catppuccin/catppuccin) | 😸 Soothing pastel theme for the high-spirited! | catppuccin | 19602 |
+| 41 |  [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | toeverything | 71301 |
+| 42 |  [jupyter-book](https://github.com/jupyter-book/jupyter-book) | Create beautiful, publication-quality books and documents from computational content. | jupyter-book | 4269 |
+| 43 |  [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) | A Git extension for JupyterLab | jupyterlab | 1608 |
+| 44 |  [heroui](https://github.com/heroui-inc/heroui) | 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) | heroui-inc | 30321 |
+| 45 |  [xstate](https://github.com/statelyai/xstate) | State machines, statecharts, and actors for complex logic | statelyai | 29979 |
+| 46 |  [rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) | Container Management and Kubernetes on the Desktop | rancher-sandbox | 7275 |
+| 47 |  [sdow](https://github.com/jwngr/sdow) | Six Degrees of Wikipedia | jwngr | 1886 |
+| 48 |  [openvscode-server](https://github.com/gitpod-io/openvscode-server) | Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere. | gitpod-io | 6144 |
+| 49 |  [milkdown](https://github.com/Milkdown/milkdown) | 🍼 Plugin driven WYSIWYG  markdown editor framework. | Milkdown | 11793 |
 | 50 |  [vega-lite](https://github.com/vega/vega-lite) | A concise grammar of interactive graphics, built on Vega. | vega | 5439 |
-| 51 |  [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | slidevjs | 47991 |
+| 51 |  [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | slidevjs | 48004 |
 | 52 |  [elm-spa](https://github.com/ryan-haskell/elm-spa) | single page apps made easy | ryan-haskell | 464 |
 | 53 |  [React95](https://github.com/React95/React95) | A React components library with Win95 UI | React95 | 3803 |
-| 54 |  [focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | mattermost-community | 26372 |
+| 54 |  [focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | mattermost-community | 26374 |
 | 55 |  [tensorboard](https://github.com/tensorflow/tensorboard) | TensorFlow&#39;s Visualization Toolkit | tensorflow | 7199 |
 | 56 |  [github1s](https://github.com/conwnet/github1s) | One second to read GitHub code with VS Code. | conwnet | 23293 |
 | 57 |  [diagram-maker](https://github.com/awslabs/diagram-maker) | A library to display an interactive editor for any graph-like data. | awslabs | 2418 |
-| 58 |  [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. | microsoft | 94106 |
+| 58 |  [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. | microsoft | 94166 |
 | 59 |  [urql](https://github.com/urql-graphql/urql) | The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow. | urql-graphql | 8967 |
 | 60 |  [elm-debug-transformer](https://github.com/kraklin/elm-debug-transformer) | Transform Elm Debug.log output into nice log object with custom formatter | kraklin | 171 |
-| 61 |  [react-styleguidist](https://github.com/styleguidist/react-styleguidist) | Isolated React component development environment with a living style guide | styleguidist | 11080 |
-| 62 |  [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) | Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI. | bernaferrari | 5101 |
-| 63 |  [foam](https://github.com/foambubble/foam) | A personal knowledge management and sharing system for VSCode | foambubble | 17325 |
-| 64 |  [image-actions](https://github.com/calibreapp/image-actions) | A Github Action that automatically compresses JPEGs, PNGs, WebPs &amp; AVIFs in Pull Requests. | calibreapp | 1572 |
-| 65 |  [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | nilbuild | 363800 |
-| 66 |  [expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. | expo | 51394 |
-| 67 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 20193 |
-| 68 |  [vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls) | Elixir language support and debugger for VS Code, powered by ElixirLS. | elixir-lsp | 597 |
-| 69 |  [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem &amp; Cloud • Web, Desktop &amp; CLI • Open-Source Alternative to Postman, Insomnia | hoppscotch | 79985 |
-| 70 |  [markmap](https://github.com/markmap/markmap) | Build mindmaps with plain text | markmap | 13026 |
+| 61 |  [react-styleguidist](https://github.com/styleguidist/react-styleguidist) | Isolated React component development environment with a living style guide | styleguidist | 11079 |
+| 62 |  [FigmaToCode](https://github.com/bernaferrari/FigmaToCode) | Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI. | bernaferrari | 5103 |
+| 63 |  [foam](https://github.com/foambubble/foam) | A personal knowledge management and sharing system for VSCode | foambubble | 17327 |
+| 64 |  [image-actions](https://github.com/calibreapp/image-actions) | A Github Action that automatically compresses JPEGs, PNGs, WebPs &amp; AVIFs in Pull Requests. | calibreapp | 1573 |
+| 65 |  [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | nilbuild | 363866 |
+| 66 |  [expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. | expo | 51410 |
+| 67 |  [fluentui](https://github.com/microsoft/fluentui) | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | microsoft | 20192 |
+| 68 |  [vscode-elixir-ls](https://github.com/elixir-lsp/vscode-elixir-ls) | Elixir language support and debugger for VS Code, powered by ElixirLS. | elixir-lsp | 598 |
+| 69 |  [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem &amp; Cloud • Web, Desktop &amp; CLI • Open-Source Alternative to Postman, Insomnia | hoppscotch | 79992 |
+| 70 |  [markmap](https://github.com/markmap/markmap) | Build mindmaps with plain text | markmap | 13030 |
 | 71 |  [azuredatastudio](https://github.com/microsoft/azuredatastudio) | Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB. | microsoft | 7688 |
 | 72 |  [gistpad](https://github.com/lostintangent/gistpad) | 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists | lostintangent | 1059 |
 | 73 |  [maildev](https://github.com/maildev/maildev) | :mailbox: SMTP Server + Web Interface for viewing and testing emails during development. | maildev | 5978 |
-| 74 |  [pev2](https://github.com/dalibo/pev2) | Postgres Explain Visualizer 2 | dalibo | 3519 |
-| 75 |  [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | marktext | 59731 |
-| 76 |  [utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues | utterance | 9693 |
+| 74 |  [pev2](https://github.com/dalibo/pev2) | Postgres Explain Visualizer 2 | dalibo | 3520 |
+| 75 |  [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | marktext | 59772 |
+| 76 |  [utterances](https://github.com/utterance/utterances) | :crystal_ball: A lightweight comments widget built on GitHub issues | utterance | 9695 |
 | 77 |  [altair](https://github.com/altair-graphql/altair) | ✨⚡️ A feature-rich GraphQL Client for all platforms. | altair-graphql | 5426 |
 | 78 |  [graphql-playground](https://github.com/graphql/graphql-playground) | 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs &amp; collaboration) | graphql | 8831 |
-| 79 |  [docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | facebook | 65847 |
-| 80 |  [table](https://github.com/TanStack/table) | 🤖 Headless UI for building powerful tables &amp; datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table | TanStack | 28283 |
+| 79 |  [docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | facebook | 65857 |
+| 80 |  [table](https://github.com/TanStack/table) | 🤖 Headless UI for building powerful tables &amp; datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table | TanStack | 28286 |
 | 81 |  [craco](https://github.com/dilanx/craco) | Create React App Configuration Override, an easy and comprehensible configuration layer for Create React App. | dilanx | 7419 |
-| 82 |  [storybook](https://github.com/storybookjs/storybook) | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation | storybookjs | 90779 |
+| 82 |  [storybook](https://github.com/storybookjs/storybook) | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation | storybookjs | 90783 |
 | 83 |  [purgecss](https://github.com/FullHuman/purgecss) | Remove unused CSS | FullHuman | 8045 |
-| 84 |  [brotli](https://github.com/google/brotli) | Brotli compression format | google | 14834 |
+| 84 |  [brotli](https://github.com/google/brotli) | Brotli compression format | google | 14836 |
 | 85 |  [styled-components](https://github.com/styled-components/styled-components) | Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API. | styled-components | 41133 |
-| 86 |  [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | tailwindlabs | 97036 |
+| 86 |  [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | tailwindlabs | 97074 |
 | 87 |  [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) | ianstormtaylor | 31739 |
 | 88 |  [bokeh](https://github.com/bokeh/bokeh) | Interactive Data Visualization in the browser, from  Python | bokeh | 20425 |
 | 89 |  [insomnia](https://github.com/Kong/insomnia) | The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. | Kong | 39937 |
 | 90 |  [date-fns](https://github.com/date-fns/date-fns) | ⏳ Modern JavaScript date utility library ⌛️ | date-fns | 36620 |
-| 91 |  [quirk](https://github.com/Flaque/quirk) | ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool | Flaque | 2270 |
+| 91 |  [quirk](https://github.com/Flaque/quirk) | ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool | Flaque | 2271 |
 | 92 |  [firenvim](https://github.com/glacambre/firenvim) | Embed Neovim in Chrome, Firefox &amp; others. | glacambre | 6095 |
-| 93 |  [react-mosaic](https://github.com/nomcopter/react-mosaic) | A React tiling window manager | nomcopter | 4798 |
+| 93 |  [react-mosaic](https://github.com/nomcopter/react-mosaic) | A React tiling window manager | nomcopter | 4797 |
 | 94 |  [plottable](https://github.com/palantir/plottable) | :bar_chart: A library of modular chart components built on D3 | palantir | 3110 |
-| 95 |  [redoc](https://github.com/Redocly/redoc) | 📘  OpenAPI/Swagger-generated API Reference Documentation | Redocly | 25851 |
-| 96 |  [graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events. | hasura | 32079 |
+| 95 |  [redoc](https://github.com/Redocly/redoc) | 📘  OpenAPI/Swagger-generated API Reference Documentation | Redocly | 25854 |
+| 96 |  [graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events. | hasura | 32081 |
 | 97 |  [geeks-diary](https://github.com/seokju-na/geeks-diary) | TIL writing tool for programmer | seokju-na | 692 |
-| 98 |  [rrweb](https://github.com/rrweb-io/rrweb) | record and replay the web | rrweb-io | 20000 |
+| 98 |  [rrweb](https://github.com/rrweb-io/rrweb) | record and replay the web | rrweb-io | 20007 |
 | 99 |  [dinatra](https://github.com/syumai/dinatra) | Sinatra like light weight web app framework for deno. | syumai | 415 |
-| 100 |  [devhub](https://github.com/devhubapp/devhub) | TweetDeck for GitHub - Filter Issues, Activities &amp; Notifications - Web, Mobile &amp; Desktop with 99% code sharing between them | devhubapp | 10115 |
+| 100 |  [devhub](https://github.com/devhubapp/devhub) | TweetDeck for GitHub - Filter Issues, Activities &amp; Notifications - Web, Mobile &amp; Desktop with 99% code sharing between them | devhubapp | 10116 |
 | 101 |  [ts-node](https://github.com/TypeStrong/ts-node) | TypeScript execution and REPL for node.js | TypeStrong | 13133 |
-| 102 |  [coc.nvim](https://github.com/neoclide/coc.nvim) | Nodejs extension host for vim &amp; neovim, load extensions like VSCode and host language servers. | neoclide | 25167 |
+| 102 |  [coc.nvim](https://github.com/neoclide/coc.nvim) | Nodejs extension host for vim &amp; neovim, load extensions like VSCode and host language servers. | neoclide | 25168 |
 | 103 |  [ring-ui](https://github.com/JetBrains/ring-ui) | A collection of JetBrains Web UI components | JetBrains | 3785 |
-| 104 |  [blueprint](https://github.com/palantir/blueprint) | A React-based UI toolkit for the web | palantir | 21977 |
-| 105 |  [theia](https://github.com/eclipse-theia/theia) | Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. | eclipse-theia | 21618 |
+| 104 |  [blueprint](https://github.com/palantir/blueprint) | A React-based UI toolkit for the web | palantir | 21980 |
+| 105 |  [theia](https://github.com/eclipse-theia/theia) | Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. | eclipse-theia | 21621 |
 | 106 |  [graphiql](https://github.com/graphql/graphiql) | GraphiQL &amp; the GraphQL LSP Reference Ecosystem for building browser &amp; IDE tools. | graphql | 16893 |
-| 107 |  [Kap](https://github.com/wulkano/Kap) | An open-source screen recorder built with web technology | wulkano | 19312 |
-| 108 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | Curated coding interview preparation materials for busy software engineers | yangshun | 141641 |
-| 109 |  [oni](https://github.com/onivim/oni) | Oni: Modern Modal Editing - powered by Neovim | onivim | 11250 |
-| 110 |  [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for Chrome and Firefox | puppeteer | 95416 |
-| 111 |  [chromeless](https://github.com/schickling/chromeless) | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. | schickling | 13229 |
-| 112 |  [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. | grafana | 76136 |
-| 113 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn math, programming, and computer science for free. | freeCodeCamp | 453604 |
+| 107 |  [Kap](https://github.com/wulkano/Kap) | An open-source screen recorder built with web technology | wulkano | 19313 |
+| 108 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | Curated coding interview preparation materials for busy software engineers | yangshun | 141676 |
+| 109 |  [oni](https://github.com/onivim/oni) | Oni: Modern Modal Editing - powered by Neovim | onivim | 11251 |
+| 110 |  [puppeteer](https://github.com/puppeteer/puppeteer) | JavaScript API for Chrome and Firefox | puppeteer | 95418 |
+| 111 |  [chromeless](https://github.com/schickling/chromeless) | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. | schickling | 13228 |
+| 112 |  [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. | grafana | 76153 |
+| 113 |  [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn math, programming, and computer science for free. | freeCodeCamp | 453647 |
 | 114 |  [highcharts](https://github.com/highcharts/highcharts) | Highcharts JS, the JavaScript charting framework | highcharts | 12473 |
 
 **[⬆ Back to Index](#-contents)**
@@ -2444,8 +2444,8 @@
 | 7 |  [codi.vim](https://github.com/metakirby5/codi.vim) | :notebook_with_decorative_cover: The interactive scratchpad for hackers. | metakirby5 | 3060 |
 | 8 |  [vim-code-dark](https://github.com/tomasiser/vim-code-dark) | Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code | tomasiser | 1002 |
 | 9 |  [onedark.vim](https://github.com/joshdick/onedark.vim) | A dark Vim/Neovim color scheme inspired by Atom&#39;s One Dark syntax theme. | joshdick | 3996 |
-| 10 |  [vim-plug](https://github.com/junegunn/vim-plug) | :hibiscus: Minimalist Vim Plugin Manager | junegunn | 35742 |
-| 11 |  [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | neovim | 101665 |
+| 10 |  [vim-plug](https://github.com/junegunn/vim-plug) | :hibiscus: Minimalist Vim Plugin Manager | junegunn | 35740 |
+| 11 |  [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | neovim | 101684 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -2456,16 +2456,16 @@
 | 2 |  [vim-one](https://github.com/rakr/vim-one) | Adaptation of one-light and one-dark colorschemes for Vim | rakr | 2026 |
 | 3 |  [nerdtree-dash](https://github.com/liuchengxu/nerdtree-dash) | Extra syntax highlight for nerdtree and vim-devicons | liuchengxu | 13 |
 | 4 |  [vim-colorschemes](https://github.com/flazz/vim-colorschemes) | one colorscheme pack to rule them all! | flazz | 3458 |
-| 5 |  [vim-galore](https://github.com/mhinz/vim-galore) | :mortar_board: All things Vim! | mhinz | 17934 |
+| 5 |  [vim-galore](https://github.com/mhinz/vim-galore) | :mortar_board: All things Vim! | mhinz | 17938 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. | CorentinTh | 40106 |
-| 2 |  [automa](https://github.com/AutomaApp/automa) | A browser extension for automating your browser by connecting blocks | AutomaApp | 21540 |
-| 3 |  [maizzle](https://github.com/maizzle/maizzle) | The modern email development framework. | maizzle | 2841 |
+| 1 |  [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. | CorentinTh | 40123 |
+| 2 |  [automa](https://github.com/AutomaApp/automa) | A browser extension for automating your browser by connecting blocks | AutomaApp | 21542 |
+| 3 |  [maizzle](https://github.com/maizzle/maizzle) | The modern email development framework. | maizzle | 2842 |
 | 4 |  [massCode](https://github.com/antonreshetov/massCode) | This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers. | antonreshetov | 2017 |
 
 **[⬆ Back to Index](#-contents)**
@@ -2475,9 +2475,9 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [Sustenet](https://github.com/Quaint-Studios/Sustenet) | Sustenet is a networking solution built with Rust and Zig, formerly C#, for game engines like Unity3D, Godot, and Unreal Engine. The primary focus is on scaling by allowing multiple servers to work together. | Quaint-Studios | 43 |
 | 2 |  [mach](https://github.com/hexops/mach) | zig game engine &amp; graphics toolkit - mirror of https://code.hexops.com/hexops/mach | hexops | 4808 |
-| 3 |  [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance. | tigerbeetle | 16741 |
-| 4 |  [ghostty](https://github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | ghostty-org | 59292 |
-| 5 |  [zig](https://github.com/ziglang/zig) | Moved to Codeberg | ziglang | 43345 |
+| 3 |  [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The financial transactions database designed for mission critical safety and performance. | tigerbeetle | 16748 |
+| 4 |  [ghostty](https://github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | ghostty-org | 59331 |
+| 5 |  [zig](https://github.com/ziglang/zig) | Moved to Codeberg | ziglang | 43342 |
 | 6 |  [zigfsm](https://github.com/cryptocode/zigfsm) | A finite state machine library for Zig | cryptocode | 193 |
 
 **[⬆ Back to Index](#-contents)**
